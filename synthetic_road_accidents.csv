@@ -1,0 +1,3001 @@
+day_crash,hour_crash,road_type,road_condition,weather_condition,visibility,type_vehicle,gender,age,outcome
+1,Night,Asphalt,Dry,Clear,1,car,male,33.14735660700035,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,41.61730050147861,1
+6,Day,Asphalt,Dry,Clear,4,bus,male,41.259730197892274,0
+1,Day,Soil,Dry,Unclear,1,car,female,47.49437522903938,0
+4,Day,Asphalt,Dry,Unclear,3,car,female,30.207376087681432,0
+7,Night,Asphalt,Dry,Clear,1,bus,female,18.0,0
+5,Dawn,Soil,Dry,Clear,2,car,female,25.243071944334325,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,39.24570546126089,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,female,33.235819320519376,0
+6,Night,Asphalt,Dry,Unclear,1,car,male,21.00266547861939,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,45.79365514602828,0
+4,Day,Asphalt,Dry,Clear,1,car,male,32.76609554881555,0
+3,Night,Soil,Dry,Clear,2,car,male,58.18901374890903,0
+3,Night,Soil,Wet or Damaged,Clear,1,car,male,38.33843915750605,0
+1,Day,Asphalt,Dry,Clear,1,car,female,19.843874314758654,0
+6,Day,Soil,Wet or Damaged,Clear,1,motorcycle,male,53.0048927623436,0
+7,Day,Soil,Dry,Clear,1,car,male,22.313086248796974,0
+3,Day,Soil,Dry,Unclear,4,bus,female,54.78753125302049,1
+1,Day,Soil,Wet or Damaged,Clear,1,car,male,33.66649696329274,0
+2,Day,Asphalt,Dry,Clear,3,motorcycle,male,37.7680625917663,0
+1,Night,Asphalt,Dry,Clear,3,car,female,42.224221670690035,0
+5,Day,Asphalt,Dry,Clear,1,car,male,24.426164155650582,0
+1,Day,Asphalt,Dry,Clear,3,car,female,30.748233239032942,0
+7,Day,Asphalt,Dry,Clear,3,car,male,27.750713191327492,0
+2,Night,Asphalt,Dry,Clear,4,bus,male,36.420759942458346,1
+5,Day,Soil,Dry,Unclear,2,bus,male,58.755056117277235,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,22.130002758715023,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,53.88658423275609,0
+6,Day,Asphalt,Wet or Damaged,Clear,3,car,female,25.687446048819226,0
+4,Night,Soil,Dry,Clear,4,car,male,22.511930325561167,0
+4,Day,Soil,Wet or Damaged,Clear,1,car,male,18.0,0
+3,Dawn,Asphalt,Dry,Unclear,1,truck,male,39.0182872439237,0
+4,Dawn,Asphalt,Dry,Clear,1,bus,male,37.53756226868262,0
+2,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,18.878664705583994,1
+4,Night,Asphalt,Wet or Damaged,Unclear,3,bus,male,18.0,1
+1,Day,Asphalt,Wet or Damaged,Clear,1,bus,female,33.972570428934546,0
+2,Day,Asphalt,Dry,Clear,2,bus,female,39.03268269261959,0
+7,Day,Soil,Wet or Damaged,Unclear,1,car,female,40.3580731589795,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,32.017574322132795,0
+3,Day,Asphalt,Dry,Clear,1,car,female,22.82308169292857,0
+4,Day,Asphalt,Dry,Clear,4,car,male,38.009334400749474,0
+1,Dawn,Asphalt,Dry,Clear,1,truck,male,33.9827171651346,0
+6,Night,Asphalt,Dry,Clear,1,car,male,47.86623213143477,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,25.74159945329953,0
+7,Night,Soil,Dry,Clear,3,bus,male,32.14411629403109,1
+6,Day,Asphalt,Dry,Clear,2,car,female,54.39733306437657,0
+7,Day,Asphalt,Dry,Unclear,3,car,female,25.192721436674574,0
+4,Day,Asphalt,Dry,Clear,1,car,female,42.30067522602102,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,20.230479190523987,0
+7,Dawn,Soil,Wet or Damaged,Clear,3,car,female,39.90634416598556,0
+7,Day,Soil,Wet or Damaged,Clear,1,car,male,46.38899148497032,0
+5,Night,Asphalt,Dry,Clear,1,car,male,58.05479715909236,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,18.0,0
+7,Dawn,Asphalt,Dry,Clear,1,bus,male,41.05445251718965,0
+2,Day,Asphalt,Dry,Clear,1,car,male,24.7107033992015,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,31.271523215257762,0
+3,Day,Asphalt,Dry,Clear,4,car,male,47.27780513346933,0
+7,Dawn,Asphalt,Dry,Clear,2,car,male,41.7135040252047,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,48.841474467758786,0
+1,Day,Asphalt,Dry,Clear,1,car,male,24.620225721119418,0
+5,Day,Asphalt,Dry,Clear,2,bus,female,46.010734571348664,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,41.11379952992202,0
+1,Day,Asphalt,Dry,Clear,1,car,male,25.176188417316308,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,car,male,48.38687437782332,0
+1,Day,Asphalt,Dry,Clear,2,motorcycle,male,38.63942404796273,0
+5,Day,Soil,Dry,Clear,4,truck,male,44.11606504066819,0
+6,Night,Asphalt,Dry,Clear,1,bus,female,32.06737716204881,0
+5,Day,Asphalt,Dry,Clear,3,car,female,39.7887822475328,0
+6,Day,Soil,Dry,Clear,1,car,male,25.116455842697924,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,25.903372629394404,0
+2,Day,Asphalt,Dry,Unclear,1,motorcycle,male,28.355583020450645,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,31.271303702560935,1
+1,Day,Soil,Dry,Clear,3,truck,male,41.31391268541201,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,28.601462557594196,0
+1,Night,Asphalt,Dry,Clear,1,car,male,37.32561410255052,0
+4,Night,Soil,Dry,Clear,2,bus,male,58.224144375763125,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,44.6071623564735,0
+6,Day,Soil,Wet or Damaged,Clear,1,car,male,33.49886258810595,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,33.22963140155925,0
+1,Night,Asphalt,Wet or Damaged,Clear,3,bus,male,48.57725293962428,1
+1,Night,Asphalt,Dry,Clear,2,car,male,28.47414461238339,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,48.264016274371116,0
+3,Day,Asphalt,Dry,Clear,3,truck,male,32.75522039993041,0
+4,Night,Asphalt,Dry,Clear,3,car,male,28.374999831039723,0
+6,Night,Asphalt,Dry,Clear,1,car,male,33.753044791721216,0
+4,Night,Asphalt,Dry,Clear,1,truck,male,51.82985352929112,0
+4,Day,Asphalt,Dry,Clear,3,motorcycle,female,29.77031176839254,0
+4,Night,Soil,Dry,Clear,1,bus,male,42.52479009284942,0
+3,Dawn,Asphalt,Dry,Clear,1,bus,male,37.49094506052252,0
+1,Day,Asphalt,Dry,Clear,1,bus,male,35.27098190142475,0
+4,Day,Asphalt,Dry,Clear,1,truck,female,46.32461287052939,0
+4,Day,Asphalt,Dry,Clear,1,truck,female,53.41094063506727,0
+1,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,32.47027929572898,0
+3,Night,Asphalt,Wet or Damaged,Unclear,4,car,male,30.826010478337217,1
+6,Day,Asphalt,Dry,Clear,1,car,male,34.381960154640005,0
+3,Day,Asphalt,Dry,Clear,1,car,female,28.430780374020486,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,49.90520138049026,0
+6,Day,Asphalt,Dry,Clear,4,truck,male,43.04779824741635,0
+3,Day,Asphalt,Dry,Clear,1,car,female,18.0,0
+5,Night,Asphalt,Dry,Unclear,1,truck,male,20.52938316033011,0
+6,Night,Asphalt,Dry,Clear,1,truck,male,35.26501588576922,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,36.85099475823003,0
+2,Night,Soil,Dry,Clear,1,bus,male,21.142821801920416,0
+7,Day,Asphalt,Dry,Clear,2,truck,male,31.140570229075173,0
+1,Day,Asphalt,Dry,Clear,3,car,male,25.023736379178708,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,male,38.375922559380484,0
+6,Night,Soil,Dry,Clear,1,motorcycle,male,51.75362366934293,0
+7,Day,Asphalt,Dry,Clear,4,truck,female,25.63678296846502,0
+1,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,33.566238309311096,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,41.06720523330491,0
+2,Day,Asphalt,Dry,Clear,1,truck,female,32.06439761980049,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,35.03480749856919,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,48.48567706090174,1
+6,Day,Asphalt,Dry,Clear,1,car,male,24.35446132646312,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,46.71559643918214,0
+6,Day,Asphalt,Dry,Unclear,3,bus,female,47.9250744111088,1
+7,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,18.15162257836076,0
+1,Night,Soil,Wet or Damaged,Clear,1,truck,male,30.567887045888273,0
+7,Night,Asphalt,Dry,Clear,2,car,female,38.01183642296889,0
+6,Day,Soil,Wet or Damaged,Clear,3,motorcycle,male,32.73657076604805,1
+3,Day,Asphalt,Dry,Unclear,2,truck,male,42.07179817875088,0
+3,Dawn,Asphalt,Dry,Clear,1,bus,female,50.729320549917055,0
+1,Day,Soil,Dry,Clear,1,motorcycle,male,31.30926408181331,0
+5,Day,Asphalt,Dry,Clear,1,car,male,21.971948819432033,0
+3,Day,Asphalt,Dry,Clear,1,car,male,34.378522925143734,0
+7,Night,Soil,Dry,Clear,1,motorcycle,male,46.236249829410426,0
+4,Day,Asphalt,Dry,Clear,3,motorcycle,male,32.7936002131008,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,truck,male,42.368651723491155,0
+2,Day,Asphalt,Dry,Clear,2,bus,female,47.6030562526029,0
+3,Night,Asphalt,Dry,Clear,2,bus,female,35.28040760702715,0
+6,Day,Soil,Dry,Clear,1,car,male,32.50265268229543,0
+2,Night,Asphalt,Dry,Clear,1,car,male,40.023457538649076,0
+4,Day,Asphalt,Dry,Clear,3,car,female,21.146470144048944,0
+4,Day,Asphalt,Dry,Clear,2,truck,male,37.74136727729442,0
+6,Day,Asphalt,Dry,Clear,1,car,female,32.43773289811603,0
+7,Day,Soil,Wet or Damaged,Clear,3,truck,female,24.390629898188845,0
+6,Day,Asphalt,Dry,Clear,2,bus,female,43.17956991490837,0
+2,Night,Asphalt,Dry,Clear,1,car,female,58.87228904735122,0
+1,Day,Asphalt,Dry,Clear,1,car,male,49.0887325570589,0
+2,Day,Asphalt,Dry,Unclear,1,truck,male,35.3010962587035,0
+7,Day,Asphalt,Dry,Clear,1,car,male,28.72147345220825,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,30.773635239387552,0
+3,Dawn,Asphalt,Dry,Clear,1,car,male,50.729200013225324,0
+2,Day,Asphalt,Wet or Damaged,Unclear,3,car,male,46.27373983616701,1
+4,Night,Asphalt,Dry,Clear,1,car,male,31.065989718063467,0
+3,Day,Asphalt,Dry,Clear,1,car,male,43.6658571965225,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,female,25.481346411016162,0
+7,Day,Soil,Dry,Clear,1,car,male,22.22585160302455,0
+6,Night,Asphalt,Dry,Clear,1,car,male,32.962189594951695,0
+5,Dawn,Asphalt,Dry,Unclear,3,car,male,44.495023156073,0
+1,Dawn,Asphalt,Dry,Clear,2,car,male,45.23008749401641,0
+4,Day,Asphalt,Dry,Clear,1,car,male,40.81065390822839,0
+7,Day,Asphalt,Dry,Clear,1,car,male,38.69050939832998,0
+6,Day,Soil,Dry,Clear,1,car,male,30.017967822037598,0
+4,Night,Asphalt,Dry,Unclear,1,truck,male,48.34934069211036,0
+2,Night,Asphalt,Dry,Clear,1,truck,female,18.0,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,bus,female,46.379615725498184,1
+6,Day,Asphalt,Dry,Unclear,1,truck,male,27.31717429260795,0
+2,Day,Soil,Wet or Damaged,Clear,1,car,male,43.423760669164395,0
+5,Night,Asphalt,Wet or Damaged,Clear,3,truck,male,29.902269963836325,1
+2,Day,Soil,Wet or Damaged,Clear,2,car,male,46.27623685891701,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,49.24501854534337,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,26.89578928425092,0
+5,Night,Asphalt,Dry,Clear,1,car,female,35.72301182676371,0
+6,Night,Asphalt,Dry,Clear,3,car,male,33.93021062829208,0
+5,Day,Soil,Dry,Clear,2,bus,male,27.911137356986846,0
+4,Day,Asphalt,Dry,Clear,1,car,male,40.087408915190224,0
+6,Night,Asphalt,Dry,Clear,3,car,male,30.213870511070454,0
+7,Night,Asphalt,Dry,Unclear,1,car,male,39.71060701418296,0
+2,Day,Soil,Dry,Clear,1,motorcycle,male,32.20218964275597,0
+5,Night,Asphalt,Dry,Clear,1,motorcycle,male,47.69716208814482,0
+2,Day,Asphalt,Wet or Damaged,Unclear,1,bus,male,18.0,1
+6,Day,Asphalt,Dry,Unclear,1,car,male,41.009387078203886,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,18.0,1
+4,Day,Asphalt,Dry,Clear,3,car,male,23.20056674188351,0
+6,Day,Soil,Wet or Damaged,Clear,1,truck,male,28.94637296418221,0
+7,Day,Asphalt,Dry,Clear,2,car,male,42.66074981119396,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,34.39675476473483,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,43.84576170751125,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,36.543672190190435,0
+6,Day,Asphalt,Dry,Clear,3,car,male,24.57486851098181,0
+1,Day,Soil,Dry,Unclear,3,car,female,37.1923558275776,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,car,male,63.62773831029539,0
+7,Day,Asphalt,Dry,Clear,3,bus,male,45.09046891639475,0
+3,Day,Asphalt,Dry,Clear,4,motorcycle,male,30.110361487364674,0
+7,Dawn,Asphalt,Dry,Clear,1,car,female,40.337731500661945,0
+3,Day,Asphalt,Dry,Unclear,4,truck,male,36.461417343115684,0
+1,Night,Soil,Dry,Clear,2,car,male,18.0,0
+4,Night,Asphalt,Dry,Clear,1,bus,male,29.81826243372542,0
+4,Day,Asphalt,Dry,Clear,2,truck,male,48.829869397401076,0
+3,Night,Asphalt,Dry,Clear,1,car,male,41.259821371741936,0
+1,Day,Asphalt,Wet or Damaged,Unclear,1,truck,male,31.489828120274808,0
+5,Night,Soil,Wet or Damaged,Clear,2,bus,male,18.0,1
+6,Day,Asphalt,Wet or Damaged,Clear,1,bus,female,24.713421766238124,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,motorcycle,male,44.49659279946604,0
+6,Dawn,Asphalt,Dry,Clear,2,car,female,45.05447873894468,0
+1,Day,Asphalt,Wet or Damaged,Clear,4,car,male,40.857548425510736,0
+6,Dawn,Asphalt,Dry,Clear,1,bus,male,63.93726696848689,0
+3,Night,Asphalt,Dry,Clear,2,bus,male,41.98518086255466,0
+5,Night,Asphalt,Dry,Clear,1,bus,male,29.53587000303591,0
+2,Day,Asphalt,Dry,Clear,2,motorcycle,male,45.22802819689118,0
+2,Day,Soil,Dry,Clear,1,car,male,28.125668323142673,0
+5,Day,Asphalt,Dry,Clear,4,car,male,33.063417253229495,0
+4,Night,Soil,Dry,Clear,2,car,male,35.62594007015113,0
+5,Day,Asphalt,Dry,Unclear,2,car,male,26.07967996042266,0
+3,Day,Asphalt,Dry,Clear,3,bus,female,18.0,0
+2,Day,Asphalt,Dry,Clear,1,car,male,43.647126714516254,0
+4,Dawn,Soil,Wet or Damaged,Clear,2,truck,male,34.60857937126235,0
+2,Night,Asphalt,Dry,Clear,1,car,male,21.65835097145956,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,4,car,male,28.97699483140368,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,female,18.85629917495742,0
+1,Day,Asphalt,Dry,Unclear,1,car,male,23.551305554318187,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,30.99430652095255,0
+7,Night,Soil,Dry,Unclear,2,car,female,20.946826173815236,0
+4,Day,Soil,Dry,Clear,3,car,female,46.33638156461241,0
+5,Day,Asphalt,Dry,Clear,1,bus,female,48.507369824856596,0
+1,Day,Soil,Wet or Damaged,Clear,2,car,male,23.825091112080546,0
+1,Day,Asphalt,Dry,Clear,4,car,male,23.039107375014286,0
+3,Night,Soil,Wet or Damaged,Unclear,1,bus,male,42.4613903588844,1
+7,Night,Asphalt,Dry,Clear,2,bus,male,41.62859939299325,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,51.83200515146484,0
+7,Day,Soil,Dry,Clear,1,car,male,26.72621927811865,0
+5,Day,Asphalt,Dry,Clear,3,bus,male,29.504110319418874,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,31.936914488570498,0
+7,Day,Asphalt,Dry,Clear,1,car,male,51.69909929711248,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,38.91671383482692,0
+2,Night,Soil,Dry,Clear,1,car,male,61.30384857204234,0
+4,Day,Soil,Dry,Clear,3,car,male,33.613924269875966,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,49.96893095166065,0
+6,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,41.914339982254,1
+1,Night,Soil,Dry,Clear,1,car,male,35.0583162505233,0
+7,Day,Asphalt,Dry,Clear,3,car,male,28.534720834210653,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,26.333560626542894,0
+7,Day,Asphalt,Dry,Clear,1,truck,female,43.39812181254472,0
+3,Day,Soil,Dry,Clear,3,bus,female,23.381965033653216,0
+4,Night,Asphalt,Dry,Clear,1,car,female,40.17718903657878,0
+6,Night,Asphalt,Dry,Clear,3,car,male,38.15899848755663,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,42.40471902045295,0
+1,Night,Asphalt,Dry,Clear,2,car,male,29.01286939690104,0
+4,Night,Asphalt,Dry,Clear,2,truck,male,42.90783190134305,0
+5,Night,Asphalt,Dry,Unclear,1,car,male,27.520744802598166,0
+4,Day,Asphalt,Dry,Clear,2,car,male,36.281748806477935,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,51.80123676458942,0
+6,Day,Soil,Dry,Clear,2,car,female,42.80662178476165,0
+7,Dawn,Soil,Dry,Clear,1,car,female,36.55855450121546,0
+5,Night,Asphalt,Dry,Clear,1,car,male,33.2024969025172,0
+2,Day,Asphalt,Dry,Clear,2,car,male,41.12521199323239,0
+2,Night,Asphalt,Dry,Clear,1,car,female,45.501924401587615,0
+4,Day,Asphalt,Dry,Unclear,1,car,male,40.14693818053555,0
+1,Night,Asphalt,Wet or Damaged,Unclear,2,truck,male,27.60915020612344,1
+1,Day,Asphalt,Dry,Clear,2,motorcycle,male,21.821071591258143,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,bus,male,18.0,1
+5,Day,Asphalt,Dry,Clear,3,motorcycle,female,31.703120376322786,0
+4,Day,Soil,Dry,Clear,2,car,male,18.885409335015126,0
+3,Night,Asphalt,Dry,Clear,2,truck,male,49.54280928626329,0
+4,Day,Asphalt,Dry,Clear,2,truck,male,49.11512410787576,0
+5,Day,Asphalt,Dry,Unclear,1,truck,male,30.11105097606511,0
+6,Night,Asphalt,Dry,Clear,2,car,male,25.871807762225146,0
+4,Day,Asphalt,Dry,Unclear,1,car,male,47.62689693132701,0
+1,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,66.63994533763118,0
+3,Day,Soil,Dry,Clear,1,car,male,18.0,0
+7,Night,Asphalt,Dry,Clear,3,car,female,47.73104668264881,0
+3,Night,Asphalt,Dry,Clear,2,car,male,22.90274350709604,0
+6,Day,Soil,Wet or Damaged,Clear,1,car,male,26.420510021014557,0
+4,Night,Soil,Dry,Clear,1,motorcycle,male,52.293061564828896,0
+6,Dawn,Soil,Wet or Damaged,Clear,2,car,male,18.0,0
+4,Day,Asphalt,Dry,Clear,1,car,male,33.36511526855504,0
+4,Day,Soil,Wet or Damaged,Clear,1,truck,male,33.63957566896246,0
+2,Night,Asphalt,Wet or Damaged,Clear,4,car,male,44.32429970693207,1
+1,Day,Asphalt,Dry,Clear,3,car,female,29.8516933764771,0
+6,Night,Soil,Dry,Clear,1,car,female,21.694553195737036,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,female,31.229632664517716,0
+5,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+5,Night,Asphalt,Dry,Clear,1,motorcycle,female,29.535998132164814,0
+6,Dawn,Asphalt,Dry,Clear,2,car,male,29.02336736205818,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,male,18.0,0
+5,Night,Soil,Wet or Damaged,Clear,1,motorcycle,male,26.99496895837042,1
+1,Night,Asphalt,Dry,Clear,2,car,male,27.47867999103457,0
+7,Day,Soil,Dry,Clear,1,car,male,32.37409728382906,0
+4,Day,Soil,Dry,Clear,1,motorcycle,male,28.64367397058039,0
+6,Day,Soil,Dry,Unclear,1,bus,male,37.79818341177151,0
+4,Night,Asphalt,Dry,Unclear,1,car,female,48.242540810294884,0
+7,Day,Soil,Dry,Unclear,2,bus,male,29.93570727130094,0
+6,Day,Asphalt,Dry,Clear,1,car,male,30.157109742257795,0
+6,Day,Asphalt,Dry,Clear,1,car,male,28.90466566494272,0
+5,Night,Asphalt,Dry,Clear,1,bus,male,49.606891010389575,0
+6,Night,Asphalt,Dry,Clear,3,car,male,55.767524473340785,0
+2,Day,Asphalt,Dry,Clear,1,car,female,31.61016514911775,0
+4,Night,Asphalt,Dry,Clear,1,truck,male,39.753982292338165,0
+1,Day,Soil,Wet or Damaged,Clear,1,car,male,18.0,0
+3,Day,Asphalt,Dry,Clear,2,motorcycle,female,18.0,0
+5,Day,Soil,Dry,Clear,1,truck,male,18.0,0
+6,Night,Asphalt,Dry,Clear,3,bus,male,33.77412228442353,1
+1,Night,Asphalt,Dry,Clear,1,car,male,34.38071861101634,0
+3,Day,Asphalt,Dry,Clear,2,car,male,32.583969401376024,0
+7,Day,Asphalt,Wet or Damaged,Unclear,3,car,male,24.046555124096557,1
+5,Night,Asphalt,Dry,Unclear,2,bus,male,30.036775877893696,1
+1,Day,Asphalt,Dry,Unclear,1,car,female,45.351767413343126,0
+1,Day,Soil,Dry,Clear,1,car,male,29.65122788103951,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,36.059427780057746,0
+2,Day,Asphalt,Dry,Clear,2,bus,female,45.446156762665694,0
+3,Day,Asphalt,Dry,Clear,4,car,male,21.597352714641104,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,18.330887550192642,0
+1,Day,Asphalt,Dry,Clear,2,motorcycle,male,23.254424880759156,0
+4,Day,Asphalt,Dry,Clear,1,car,male,34.03547089696837,0
+4,Night,Asphalt,Dry,Clear,2,car,female,44.40024017385506,0
+2,Night,Asphalt,Dry,Unclear,1,bus,female,30.062855562711942,1
+3,Night,Asphalt,Dry,Clear,1,motorcycle,female,32.22017014235082,0
+7,Night,Soil,Dry,Clear,1,car,female,42.789655856547306,0
+7,Night,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+3,Dawn,Soil,Dry,Clear,2,truck,male,47.415252250348324,0
+6,Day,Asphalt,Dry,Clear,1,truck,female,42.37752599134214,0
+3,Day,Soil,Dry,Clear,1,car,male,37.61847167633347,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,bus,male,24.884977815027867,1
+2,Day,Asphalt,Dry,Clear,3,motorcycle,male,18.0,0
+7,Day,Asphalt,Dry,Clear,3,truck,male,31.21674141030932,0
+4,Day,Asphalt,Dry,Clear,2,bus,female,44.50995364837363,0
+4,Night,Soil,Dry,Clear,4,car,male,39.55688780410378,0
+2,Day,Asphalt,Dry,Clear,3,car,male,18.0,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,55.18183438100941,0
+3,Night,Asphalt,Dry,Clear,1,car,male,37.02028321134975,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,35.555550474322715,1
+3,Day,Asphalt,Dry,Clear,2,car,female,46.93003518276717,0
+2,Day,Soil,Dry,Clear,1,bus,female,51.00469256789282,0
+7,Night,Asphalt,Dry,Clear,1,motorcycle,male,25.198704317453924,0
+4,Day,Asphalt,Wet or Damaged,Clear,3,motorcycle,female,28.871304604207715,1
+2,Day,Asphalt,Dry,Clear,3,car,male,18.0,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+5,Night,Asphalt,Wet or Damaged,Clear,3,car,male,18.83359406175113,1
+6,Day,Asphalt,Dry,Clear,2,truck,male,18.482787767405867,0
+7,Day,Asphalt,Dry,Clear,3,car,female,30.051274535919998,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,46.170823639549525,0
+7,Day,Asphalt,Dry,Clear,3,truck,female,30.472105809557856,0
+4,Day,Asphalt,Dry,Clear,2,truck,female,23.79303730826905,0
+7,Dawn,Soil,Dry,Clear,2,car,male,36.91452287643736,0
+4,Night,Asphalt,Wet or Damaged,Unclear,1,car,female,26.179237033966295,1
+5,Day,Asphalt,Dry,Clear,2,car,male,37.36845730929234,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,31.02291799237292,0
+7,Dawn,Asphalt,Wet or Damaged,Clear,1,truck,male,42.666796730091264,0
+4,Day,Asphalt,Dry,Clear,2,motorcycle,male,48.74962521874119,0
+6,Day,Asphalt,Dry,Clear,2,car,female,67.63894571200942,0
+5,Day,Asphalt,Dry,Clear,4,car,female,37.83203637536477,0
+2,Night,Asphalt,Dry,Clear,1,truck,male,29.011198777224315,0
+6,Day,Asphalt,Dry,Clear,1,car,female,39.50330705826483,0
+3,Night,Soil,Dry,Clear,1,car,male,40.632677994634214,0
+2,Day,Asphalt,Dry,Clear,2,motorcycle,female,37.31111805271918,0
+7,Day,Soil,Dry,Unclear,1,car,male,25.78556232797274,0
+1,Night,Soil,Dry,Clear,1,car,male,55.110861720334114,0
+3,Day,Soil,Dry,Clear,1,truck,male,47.57064534001892,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,30.801326912820336,0
+4,Day,Asphalt,Dry,Clear,1,car,female,31.8833977512176,0
+6,Dawn,Asphalt,Dry,Clear,1,car,male,33.419088311632194,0
+5,Day,Asphalt,Dry,Clear,1,car,male,23.920722604204315,0
+1,Day,Asphalt,Dry,Clear,2,motorcycle,female,24.07779918421759,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,female,18.0,0
+2,Night,Soil,Wet or Damaged,Clear,1,bus,male,42.66609803288714,1
+4,Night,Asphalt,Dry,Clear,1,truck,male,35.17334922447978,0
+7,Day,Asphalt,Dry,Clear,3,car,male,44.166357807770424,0
+4,Night,Asphalt,Dry,Clear,1,bus,female,40.959566704401794,0
+3,Dawn,Asphalt,Dry,Clear,1,car,male,41.60471009274935,0
+3,Day,Asphalt,Dry,Clear,1,car,female,51.43412170889938,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,49.36033739353303,0
+4,Night,Asphalt,Dry,Clear,1,car,female,21.737340732357964,0
+1,Night,Asphalt,Dry,Clear,1,car,female,30.024160066413874,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,51.77990252852135,0
+2,Dawn,Soil,Dry,Unclear,1,truck,female,44.77004318364782,0
+1,Night,Soil,Dry,Unclear,3,car,male,29.78683327091019,1
+6,Day,Asphalt,Dry,Unclear,1,truck,male,57.165715942353295,0
+5,Dawn,Asphalt,Wet or Damaged,Clear,3,car,male,47.0998868366086,0
+4,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,22.59936230603465,1
+1,Night,Soil,Wet or Damaged,Clear,4,truck,female,42.40066828295619,1
+4,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,28.887112269909345,1
+7,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,43.09614489000408,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,29.77935545540753,0
+6,Night,Asphalt,Dry,Clear,1,bus,male,22.055143131337843,0
+4,Day,Asphalt,Dry,Clear,2,truck,female,52.69229874674224,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,36.58358667922286,0
+2,Day,Asphalt,Dry,Clear,4,bus,male,51.17446477631175,0
+7,Dawn,Asphalt,Dry,Clear,1,car,female,18.0,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,38.79715745584384,0
+4,Day,Soil,Dry,Clear,1,motorcycle,male,37.002442590205774,0
+3,Dawn,Asphalt,Dry,Clear,1,car,female,31.065812632151072,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,19.022084882330923,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,19.765994990154113,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,female,46.64832817968986,0
+2,Day,Soil,Dry,Clear,1,truck,male,19.07016475434718,0
+5,Night,Asphalt,Dry,Clear,2,bus,male,31.75476423529778,0
+3,Night,Soil,Dry,Clear,4,car,male,27.258383663768488,0
+5,Day,Asphalt,Dry,Clear,3,bus,male,43.96565825346177,0
+5,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,42.944341227154595,0
+6,Day,Asphalt,Dry,Clear,3,car,female,31.07817988472219,0
+1,Night,Asphalt,Dry,Clear,3,car,female,27.44468970572715,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,female,20.433225546496292,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,18.0,0
+7,Night,Asphalt,Dry,Unclear,1,bus,female,65.50118419845055,1
+5,Day,Asphalt,Dry,Clear,1,motorcycle,female,58.67577884684109,0
+4,Day,Asphalt,Dry,Clear,1,car,male,39.63747055688175,0
+6,Night,Asphalt,Dry,Clear,1,motorcycle,female,35.54987739221185,0
+1,Day,Asphalt,Dry,Unclear,1,motorcycle,male,22.781353141753733,0
+2,Dawn,Soil,Dry,Clear,2,motorcycle,male,53.77189207657771,0
+7,Night,Asphalt,Dry,Clear,1,bus,female,40.767923168061984,0
+5,Dawn,Asphalt,Dry,Unclear,2,motorcycle,male,54.19213895301798,0
+5,Dawn,Asphalt,Dry,Clear,1,truck,male,36.243674153965436,0
+6,Day,Soil,Wet or Damaged,Clear,2,car,male,33.34970131578454,0
+2,Dawn,Soil,Wet or Damaged,Clear,1,truck,male,47.39270268802975,0
+5,Night,Asphalt,Dry,Clear,2,car,male,30.196932424558014,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,57.16687321845186,0
+4,Day,Soil,Dry,Clear,3,car,female,18.0,0
+5,Day,Asphalt,Dry,Clear,1,truck,female,26.552074251528772,0
+5,Day,Asphalt,Wet or Damaged,Clear,4,motorcycle,male,57.752998922621614,1
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,29.79817660672132,0
+3,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,56.518900567906265,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,42.03296588375818,0
+5,Night,Asphalt,Dry,Clear,1,truck,male,18.0,0
+7,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,39.287334965160866,0
+2,Dawn,Asphalt,Wet or Damaged,Clear,1,car,female,36.242496935737435,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,18.0,0
+5,Day,Asphalt,Dry,Clear,2,car,male,30.058307760964034,0
+1,Day,Asphalt,Dry,Clear,1,bus,female,45.24716213968209,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,40.77724354336276,0
+1,Day,Soil,Wet or Damaged,Clear,1,car,female,51.14218869548061,0
+5,Night,Soil,Wet or Damaged,Clear,1,truck,male,48.914726601282865,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,36.73743787437734,0
+1,Day,Asphalt,Dry,Clear,2,car,male,42.566673602034555,0
+1,Day,Soil,Dry,Clear,3,car,male,38.32155727214032,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,26.35599763606573,0
+1,Day,Soil,Dry,Clear,1,car,male,49.096308499423074,0
+5,Day,Soil,Dry,Clear,4,motorcycle,male,45.382662740870146,0
+4,Day,Asphalt,Dry,Clear,2,car,female,41.27789142094041,0
+6,Day,Asphalt,Dry,Unclear,4,bus,male,21.380790791653343,1
+5,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+7,Day,Asphalt,Dry,Clear,1,car,female,35.099781262737615,0
+2,Dawn,Asphalt,Wet or Damaged,Unclear,3,motorcycle,male,35.142666973058525,1
+5,Night,Soil,Wet or Damaged,Clear,1,car,male,59.87529796791104,0
+4,Night,Asphalt,Wet or Damaged,Unclear,1,car,female,47.328503134140895,1
+6,Night,Asphalt,Dry,Clear,3,car,female,50.182468299774285,0
+5,Day,Asphalt,Dry,Clear,1,truck,female,44.03250219438136,0
+1,Day,Asphalt,Dry,Clear,2,motorcycle,male,43.78838368165168,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,44.793894726317276,0
+2,Day,Asphalt,Dry,Clear,1,car,male,41.827340221795225,0
+4,Dawn,Asphalt,Dry,Clear,3,car,male,29.080291578510924,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,30.549934287503255,0
+7,Night,Asphalt,Dry,Clear,3,car,male,32.284922366242725,0
+6,Day,Asphalt,Dry,Clear,1,car,female,18.0,0
+2,Night,Asphalt,Dry,Unclear,1,bus,female,21.172392407810523,1
+6,Day,Asphalt,Wet or Damaged,Unclear,1,truck,female,31.147060095018126,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,49.00707395187832,0
+5,Night,Asphalt,Dry,Clear,4,car,female,42.57102121771679,0
+2,Day,Asphalt,Dry,Clear,1,car,male,25.67523556364721,0
+7,Day,Soil,Dry,Unclear,1,car,female,54.088594362273895,0
+6,Day,Asphalt,Dry,Clear,1,bus,female,41.407522658707876,0
+5,Day,Asphalt,Dry,Clear,1,car,male,36.07051078929221,0
+2,Day,Asphalt,Wet or Damaged,Unclear,1,bus,male,46.33032175295675,1
+6,Night,Soil,Dry,Clear,2,truck,male,32.23876383661593,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,truck,male,25.05103444592242,0
+1,Day,Asphalt,Dry,Unclear,1,car,male,43.26219723412663,0
+7,Night,Soil,Dry,Unclear,1,car,male,29.3088498849338,0
+4,Dawn,Asphalt,Dry,Unclear,2,truck,male,18.135961770052425,0
+1,Day,Soil,Dry,Clear,2,motorcycle,female,44.421188376211575,0
+1,Night,Asphalt,Dry,Clear,3,motorcycle,male,26.905213285503585,1
+6,Day,Soil,Dry,Clear,2,motorcycle,male,28.053357021722675,0
+7,Day,Asphalt,Dry,Clear,1,car,female,45.578103052207396,0
+4,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,34.49073611594359,0
+1,Day,Asphalt,Wet or Damaged,Clear,3,car,male,33.60488331048103,0
+3,Day,Asphalt,Wet or Damaged,Clear,4,car,male,24.368320415619362,0
+6,Day,Asphalt,Wet or Damaged,Clear,3,car,female,35.67298875566042,0
+5,Day,Asphalt,Dry,Clear,1,car,female,20.710199439403997,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,motorcycle,male,52.34242074131423,0
+4,Day,Asphalt,Dry,Clear,2,car,female,39.19187377430472,0
+3,Night,Soil,Dry,Clear,1,car,male,23.4264176790444,0
+3,Night,Asphalt,Dry,Clear,1,car,male,34.988717825646575,0
+3,Day,Soil,Dry,Unclear,1,motorcycle,male,33.06644624928254,0
+5,Day,Asphalt,Dry,Clear,1,car,female,27.140603554356424,0
+6,Day,Asphalt,Dry,Clear,1,car,male,46.95286806942758,0
+1,Day,Asphalt,Dry,Clear,1,car,male,36.48434834107533,0
+1,Dawn,Asphalt,Dry,Clear,1,car,female,30.879219453847675,0
+2,Dawn,Asphalt,Dry,Clear,2,truck,male,44.56119550992423,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,51.38852313064828,0
+4,Dawn,Asphalt,Dry,Clear,1,car,male,40.67353999723344,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,motorcycle,female,21.43352416182645,1
+6,Day,Asphalt,Dry,Unclear,1,car,male,33.0978439463607,0
+1,Day,Asphalt,Dry,Clear,1,car,male,39.91099343264311,0
+4,Night,Asphalt,Dry,Clear,1,truck,male,31.466620610563655,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,28.886843292159686,0
+3,Day,Soil,Dry,Clear,1,truck,female,37.715035281793405,0
+5,Day,Asphalt,Dry,Clear,1,car,male,23.64568636808599,0
+4,Night,Soil,Wet or Damaged,Clear,1,bus,male,37.16676649025602,1
+5,Day,Asphalt,Dry,Clear,1,truck,male,28.756147959701202,0
+2,Night,Asphalt,Dry,Clear,4,truck,male,26.945196322153194,0
+6,Day,Asphalt,Dry,Clear,3,car,male,18.0,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,male,23.519530292047587,0
+1,Day,Asphalt,Dry,Clear,2,truck,male,48.069909735221266,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,male,20.02685222033646,0
+1,Day,Soil,Dry,Clear,1,car,female,47.92860100139943,0
+5,Day,Soil,Dry,Clear,1,car,female,27.18979638322247,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,female,26.165260133929625,0
+5,Night,Asphalt,Dry,Clear,1,car,female,65.62576520700568,0
+6,Night,Asphalt,Dry,Clear,1,motorcycle,female,33.81025488937341,0
+4,Dawn,Soil,Dry,Clear,1,truck,male,29.770497127936576,0
+2,Day,Asphalt,Dry,Clear,1,car,male,19.439497157766727,0
+5,Day,Asphalt,Dry,Unclear,2,truck,female,42.64786997252619,0
+2,Night,Soil,Dry,Clear,1,bus,male,18.0,0
+2,Night,Asphalt,Dry,Clear,1,car,male,31.28189658512689,0
+2,Day,Soil,Dry,Clear,2,truck,female,56.65984069688205,0
+3,Day,Asphalt,Wet or Damaged,Clear,3,car,female,53.10818452188839,0
+7,Day,Soil,Dry,Clear,1,truck,female,22.711935152742022,0
+5,Day,Asphalt,Dry,Clear,2,car,female,18.0,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,23.208283455199133,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,44.423685645375144,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,25.189960401269396,0
+4,Day,Soil,Dry,Clear,1,truck,male,20.612753833204476,0
+1,Day,Asphalt,Dry,Clear,3,car,female,36.74945498225337,0
+4,Night,Asphalt,Dry,Clear,2,car,male,38.938598462654,0
+6,Day,Soil,Dry,Clear,2,motorcycle,male,43.299664460454416,0
+4,Day,Asphalt,Wet or Damaged,Clear,2,car,female,40.36192748439767,0
+6,Day,Soil,Dry,Clear,1,truck,female,18.0,0
+3,Day,Asphalt,Dry,Unclear,3,car,male,31.248972681199096,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,18.0,0
+5,Night,Asphalt,Dry,Clear,1,bus,male,22.365111050371482,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,34.7703622185811,0
+6,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+4,Dawn,Asphalt,Dry,Clear,1,bus,male,34.78634671674759,0
+5,Night,Asphalt,Dry,Unclear,1,bus,male,26.73409763598707,1
+2,Day,Asphalt,Dry,Clear,1,car,male,45.64821840525405,0
+1,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Day,Asphalt,Dry,Clear,1,car,female,39.19539633614328,0
+3,Night,Asphalt,Dry,Clear,2,car,male,38.078258875980964,0
+3,Day,Soil,Dry,Unclear,1,motorcycle,male,47.56068022715551,0
+6,Night,Asphalt,Dry,Clear,1,truck,female,18.0,0
+6,Night,Asphalt,Dry,Clear,1,motorcycle,male,43.264119260084165,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,44.95974618654781,0
+3,Dawn,Soil,Wet or Damaged,Clear,1,car,male,44.35476420627201,0
+5,Night,Asphalt,Dry,Clear,3,car,female,23.89228897697451,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,33.00211345268388,0
+1,Night,Asphalt,Dry,Clear,1,car,female,36.103537307102236,0
+2,Night,Asphalt,Dry,Clear,1,bus,female,46.9122620975116,0
+4,Day,Soil,Dry,Clear,1,motorcycle,male,59.1553205571797,0
+5,Night,Asphalt,Wet or Damaged,Clear,2,car,male,26.884905719496523,0
+2,Dawn,Soil,Dry,Clear,1,car,female,24.645425372604727,0
+6,Night,Asphalt,Dry,Clear,1,truck,male,21.976145668955404,0
+5,Dawn,Asphalt,Wet or Damaged,Clear,3,bus,male,38.365185320737375,1
+4,Day,Soil,Dry,Clear,1,car,female,33.321979562074304,0
+7,Night,Soil,Wet or Damaged,Clear,1,bus,female,33.46734271739186,1
+5,Day,Asphalt,Dry,Clear,1,bus,male,30.51382645810159,0
+3,Day,Soil,Dry,Clear,1,truck,male,54.82274552576899,0
+7,Day,Asphalt,Dry,Clear,3,truck,male,40.36904009846825,0
+1,Day,Asphalt,Dry,Unclear,1,truck,male,46.14698568626308,0
+5,Night,Soil,Dry,Clear,2,car,male,51.076523647542516,0
+5,Dawn,Soil,Dry,Clear,2,bus,male,59.41122285361364,0
+2,Night,Asphalt,Dry,Clear,2,car,male,27.3453585018811,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,32.21949411421489,0
+4,Dawn,Asphalt,Dry,Clear,3,truck,male,48.34878779915172,0
+2,Day,Asphalt,Dry,Clear,3,car,male,29.545758144389563,0
+6,Day,Soil,Dry,Unclear,2,car,male,44.78369371718722,0
+1,Day,Asphalt,Dry,Clear,2,truck,male,49.590767130492424,0
+7,Day,Asphalt,Dry,Clear,1,car,male,53.78053057456873,0
+5,Night,Soil,Dry,Clear,1,car,male,18.0,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,50.256203085905746,0
+6,Night,Soil,Wet or Damaged,Unclear,1,truck,female,52.215725083608945,1
+7,Day,Asphalt,Dry,Clear,2,car,male,36.258216088647586,0
+5,Day,Soil,Dry,Clear,1,truck,male,28.218771076421813,0
+2,Night,Soil,Dry,Clear,2,car,male,22.62112470267371,0
+1,Dawn,Asphalt,Dry,Clear,2,truck,female,30.149168869084285,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,44.56339986608306,0
+7,Night,Soil,Dry,Clear,3,car,male,33.38587180472814,0
+5,Day,Asphalt,Dry,Unclear,1,motorcycle,male,26.358083185831305,0
+1,Night,Asphalt,Dry,Clear,1,truck,female,35.55427873321438,0
+5,Day,Asphalt,Dry,Unclear,4,bus,male,39.47135217291335,1
+3,Day,Asphalt,Wet or Damaged,Clear,2,motorcycle,male,36.8169908944543,0
+6,Night,Soil,Dry,Clear,1,car,male,67.3445376711367,0
+3,Day,Soil,Dry,Clear,1,car,female,44.64072272644485,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,male,22.35739788163454,0
+7,Day,Asphalt,Wet or Damaged,Clear,3,bus,male,42.05766499520538,1
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,41.27351759944842,0
+3,Day,Asphalt,Dry,Clear,2,car,male,36.02808106118385,0
+7,Day,Asphalt,Dry,Clear,3,car,male,39.41468601951491,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,29.06138918070675,0
+3,Night,Asphalt,Dry,Clear,1,car,male,38.285875163198085,0
+1,Night,Asphalt,Dry,Unclear,3,truck,female,18.0,1
+1,Night,Asphalt,Dry,Unclear,1,car,male,22.64899156252409,0
+1,Day,Asphalt,Dry,Clear,1,car,male,28.422526764960796,0
+1,Day,Soil,Dry,Clear,1,car,female,41.75062264196555,0
+7,Day,Soil,Dry,Clear,1,car,male,34.53454780265968,0
+4,Night,Asphalt,Wet or Damaged,Unclear,2,car,male,18.0,1
+3,Night,Asphalt,Dry,Clear,1,car,male,48.86555391423269,0
+4,Day,Asphalt,Dry,Clear,3,car,male,36.057321935762815,0
+1,Day,Asphalt,Dry,Clear,1,bus,male,43.652785981149336,0
+5,Night,Asphalt,Dry,Clear,1,car,male,41.43464950008333,0
+3,Day,Asphalt,Dry,Clear,2,car,male,33.28734552910955,0
+3,Day,Soil,Dry,Clear,1,car,male,42.94819401730558,0
+1,Dawn,Soil,Dry,Unclear,1,car,male,25.21112993763757,0
+5,Day,Asphalt,Dry,Clear,3,motorcycle,male,27.565830088087083,0
+4,Day,Soil,Dry,Clear,2,truck,female,29.457629381962647,0
+1,Day,Asphalt,Dry,Clear,2,car,male,26.96270269197798,0
+3,Day,Asphalt,Dry,Clear,2,truck,female,41.16272345732783,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,21.51782335464326,0
+4,Day,Asphalt,Dry,Unclear,1,car,male,22.764033500578975,0
+5,Day,Asphalt,Dry,Clear,1,car,female,49.94269150719612,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,30.728214832070073,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,32.521809514708806,0
+5,Night,Asphalt,Dry,Clear,1,motorcycle,male,44.77079137488566,0
+3,Night,Soil,Dry,Clear,1,car,male,56.23953045691615,0
+5,Day,Asphalt,Dry,Clear,2,bus,male,39.89573053902272,0
+3,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,46.71441464822204,0
+1,Night,Asphalt,Dry,Clear,1,bus,female,33.19293326314075,0
+7,Night,Asphalt,Dry,Clear,1,car,male,39.92449200257349,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,51.83969101925586,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,45.96200854021091,0
+1,Day,Asphalt,Dry,Clear,1,car,female,36.449212530494215,0
+3,Day,Asphalt,Dry,Clear,3,motorcycle,male,27.22204559253322,0
+6,Night,Soil,Dry,Clear,4,motorcycle,male,47.83706721459015,1
+6,Day,Asphalt,Dry,Clear,1,bus,male,43.099070413314486,0
+1,Day,Asphalt,Dry,Clear,2,car,male,24.255997097879575,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,46.81678596592785,0
+1,Day,Asphalt,Dry,Clear,3,truck,male,51.1321890011108,0
+7,Day,Asphalt,Dry,Clear,4,car,male,43.129349444865994,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,38.574407049324,0
+7,Day,Asphalt,Dry,Clear,4,car,female,46.19717744845468,0
+5,Day,Asphalt,Dry,Clear,1,truck,female,50.483647232715995,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,31.636584704246843,0
+1,Night,Asphalt,Dry,Clear,3,truck,male,34.605268082626836,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,55.34778335396865,0
+7,Dawn,Asphalt,Dry,Clear,4,car,male,42.13278371625289,0
+1,Night,Asphalt,Dry,Clear,1,bus,female,42.79561229037241,0
+7,Dawn,Asphalt,Dry,Clear,1,car,male,47.16689137070165,0
+7,Night,Soil,Dry,Clear,3,truck,male,32.402554031693214,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,male,55.33317112281469,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,male,39.153791738600574,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,56.84700688212095,0
+3,Day,Asphalt,Dry,Clear,2,motorcycle,female,26.603992780580448,0
+1,Day,Soil,Wet or Damaged,Clear,3,truck,female,24.579193106978483,0
+1,Night,Asphalt,Dry,Clear,3,motorcycle,female,49.3690839442689,1
+4,Day,Asphalt,Dry,Clear,1,car,male,19.982340153166767,0
+1,Day,Soil,Dry,Clear,1,car,female,18.0,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,car,male,36.18079675726483,0
+5,Day,Soil,Dry,Clear,3,truck,male,32.17038267095786,0
+6,Day,Soil,Dry,Clear,1,car,male,29.272833732762244,0
+7,Night,Soil,Dry,Clear,2,car,male,41.28248563634893,0
+6,Day,Soil,Dry,Clear,1,bus,female,18.0,0
+7,Day,Asphalt,Dry,Clear,1,car,male,30.147604574439097,0
+3,Day,Asphalt,Dry,Clear,2,car,female,27.61502902868287,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,49.49784292157712,0
+4,Day,Asphalt,Dry,Clear,3,motorcycle,male,40.201351616966605,0
+7,Night,Soil,Dry,Clear,1,motorcycle,male,26.607238736215294,0
+2,Day,Asphalt,Dry,Clear,3,truck,male,27.292553418144102,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,30.552564827578696,0
+6,Night,Asphalt,Dry,Clear,1,car,male,30.79629912371971,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,29.998615361481765,0
+6,Day,Asphalt,Dry,Unclear,1,car,male,33.78594737259898,0
+3,Day,Soil,Wet or Damaged,Clear,1,bus,male,22.013291010718397,0
+6,Day,Soil,Dry,Clear,3,car,male,43.11575655579602,0
+4,Day,Asphalt,Dry,Clear,1,car,male,43.3724973756462,0
+2,Night,Asphalt,Dry,Clear,1,car,female,19.140325148171264,0
+3,Dawn,Asphalt,Dry,Clear,1,car,male,25.661457675292336,0
+7,Night,Asphalt,Dry,Unclear,1,car,male,20.18479060993669,0
+6,Day,Soil,Dry,Clear,1,car,male,18.0,0
+1,Night,Asphalt,Dry,Clear,1,bus,male,44.44173798769599,0
+3,Night,Asphalt,Dry,Clear,3,car,female,40.4213490794564,0
+6,Day,Asphalt,Wet or Damaged,Clear,4,bus,female,18.0,1
+5,Day,Asphalt,Dry,Clear,1,car,female,49.22848729468666,0
+5,Day,Asphalt,Dry,Clear,1,car,female,37.37632127426478,0
+4,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,41.148751604887366,0
+4,Day,Soil,Dry,Unclear,1,truck,male,48.15609216929526,0
+4,Day,Asphalt,Dry,Unclear,3,car,female,29.546798248766617,0
+4,Day,Soil,Dry,Clear,2,car,male,42.499507658418935,0
+1,Day,Soil,Dry,Clear,1,car,female,55.628786034924374,0
+2,Day,Asphalt,Dry,Unclear,1,car,male,36.715539800083555,0
+4,Day,Asphalt,Wet or Damaged,Clear,4,car,male,18.0,0
+6,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,48.41436576280131,1
+6,Day,Asphalt,Dry,Clear,1,truck,male,25.46755400154759,0
+2,Dawn,Asphalt,Dry,Clear,2,car,male,34.02140136601236,0
+5,Night,Asphalt,Wet or Damaged,Clear,3,car,male,19.483988081880316,1
+4,Day,Asphalt,Dry,Clear,2,car,male,49.541428773821025,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,female,53.49314107252445,0
+6,Dawn,Soil,Dry,Clear,1,truck,male,34.72126500764052,0
+5,Day,Soil,Wet or Damaged,Clear,1,car,male,20.598885338867984,0
+7,Day,Asphalt,Dry,Clear,1,truck,female,36.33380334018567,0
+4,Day,Soil,Dry,Clear,1,car,male,22.665029386097608,0
+2,Day,Asphalt,Dry,Clear,1,car,male,43.88945591926316,0
+7,Night,Asphalt,Wet or Damaged,Clear,2,car,male,54.50544610126727,0
+7,Day,Asphalt,Dry,Clear,2,car,female,55.95343857737186,0
+2,Night,Asphalt,Dry,Unclear,2,car,female,30.03053995981612,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,female,59.8799672104645,0
+5,Day,Asphalt,Dry,Clear,1,car,female,36.35418091321996,0
+5,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+6,Night,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+4,Day,Asphalt,Dry,Clear,1,car,male,28.834916589329772,0
+5,Night,Soil,Dry,Clear,1,truck,female,26.524652907484196,0
+5,Night,Soil,Dry,Clear,2,car,female,44.23624092274415,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,25.823465182426624,0
+2,Day,Asphalt,Dry,Clear,1,car,male,33.12508510794702,0
+1,Night,Soil,Dry,Clear,1,car,female,30.29944701059681,0
+7,Day,Asphalt,Dry,Unclear,1,truck,male,43.15951459275443,0
+4,Night,Soil,Dry,Clear,1,truck,male,24.236895295463864,0
+6,Night,Soil,Dry,Unclear,1,motorcycle,male,38.96896790240284,1
+4,Day,Soil,Dry,Unclear,2,car,female,28.9538280493066,0
+5,Night,Asphalt,Dry,Clear,3,car,female,66.67185501333765,0
+4,Day,Asphalt,Dry,Clear,3,truck,male,29.17282962953347,0
+6,Night,Asphalt,Dry,Clear,1,bus,male,39.84904453793188,0
+5,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,20.61126580659696,0
+6,Day,Soil,Dry,Clear,1,car,female,46.14318225256294,0
+1,Day,Asphalt,Dry,Clear,4,car,male,30.412167856292427,0
+7,Day,Asphalt,Dry,Clear,3,truck,male,52.09025372099278,0
+3,Night,Asphalt,Dry,Clear,1,bus,male,39.04860177668682,0
+7,Night,Asphalt,Dry,Unclear,1,motorcycle,female,36.65923999998953,1
+5,Dawn,Asphalt,Wet or Damaged,Clear,1,car,female,23.12414942288071,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,37.513589974096156,0
+7,Day,Soil,Dry,Clear,3,bus,male,32.00653023821578,0
+3,Day,Soil,Dry,Clear,1,car,male,31.28408385614488,0
+4,Day,Asphalt,Dry,Clear,1,car,female,31.19967999530872,0
+3,Night,Asphalt,Wet or Damaged,Unclear,1,car,female,30.96575108664629,1
+2,Day,Asphalt,Dry,Unclear,1,bus,male,18.0,0
+5,Day,Soil,Dry,Unclear,1,bus,male,41.429972205939706,0
+2,Night,Asphalt,Dry,Clear,1,car,female,47.122542524940286,0
+4,Day,Soil,Dry,Clear,2,motorcycle,male,31.339103685617793,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,female,36.43055169169614,0
+2,Day,Asphalt,Dry,Clear,3,bus,male,40.55857160379388,0
+1,Day,Asphalt,Wet or Damaged,Unclear,3,motorcycle,male,37.30619390041808,1
+5,Day,Asphalt,Dry,Clear,1,bus,female,20.209043067460335,0
+7,Dawn,Asphalt,Dry,Unclear,3,truck,male,25.07376570654652,0
+4,Dawn,Asphalt,Dry,Clear,2,truck,female,39.442798020159486,0
+7,Night,Asphalt,Dry,Clear,1,motorcycle,male,34.28668811414493,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,31.357243089599397,0
+4,Day,Soil,Wet or Damaged,Clear,1,car,male,46.34010681248506,0
+1,Day,Asphalt,Wet or Damaged,Unclear,2,truck,male,45.40178895356766,0
+1,Night,Asphalt,Dry,Clear,1,car,male,41.748117604020926,0
+2,Day,Asphalt,Dry,Clear,4,car,male,40.095875040230545,0
+5,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+2,Night,Asphalt,Dry,Clear,1,car,male,38.99408745865435,0
+5,Dawn,Soil,Dry,Clear,4,car,male,40.17666042707981,0
+1,Night,Asphalt,Dry,Unclear,1,car,male,37.966634267127304,0
+5,Day,Asphalt,Dry,Clear,3,car,male,30.24035057445044,0
+4,Night,Asphalt,Dry,Clear,1,car,male,36.333754987133354,0
+1,Day,Asphalt,Dry,Clear,3,car,female,33.02428060946301,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,64.48140526428948,0
+5,Night,Asphalt,Dry,Clear,1,car,male,43.65473830409208,0
+6,Day,Asphalt,Dry,Clear,1,car,male,36.948790421068736,0
+6,Day,Asphalt,Dry,Unclear,1,car,female,21.689815227154746,0
+1,Night,Soil,Dry,Clear,3,motorcycle,male,23.630672037125336,1
+4,Day,Asphalt,Dry,Unclear,3,truck,male,26.62194405830606,0
+3,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,39.296197469865014,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,41.738800818478694,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,26.967898502302603,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,car,male,18.0,0
+5,Day,Asphalt,Dry,Clear,1,car,male,48.52965708811189,0
+1,Dawn,Asphalt,Dry,Clear,4,car,male,18.0,0
+3,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,25.96484660465712,1
+3,Night,Asphalt,Dry,Clear,3,motorcycle,female,45.65933229986366,1
+2,Night,Soil,Dry,Clear,1,car,male,27.633859149548506,0
+5,Night,Asphalt,Dry,Clear,3,car,male,32.52959862355549,0
+1,Night,Soil,Wet or Damaged,Clear,1,bus,female,50.046299834172935,1
+1,Dawn,Asphalt,Dry,Unclear,1,motorcycle,male,24.593292699105742,0
+5,Night,Asphalt,Wet or Damaged,Unclear,1,truck,male,41.44324511404316,1
+4,Night,Asphalt,Dry,Clear,1,motorcycle,male,23.5158280407923,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,25.65737327859933,0
+7,Day,Asphalt,Dry,Unclear,1,car,female,28.766137820526986,0
+4,Day,Asphalt,Dry,Clear,3,bus,male,45.62767192637909,0
+7,Day,Asphalt,Dry,Clear,1,car,female,26.083233284458082,0
+2,Day,Asphalt,Wet or Damaged,Clear,3,car,male,30.505238775552506,0
+5,Day,Asphalt,Dry,Unclear,1,car,male,18.442975985414872,0
+4,Day,Asphalt,Dry,Clear,2,car,female,44.30927177426047,0
+6,Day,Asphalt,Dry,Clear,3,bus,male,42.03997291310478,0
+1,Day,Soil,Dry,Unclear,1,truck,female,29.806066820379733,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,18.0,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,35.49366246514757,0
+3,Day,Asphalt,Dry,Clear,1,car,male,23.769716383344747,0
+3,Day,Asphalt,Dry,Clear,1,car,male,37.28350734790543,0
+4,Day,Asphalt,Dry,Clear,1,car,female,43.02656672362379,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,car,male,38.18517987319821,0
+7,Day,Asphalt,Dry,Clear,3,car,male,26.701664056679718,0
+7,Night,Soil,Wet or Damaged,Clear,1,car,female,34.05293710245753,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,34.297645131481616,1
+2,Day,Asphalt,Dry,Clear,1,motorcycle,female,38.91225391499124,0
+4,Day,Asphalt,Dry,Unclear,2,truck,male,43.09117816854977,0
+6,Night,Asphalt,Dry,Clear,1,car,male,33.95543011900661,0
+4,Night,Asphalt,Wet or Damaged,Clear,4,car,male,18.0,1
+1,Night,Asphalt,Dry,Clear,1,bus,female,32.43694850514063,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,49.1851849359834,0
+2,Day,Soil,Dry,Clear,1,bus,male,18.06978930494995,0
+4,Day,Asphalt,Dry,Clear,2,car,female,28.439957339128405,0
+1,Day,Asphalt,Dry,Unclear,3,car,male,38.82688750144624,0
+5,Dawn,Soil,Dry,Unclear,1,motorcycle,male,41.60434927078285,0
+4,Day,Asphalt,Dry,Clear,1,car,male,24.108254842521717,0
+2,Dawn,Asphalt,Dry,Clear,3,car,male,27.260955345556777,0
+4,Night,Asphalt,Dry,Clear,2,truck,male,18.0,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,54.624552001311244,0
+1,Day,Asphalt,Dry,Clear,3,car,male,23.367658279432536,0
+3,Night,Asphalt,Dry,Unclear,3,motorcycle,female,26.5121004367017,1
+1,Night,Soil,Dry,Clear,2,car,male,25.410046063900545,0
+4,Night,Asphalt,Dry,Unclear,1,car,male,29.602709237715427,0
+7,Day,Soil,Dry,Clear,3,car,female,36.66933584624117,0
+4,Day,Soil,Dry,Unclear,1,bus,male,31.020512645469747,0
+4,Night,Soil,Dry,Clear,3,motorcycle,male,25.06708855158464,1
+4,Day,Soil,Dry,Clear,2,bus,male,47.13550525649548,0
+6,Day,Asphalt,Wet or Damaged,Clear,3,car,male,18.0,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,28.758517780464487,0
+2,Day,Soil,Dry,Clear,3,car,male,18.0,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,female,42.58576922049546,0
+1,Day,Asphalt,Wet or Damaged,Clear,3,bus,male,41.28913832462932,1
+4,Day,Asphalt,Dry,Clear,3,motorcycle,female,34.46774547088914,0
+4,Day,Asphalt,Dry,Clear,1,car,female,23.59347425870899,0
+4,Dawn,Asphalt,Dry,Unclear,1,car,female,24.300937597712423,0
+1,Day,Soil,Dry,Unclear,2,car,male,18.0,0
+3,Day,Asphalt,Dry,Clear,2,truck,male,43.6844244068367,0
+5,Dawn,Asphalt,Dry,Clear,1,car,male,30.839129105658486,0
+2,Night,Asphalt,Dry,Clear,1,car,male,31.531932103341177,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,28.163460192153032,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,57.19834636864091,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,39.816410071066876,0
+2,Day,Asphalt,Dry,Unclear,1,car,male,18.0,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,55.468787949022534,0
+5,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Night,Soil,Dry,Clear,1,truck,male,39.29754703468574,0
+4,Night,Asphalt,Dry,Clear,1,bus,female,59.4801043052729,0
+4,Dawn,Soil,Dry,Clear,4,car,female,18.0,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,female,26.785492025624976,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,male,20.358349422681727,0
+7,Day,Soil,Dry,Clear,4,motorcycle,male,18.0,0
+2,Day,Soil,Dry,Unclear,2,car,female,18.647818936927,0
+5,Day,Asphalt,Dry,Clear,1,car,male,45.28049978017435,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,20.315151615252134,0
+4,Day,Asphalt,Dry,Unclear,3,truck,female,41.212343326373166,0
+4,Night,Soil,Dry,Clear,4,truck,male,22.815160431397132,0
+6,Dawn,Asphalt,Dry,Clear,3,truck,male,36.18743319372832,0
+6,Day,Asphalt,Dry,Clear,1,car,female,37.56060265233169,0
+5,Day,Asphalt,Dry,Clear,2,bus,male,32.04948340933187,0
+1,Night,Asphalt,Dry,Clear,1,truck,male,51.80727273605312,0
+3,Day,Asphalt,Dry,Clear,1,car,male,18.67602535295972,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,49.72934250937535,0
+2,Dawn,Asphalt,Dry,Clear,3,car,female,49.83068371878874,0
+7,Day,Asphalt,Dry,Clear,2,car,male,36.15898801630495,0
+6,Dawn,Asphalt,Dry,Clear,1,car,female,48.70347792642948,0
+6,Day,Asphalt,Dry,Clear,3,car,female,35.20119532905214,0
+6,Night,Asphalt,Wet or Damaged,Clear,2,car,male,41.92033060679067,0
+4,Day,Asphalt,Dry,Clear,2,car,female,31.593915311825725,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,29.56181493986848,0
+2,Day,Soil,Dry,Clear,1,car,male,43.72543514916926,0
+3,Night,Asphalt,Dry,Clear,1,motorcycle,female,23.466610663171828,0
+6,Dawn,Asphalt,Dry,Unclear,1,motorcycle,female,41.12302343451301,0
+4,Night,Asphalt,Dry,Unclear,3,car,female,46.38730461856835,1
+4,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,44.59153478962317,0
+7,Dawn,Asphalt,Dry,Clear,1,truck,female,18.0,0
+4,Day,Asphalt,Dry,Clear,2,car,male,22.380046212363446,0
+5,Night,Asphalt,Dry,Clear,1,car,male,45.993061665814764,0
+3,Dawn,Asphalt,Dry,Clear,2,car,male,30.155530686572504,0
+2,Dawn,Asphalt,Dry,Clear,2,car,male,19.81769866116095,0
+3,Day,Asphalt,Wet or Damaged,Unclear,2,car,female,47.42960997403905,0
+2,Day,Asphalt,Dry,Unclear,1,car,female,39.64546902345506,0
+3,Night,Asphalt,Dry,Clear,1,bus,male,33.56543880548278,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,44.88474056914725,0
+5,Day,Asphalt,Dry,Clear,1,car,female,46.398083266819874,0
+7,Day,Asphalt,Dry,Clear,2,car,female,30.309185757385055,0
+6,Dawn,Asphalt,Dry,Clear,3,car,male,20.245661003253087,0
+5,Dawn,Asphalt,Dry,Clear,2,car,male,26.07861850409299,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,47.94064121247327,0
+6,Day,Asphalt,Dry,Unclear,2,car,female,24.178147218470233,0
+3,Day,Soil,Dry,Clear,2,car,male,33.09454064515742,0
+6,Dawn,Asphalt,Dry,Clear,3,car,female,46.17612420418141,0
+5,Night,Asphalt,Dry,Clear,1,car,male,35.25115042867032,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,female,33.04229679203915,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,car,male,18.0,0
+6,Day,Asphalt,Dry,Clear,2,car,male,38.32623196857697,0
+3,Day,Soil,Dry,Clear,1,car,male,27.29319807149524,0
+1,Day,Soil,Dry,Clear,1,car,male,40.6362210201019,0
+6,Day,Asphalt,Dry,Clear,1,car,male,34.192331779619714,0
+4,Day,Asphalt,Dry,Clear,2,car,female,27.63319444988405,0
+4,Day,Asphalt,Dry,Clear,1,truck,female,35.77533292867912,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,38.348665369529755,1
+2,Day,Soil,Dry,Clear,1,bus,male,30.86155388240243,0
+6,Night,Asphalt,Dry,Clear,2,car,male,28.99052840243718,0
+7,Day,Asphalt,Dry,Clear,1,car,male,18.83174794879012,0
+4,Dawn,Asphalt,Dry,Clear,1,car,female,41.383024089128625,0
+3,Day,Asphalt,Dry,Clear,2,truck,male,18.0,0
+2,Day,Asphalt,Dry,Clear,1,truck,female,44.5189685749796,0
+7,Day,Asphalt,Dry,Clear,1,car,male,36.90458716100322,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,30.71882424571208,0
+7,Night,Asphalt,Dry,Clear,2,car,male,25.695453421639836,0
+4,Day,Asphalt,Dry,Clear,3,car,male,31.333297180869657,0
+3,Day,Asphalt,Dry,Clear,1,car,female,28.522229478429757,0
+2,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,33.509189055707736,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,52.93421777500265,0
+4,Night,Asphalt,Dry,Unclear,3,car,female,50.73595569819098,1
+1,Night,Asphalt,Dry,Clear,2,bus,male,44.494466598234,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,50.82964238530441,1
+5,Day,Soil,Wet or Damaged,Clear,1,bus,female,35.19013601252458,0
+2,Dawn,Asphalt,Dry,Clear,1,car,male,36.4985319014908,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,35.52351126015663,0
+6,Night,Asphalt,Dry,Unclear,2,car,female,60.948787876281855,0
+3,Night,Soil,Wet or Damaged,Clear,1,car,male,55.69585610768104,0
+3,Night,Soil,Dry,Clear,3,car,male,37.33730075751181,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,45.97166377573413,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,male,18.0,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,42.11182910486881,0
+5,Day,Asphalt,Wet or Damaged,Unclear,3,truck,male,36.914512761257974,1
+2,Night,Asphalt,Dry,Clear,4,truck,male,19.823515471044523,0
+1,Day,Asphalt,Dry,Clear,4,car,male,35.56656901038323,0
+3,Night,Soil,Dry,Clear,1,motorcycle,male,34.16551729414386,0
+2,Night,Asphalt,Dry,Clear,1,car,male,37.282201106659365,0
+2,Night,Asphalt,Wet or Damaged,Clear,3,car,male,25.43016953922441,1
+5,Night,Soil,Dry,Clear,1,truck,male,42.726223030618186,0
+2,Night,Asphalt,Dry,Unclear,1,truck,male,18.0,0
+7,Day,Asphalt,Dry,Clear,4,car,male,33.06878069221947,0
+2,Day,Asphalt,Wet or Damaged,Clear,3,bus,male,24.954997168477536,1
+2,Night,Soil,Wet or Damaged,Clear,3,bus,male,32.123286276919416,1
+6,Night,Asphalt,Dry,Clear,3,car,male,53.44002098629183,0
+3,Day,Asphalt,Wet or Damaged,Unclear,3,bus,male,35.32325345158784,1
+5,Day,Asphalt,Dry,Clear,3,car,female,47.91249276517439,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,58.67589421013944,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+7,Night,Asphalt,Dry,Unclear,1,car,female,22.90860204139583,0
+6,Day,Soil,Wet or Damaged,Clear,1,car,male,37.41999012285586,0
+2,Day,Asphalt,Dry,Unclear,4,bus,male,52.7706030955528,1
+3,Day,Asphalt,Dry,Clear,1,car,male,39.00301677436795,0
+2,Day,Soil,Dry,Clear,1,truck,female,18.0,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,car,male,31.72245025813494,0
+7,Dawn,Asphalt,Dry,Clear,2,car,male,29.765224040608274,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+3,Day,Asphalt,Dry,Clear,1,car,male,38.155536797610324,0
+5,Day,Asphalt,Dry,Clear,3,car,female,31.32373615347462,0
+2,Day,Soil,Dry,Clear,1,truck,male,38.190704515559524,0
+2,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,22.878291021949615,0
+7,Night,Asphalt,Dry,Unclear,1,motorcycle,male,46.62169307800722,1
+4,Day,Asphalt,Dry,Clear,1,bus,female,47.69648281883531,0
+1,Day,Asphalt,Dry,Clear,2,car,female,47.10486423426774,0
+5,Dawn,Asphalt,Dry,Clear,1,car,male,35.91014480043698,0
+1,Day,Asphalt,Dry,Unclear,2,bus,male,25.14939089239939,0
+1,Dawn,Soil,Dry,Clear,4,bus,male,31.901371359166447,0
+7,Day,Soil,Dry,Unclear,1,car,male,32.55770940954164,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,male,25.474214672056732,0
+3,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+2,Day,Asphalt,Dry,Clear,1,car,male,39.67775134981132,0
+3,Day,Soil,Dry,Clear,1,bus,male,32.341600374929484,0
+6,Day,Asphalt,Dry,Clear,3,car,male,31.420486418475562,0
+3,Day,Asphalt,Dry,Unclear,1,bus,male,18.0,0
+7,Night,Asphalt,Dry,Clear,3,bus,male,35.38368783926378,1
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,53.70737038198574,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,23.321374779614953,0
+4,Night,Asphalt,Dry,Clear,3,car,male,37.64450967005132,0
+3,Day,Asphalt,Dry,Clear,1,truck,female,48.868194297928284,0
+4,Dawn,Asphalt,Wet or Damaged,Unclear,1,bus,male,32.79085475495096,1
+5,Night,Soil,Dry,Clear,1,car,male,31.716596454217044,0
+3,Day,Asphalt,Dry,Clear,1,car,female,22.75638975316384,0
+7,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,33.61064466282626,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,car,male,22.597568175163932,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,31.985802973869884,0
+3,Night,Asphalt,Dry,Clear,3,truck,male,28.013709774829508,0
+3,Night,Asphalt,Dry,Clear,1,car,male,18.66483109256547,0
+3,Day,Asphalt,Wet or Damaged,Clear,2,car,male,37.22385990677376,0
+2,Day,Asphalt,Dry,Clear,3,truck,male,32.679690535487154,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,57.59289805848797,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,male,52.69629123534562,0
+4,Dawn,Asphalt,Dry,Clear,1,car,male,29.555441721884655,0
+4,Night,Asphalt,Dry,Clear,1,car,female,53.236088701061234,0
+6,Day,Soil,Dry,Clear,1,car,male,27.23842151401214,0
+4,Night,Asphalt,Dry,Clear,1,car,female,60.15184748562552,0
+6,Day,Soil,Dry,Clear,3,car,female,46.039719709009375,0
+3,Day,Asphalt,Dry,Clear,4,truck,female,30.58362971817705,0
+7,Dawn,Asphalt,Wet or Damaged,Unclear,1,car,male,24.83111230935383,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,39.3279957791599,0
+2,Night,Asphalt,Dry,Clear,2,car,male,27.04900048127545,0
+4,Day,Asphalt,Dry,Unclear,2,motorcycle,male,31.983239955041853,0
+2,Night,Asphalt,Wet or Damaged,Clear,3,truck,male,23.039248269770628,1
+5,Night,Asphalt,Dry,Clear,1,car,female,25.09762241416007,0
+5,Day,Soil,Dry,Clear,1,truck,female,39.0882382977042,0
+1,Day,Asphalt,Dry,Clear,2,bus,male,24.1570083635049,0
+7,Day,Asphalt,Dry,Clear,1,car,male,45.00510168100035,0
+1,Dawn,Asphalt,Dry,Clear,1,truck,male,45.13697598363838,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,25.570374479437437,0
+1,Day,Asphalt,Dry,Clear,1,bus,male,34.46776543279215,0
+4,Night,Asphalt,Dry,Clear,1,car,male,47.36394063009613,0
+6,Night,Asphalt,Dry,Clear,1,truck,male,31.392521782300214,0
+6,Day,Soil,Wet or Damaged,Clear,2,car,male,46.00342490070585,0
+7,Day,Asphalt,Dry,Unclear,3,truck,female,30.08628715364128,0
+1,Day,Asphalt,Dry,Clear,1,bus,female,44.53200431679694,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,car,female,55.89378947956331,0
+3,Day,Asphalt,Dry,Clear,3,truck,male,25.863287520131102,0
+5,Day,Asphalt,Dry,Clear,1,car,male,36.31911535893558,0
+1,Day,Asphalt,Dry,Unclear,1,bus,male,44.863756976969526,0
+1,Dawn,Asphalt,Dry,Unclear,1,car,male,27.082693285459165,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,female,19.722425782127495,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,car,male,27.50011778043784,0
+5,Day,Asphalt,Wet or Damaged,Unclear,3,car,female,37.77287276234645,1
+1,Day,Asphalt,Dry,Clear,2,truck,male,22.59422246003519,0
+6,Day,Asphalt,Wet or Damaged,Clear,2,car,female,59.70132556670734,0
+2,Day,Asphalt,Dry,Clear,1,bus,female,54.856255198615415,0
+2,Dawn,Asphalt,Dry,Clear,1,car,male,24.2661891254651,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,26.800047994067224,0
+4,Night,Asphalt,Dry,Clear,1,truck,male,35.97658466271479,0
+5,Day,Asphalt,Dry,Clear,1,car,female,36.579580932190225,0
+2,Day,Asphalt,Dry,Clear,1,car,male,41.11384911595353,0
+6,Day,Asphalt,Dry,Clear,2,bus,female,30.20152073162749,0
+1,Day,Soil,Wet or Damaged,Clear,2,motorcycle,female,43.804013342948394,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,female,38.90641047058231,0
+3,Night,Soil,Wet or Damaged,Clear,3,truck,female,42.480664577306506,1
+5,Day,Asphalt,Dry,Clear,1,car,male,40.535122378995084,0
+3,Night,Asphalt,Dry,Clear,3,bus,male,35.94020638799699,1
+3,Day,Asphalt,Dry,Clear,1,car,male,24.495548056550255,0
+3,Night,Soil,Dry,Clear,2,truck,female,41.875459427757406,0
+5,Day,Asphalt,Dry,Clear,2,truck,male,18.0,0
+5,Day,Asphalt,Dry,Clear,1,car,female,27.871029715540548,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,50.97783827778814,0
+5,Day,Asphalt,Dry,Clear,1,car,male,35.93199467530435,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,35.492195640921736,0
+6,Day,Soil,Wet or Damaged,Clear,2,car,female,18.0,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,26.730527414448538,1
+5,Day,Asphalt,Dry,Clear,1,bus,female,37.58999333173701,0
+7,Night,Asphalt,Dry,Clear,2,car,male,54.95021677179949,0
+5,Night,Asphalt,Dry,Clear,2,truck,female,44.066114899754005,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,51.25693080340167,0
+6,Day,Asphalt,Dry,Clear,4,car,female,47.29262728769574,0
+6,Day,Asphalt,Dry,Clear,1,car,male,36.071167279089984,0
+5,Day,Asphalt,Dry,Unclear,1,car,female,42.223987430028785,0
+7,Night,Soil,Dry,Clear,1,car,male,59.959715081541844,0
+1,Night,Soil,Wet or Damaged,Clear,1,truck,male,28.97333480510163,0
+5,Day,Asphalt,Wet or Damaged,Clear,3,bus,female,26.328667708213864,1
+2,Day,Asphalt,Dry,Clear,1,car,female,22.41108590254545,0
+7,Night,Asphalt,Dry,Clear,2,car,male,35.31657378641652,0
+1,Day,Asphalt,Dry,Clear,3,car,male,23.90070094148011,0
+7,Day,Asphalt,Dry,Clear,2,car,male,35.82591764254472,0
+4,Day,Asphalt,Wet or Damaged,Clear,2,car,male,44.827847303156005,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,38.52086372698684,0
+2,Day,Asphalt,Dry,Clear,1,car,male,36.79097070803862,0
+3,Day,Asphalt,Dry,Clear,1,bus,female,40.19541102519593,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,21.961900620873426,0
+1,Night,Asphalt,Dry,Unclear,1,car,male,25.94820240647767,0
+2,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,36.53828597817588,0
+6,Night,Soil,Dry,Unclear,1,bus,male,21.696959953900368,1
+4,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,38.511666634755876,0
+5,Night,Soil,Wet or Damaged,Clear,1,bus,female,52.977822702693075,1
+1,Day,Asphalt,Dry,Clear,2,truck,male,24.397073368728485,0
+3,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,18.0,0
+5,Night,Soil,Dry,Clear,1,motorcycle,male,22.208596616754896,0
+7,Dawn,Asphalt,Wet or Damaged,Clear,1,car,female,31.46981729764932,0
+4,Day,Soil,Wet or Damaged,Unclear,3,car,male,46.668718513096856,1
+3,Day,Asphalt,Dry,Clear,1,car,male,18.098031296263116,0
+3,Day,Soil,Dry,Clear,4,car,female,31.89357013571003,0
+1,Day,Asphalt,Dry,Clear,1,car,male,39.21406133547789,0
+7,Day,Soil,Wet or Damaged,Clear,1,car,male,35.82842001069419,0
+2,Day,Asphalt,Dry,Clear,2,car,male,48.99095146095561,0
+6,Dawn,Asphalt,Dry,Clear,3,motorcycle,female,30.775216223405955,0
+6,Day,Asphalt,Dry,Clear,4,bus,male,46.99364241917737,0
+3,Day,Asphalt,Dry,Unclear,1,car,male,19.119465400504183,0
+7,Day,Soil,Wet or Damaged,Clear,2,motorcycle,female,43.492768001358385,0
+5,Day,Asphalt,Dry,Unclear,2,car,female,53.23349695807028,0
+3,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,male,35.223385562101974,0
+3,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,female,20.477535171763243,0
+2,Day,Asphalt,Dry,Clear,2,car,male,29.82877811599964,0
+4,Day,Asphalt,Dry,Clear,3,car,female,47.6846860194823,0
+5,Night,Asphalt,Dry,Clear,4,car,male,37.828613742950175,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,20.61422510108191,0
+5,Dawn,Soil,Wet or Damaged,Unclear,1,bus,male,18.0,1
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,50.668458922601076,0
+7,Night,Soil,Dry,Unclear,1,motorcycle,female,35.770326061482045,1
+7,Night,Soil,Dry,Clear,1,car,male,42.50343243993687,0
+4,Day,Asphalt,Dry,Clear,3,car,male,43.46876729220699,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,18.0,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,23.447165231941675,0
+4,Dawn,Asphalt,Dry,Clear,3,motorcycle,male,43.96845287692159,0
+5,Day,Asphalt,Dry,Clear,3,bus,female,26.479795602789686,0
+3,Night,Asphalt,Wet or Damaged,Clear,4,car,male,51.16688322905347,1
+7,Day,Soil,Dry,Clear,3,car,male,38.01034111246822,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,57.98269405621066,0
+2,Day,Asphalt,Dry,Clear,2,bus,male,40.80208072017573,0
+2,Night,Soil,Wet or Damaged,Clear,1,bus,male,30.452925277562134,1
+6,Day,Asphalt,Dry,Clear,1,car,male,36.317606459772406,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,male,51.25842053126277,0
+4,Day,Asphalt,Wet or Damaged,Clear,2,car,male,18.779383795095693,0
+4,Night,Soil,Dry,Clear,1,motorcycle,male,29.335670538071604,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,46.24720465193396,0
+2,Night,Asphalt,Dry,Clear,1,bus,male,61.28073510850355,0
+3,Day,Asphalt,Dry,Unclear,1,truck,female,31.235249862151655,0
+2,Night,Asphalt,Dry,Clear,1,car,male,67.54983136034372,0
+2,Day,Asphalt,Dry,Clear,1,car,female,49.836649251905705,0
+4,Day,Asphalt,Dry,Clear,1,truck,male,19.466642847092523,0
+5,Dawn,Soil,Dry,Clear,1,truck,male,26.581811425456554,0
+7,Day,Soil,Dry,Clear,1,motorcycle,male,22.769028406735597,0
+3,Night,Asphalt,Dry,Unclear,2,car,female,26.807372605160367,0
+3,Day,Asphalt,Dry,Clear,1,car,female,48.99514988869938,0
+7,Day,Asphalt,Dry,Unclear,1,car,female,18.993788978633393,0
+3,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,33.96460217724058,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,19.987498129342804,0
+2,Night,Soil,Dry,Clear,1,bus,female,18.0,0
+4,Day,Asphalt,Dry,Clear,4,car,male,25.85956103011972,0
+4,Day,Asphalt,Dry,Clear,1,truck,male,18.476799556527336,0
+2,Night,Asphalt,Dry,Clear,1,truck,male,39.49004833779658,0
+7,Night,Soil,Wet or Damaged,Clear,2,truck,male,30.821021662699852,0
+2,Night,Asphalt,Dry,Clear,1,truck,female,24.376912549270454,0
+5,Night,Asphalt,Dry,Clear,1,car,male,50.024022955300616,0
+3,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,19.95466491958759,1
+7,Day,Asphalt,Dry,Clear,1,car,female,27.186956977440452,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,34.48182949594091,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,28.557644649135362,0
+5,Night,Asphalt,Wet or Damaged,Clear,3,bus,male,59.72949279719033,1
+4,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,46.5580426143225,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,49.58754430938897,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,45.00646389715606,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,27.619310588674534,0
+3,Night,Soil,Dry,Unclear,1,bus,male,24.52764761310263,1
+6,Night,Asphalt,Dry,Clear,1,car,male,30.16215365122484,0
+4,Night,Asphalt,Dry,Clear,1,bus,male,32.406091714643296,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,30.26844931957172,0
+5,Day,Soil,Wet or Damaged,Clear,1,truck,male,45.949593682209624,0
+3,Day,Asphalt,Dry,Clear,3,bus,male,35.259337177454796,0
+2,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,bus,female,38.14857155432077,0
+7,Night,Asphalt,Wet or Damaged,Clear,2,car,female,58.09946954123281,0
+3,Day,Asphalt,Dry,Clear,3,car,male,34.3068234877333,0
+7,Day,Asphalt,Dry,Unclear,1,truck,female,28.472803429394418,0
+3,Night,Asphalt,Dry,Clear,2,car,male,18.0,0
+2,Dawn,Asphalt,Dry,Clear,1,car,male,33.70365276597752,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,female,24.1413527109292,0
+6,Night,Asphalt,Dry,Clear,1,car,male,33.91007947746909,0
+4,Night,Asphalt,Wet or Damaged,Unclear,3,truck,female,34.79139024165535,1
+2,Day,Soil,Dry,Clear,3,truck,male,54.76623427447585,0
+5,Dawn,Asphalt,Wet or Damaged,Clear,1,car,female,47.45542677951413,0
+5,Day,Asphalt,Dry,Unclear,2,car,male,30.20885091851769,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,female,38.37533394394189,0
+4,Day,Soil,Dry,Clear,1,car,male,35.46215739542332,0
+7,Day,Soil,Wet or Damaged,Clear,1,motorcycle,male,21.373517921482982,0
+4,Night,Asphalt,Dry,Unclear,1,bus,male,20.959746538794086,1
+5,Day,Asphalt,Dry,Clear,1,car,male,30.11753168204053,0
+7,Day,Asphalt,Dry,Clear,2,truck,female,40.89600760139793,0
+4,Dawn,Asphalt,Dry,Clear,1,truck,male,44.70448965899398,0
+2,Day,Soil,Wet or Damaged,Clear,1,car,male,18.0,0
+6,Day,Asphalt,Dry,Clear,3,motorcycle,male,38.35779492552889,0
+7,Night,Asphalt,Dry,Clear,3,motorcycle,male,42.73321403234621,1
+2,Night,Asphalt,Wet or Damaged,Clear,2,car,male,39.83755466676159,0
+1,Night,Soil,Dry,Clear,1,car,male,23.19167543928976,0
+2,Day,Asphalt,Dry,Clear,2,truck,female,35.34142083170271,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,33.12031550133204,0
+2,Night,Soil,Dry,Clear,1,car,male,43.59036322124743,0
+1,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,42.481567108029225,1
+5,Dawn,Asphalt,Dry,Clear,1,car,female,35.34274560397592,0
+1,Day,Soil,Dry,Clear,2,truck,male,44.2120564380934,0
+4,Night,Asphalt,Dry,Clear,1,car,female,29.566048972164168,0
+3,Day,Asphalt,Dry,Clear,1,car,female,31.575057093875706,0
+4,Dawn,Asphalt,Dry,Clear,1,car,male,32.47095211670775,0
+3,Dawn,Asphalt,Dry,Clear,1,truck,male,44.476978435261664,0
+4,Day,Asphalt,Dry,Clear,1,truck,male,53.35416483561845,0
+6,Day,Asphalt,Dry,Clear,2,car,male,19.496700972468,0
+7,Night,Asphalt,Dry,Clear,2,car,female,52.24683120990326,0
+3,Day,Asphalt,Dry,Clear,4,car,female,50.05304494006958,0
+3,Night,Asphalt,Dry,Clear,2,car,male,27.20841316621097,0
+2,Day,Soil,Wet or Damaged,Clear,4,car,female,49.815702946601405,0
+4,Day,Asphalt,Dry,Clear,1,truck,male,24.334531522735944,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,34.66796162048699,0
+6,Day,Asphalt,Dry,Clear,1,car,male,24.628739937187646,0
+2,Day,Asphalt,Dry,Clear,1,car,female,44.33821850652594,0
+6,Day,Asphalt,Dry,Unclear,2,bus,male,31.579836497831057,0
+4,Night,Asphalt,Dry,Clear,1,car,male,38.07846450686919,0
+7,Dawn,Asphalt,Dry,Clear,1,bus,male,49.377055561876496,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,38.60234286527005,0
+5,Night,Asphalt,Dry,Unclear,2,car,male,37.70188498716787,0
+6,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,31.249470129691574,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,21.922044428212608,0
+4,Day,Asphalt,Dry,Clear,1,car,female,39.26732723595214,0
+7,Day,Asphalt,Dry,Clear,4,bus,male,18.805883895759205,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,53.22037753086356,0
+6,Day,Asphalt,Dry,Unclear,3,motorcycle,male,18.076978427524992,1
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,25.719440564684387,0
+1,Day,Asphalt,Dry,Clear,1,car,male,18.881886009512737,0
+4,Day,Asphalt,Dry,Clear,2,car,male,26.338379450931797,0
+6,Day,Asphalt,Dry,Clear,1,car,female,29.072333483199372,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,38.18008726513549,0
+1,Day,Asphalt,Dry,Clear,1,car,male,41.694074024224676,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,male,28.20131973252565,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,2,bus,female,43.817316823704104,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,45.06095726091602,0
+4,Night,Soil,Dry,Clear,4,bus,male,42.89806845824972,1
+7,Day,Asphalt,Dry,Unclear,1,car,female,18.0,0
+3,Day,Soil,Dry,Clear,1,car,male,18.90301792491604,0
+1,Day,Asphalt,Dry,Unclear,1,bus,male,42.83424006702987,0
+2,Day,Asphalt,Dry,Clear,2,bus,male,42.44649283664935,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,male,22.71256465344144,0
+5,Day,Asphalt,Dry,Clear,1,car,male,37.24233547600562,0
+4,Night,Soil,Dry,Clear,1,motorcycle,female,37.74333191246189,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,34.50034940756277,0
+7,Night,Asphalt,Dry,Clear,1,truck,female,46.71425165464637,0
+3,Day,Asphalt,Dry,Clear,3,car,male,39.184464163128474,0
+1,Night,Asphalt,Dry,Clear,1,truck,male,18.0,0
+3,Day,Soil,Dry,Clear,4,car,male,18.0,0
+7,Day,Soil,Dry,Clear,1,car,female,20.235638712815984,0
+5,Day,Asphalt,Dry,Clear,1,car,male,27.179825690110746,0
+5,Day,Asphalt,Dry,Clear,1,car,male,31.93831658486785,0
+4,Day,Soil,Wet or Damaged,Clear,1,car,male,43.21272220252246,0
+5,Dawn,Asphalt,Dry,Clear,4,bus,male,34.27036421790801,0
+7,Day,Asphalt,Dry,Clear,2,motorcycle,male,33.69421768312907,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,car,male,28.19865351423301,0
+4,Day,Asphalt,Wet or Damaged,Clear,3,bus,male,38.50012159286768,1
+7,Day,Asphalt,Dry,Clear,1,car,male,33.25098812324907,0
+4,Day,Asphalt,Dry,Clear,2,truck,male,28.881872128416983,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,58.75480761589255,0
+5,Day,Asphalt,Dry,Clear,3,motorcycle,male,33.41459532590412,0
+4,Day,Asphalt,Dry,Clear,4,car,female,39.99655363399924,0
+6,Night,Soil,Wet or Damaged,Clear,2,car,female,36.941169442887336,0
+2,Day,Asphalt,Dry,Clear,3,car,female,42.306938658837325,0
+4,Day,Asphalt,Dry,Clear,2,car,male,23.44638542329657,0
+5,Day,Soil,Wet or Damaged,Clear,1,truck,female,36.08506374615234,0
+4,Night,Asphalt,Dry,Clear,4,car,male,34.571480389707325,0
+3,Day,Asphalt,Dry,Clear,1,car,male,35.92536323481085,0
+7,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,23.396089161742346,1
+4,Dawn,Asphalt,Wet or Damaged,Clear,1,bus,male,33.16736915530068,0
+1,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,46.20768450394835,0
+4,Night,Asphalt,Dry,Clear,1,car,female,37.17448607366342,0
+2,Day,Asphalt,Dry,Clear,1,car,male,33.46989418264165,0
+4,Day,Soil,Dry,Clear,2,truck,male,18.0,0
+7,Day,Soil,Wet or Damaged,Clear,1,bus,male,40.241732269160806,0
+1,Night,Asphalt,Dry,Clear,4,car,male,18.0,0
+4,Day,Asphalt,Dry,Clear,1,car,male,26.42021050239644,0
+6,Night,Asphalt,Dry,Clear,1,truck,male,37.49188660971654,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,52.72435236662875,0
+5,Day,Asphalt,Dry,Clear,4,bus,male,18.0,0
+3,Dawn,Asphalt,Dry,Clear,1,bus,male,26.45716486472181,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,18.0,0
+2,Night,Asphalt,Dry,Clear,1,bus,male,29.64237663268632,0
+1,Day,Asphalt,Dry,Clear,1,car,male,34.35582003496138,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,28.738415783043166,0
+3,Day,Asphalt,Dry,Unclear,2,truck,female,27.02737359601661,0
+6,Night,Asphalt,Dry,Unclear,1,car,female,43.335705417783835,0
+3,Night,Asphalt,Dry,Clear,1,car,male,48.807350443155,0
+1,Day,Asphalt,Dry,Clear,2,car,male,43.74088478852048,0
+6,Day,Asphalt,Dry,Clear,2,truck,female,33.86904547864252,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,61.19725814071144,0
+5,Day,Asphalt,Dry,Unclear,1,bus,male,32.39034384081539,0
+7,Day,Asphalt,Dry,Clear,4,car,female,30.108116378441714,0
+3,Night,Asphalt,Dry,Clear,2,truck,male,25.522953119027,0
+2,Night,Soil,Dry,Clear,3,truck,male,25.066503002400623,0
+7,Night,Soil,Dry,Unclear,1,truck,male,43.592147846179955,0
+3,Day,Soil,Dry,Clear,1,bus,male,29.12184795400244,0
+3,Dawn,Asphalt,Dry,Clear,4,car,male,18.0,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,54.21084431000192,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,45.45076296700459,0
+1,Night,Soil,Dry,Clear,2,motorcycle,female,45.824349876110716,0
+1,Day,Soil,Dry,Clear,3,motorcycle,male,21.0603684928346,0
+7,Day,Asphalt,Dry,Clear,2,car,male,58.5385846789281,0
+6,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,33.19605018240406,0
+2,Day,Asphalt,Dry,Clear,1,car,female,41.88295461522283,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,47.88546170755007,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,41.93156870415169,0
+5,Day,Asphalt,Dry,Clear,2,car,female,36.55637801470426,0
+4,Day,Asphalt,Dry,Clear,2,car,male,29.90645244469432,0
+4,Night,Soil,Dry,Clear,3,car,male,34.454329178434584,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,31.801402939941376,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,male,38.1263793744988,0
+1,Day,Asphalt,Dry,Clear,3,car,male,38.98563602820183,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,43.66748873390179,0
+3,Day,Soil,Dry,Unclear,1,car,male,35.06270217385307,0
+2,Night,Asphalt,Dry,Clear,1,bus,male,28.735477290487804,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,car,female,47.389619397601265,0
+2,Dawn,Soil,Dry,Unclear,2,car,female,46.67435789305745,0
+6,Day,Asphalt,Dry,Clear,1,car,male,39.89472624547287,0
+2,Day,Asphalt,Dry,Clear,4,car,male,29.94330295904689,0
+1,Day,Asphalt,Dry,Clear,1,car,male,33.895470230038626,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,female,47.21046477490063,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,33.26348566870426,0
+4,Day,Asphalt,Dry,Clear,3,truck,male,20.703531555529413,0
+1,Day,Asphalt,Dry,Clear,3,bus,male,25.48994155033939,0
+2,Night,Asphalt,Dry,Clear,2,bus,male,29.807697042025694,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,41.64602393963844,0
+6,Night,Asphalt,Dry,Clear,1,truck,female,24.47651650603133,0
+5,Day,Soil,Dry,Clear,1,car,male,42.81122003903624,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,21.911188480870006,0
+4,Night,Asphalt,Dry,Clear,1,car,male,46.761849428942355,0
+6,Day,Asphalt,Dry,Unclear,1,car,male,37.54614674323086,0
+7,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,31.164299816205652,1
+7,Dawn,Asphalt,Dry,Clear,1,car,male,33.18853420557326,0
+5,Dawn,Asphalt,Dry,Clear,1,truck,female,25.509408810931816,0
+4,Day,Soil,Dry,Unclear,1,motorcycle,male,37.16032586956497,0
+5,Day,Asphalt,Dry,Clear,1,car,female,38.75977165718166,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,35.62072413635036,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,52.26484882976568,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,41.90925660817714,0
+7,Day,Asphalt,Dry,Clear,2,bus,male,39.86399628798474,0
+3,Dawn,Asphalt,Dry,Clear,1,bus,male,36.5091509747127,0
+4,Day,Asphalt,Dry,Clear,1,truck,male,31.40345894451576,0
+5,Night,Asphalt,Dry,Clear,1,car,male,41.46904095056216,0
+6,Day,Asphalt,Wet or Damaged,Unclear,2,car,male,24.654611258905902,0
+3,Night,Asphalt,Wet or Damaged,Clear,4,car,male,26.334794395057266,1
+2,Night,Soil,Dry,Unclear,3,truck,female,46.45857230988454,1
+2,Day,Asphalt,Dry,Clear,1,car,male,25.908501005362645,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,54.21032974797748,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,30.92987230061154,0
+3,Day,Asphalt,Wet or Damaged,Clear,2,car,male,31.605993003123626,0
+2,Day,Asphalt,Dry,Clear,1,car,male,42.447380188730314,0
+2,Day,Soil,Wet or Damaged,Clear,1,bus,male,44.64596056173083,0
+5,Night,Soil,Wet or Damaged,Clear,1,truck,male,33.0446898275137,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,25.958160510801115,0
+1,Day,Soil,Dry,Clear,1,car,female,36.66791008224718,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,54.21155785970577,0
+5,Day,Asphalt,Dry,Clear,1,truck,female,50.60390732291754,0
+1,Dawn,Asphalt,Dry,Clear,3,motorcycle,female,35.24580379394678,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,43.40972022911519,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+2,Night,Soil,Dry,Clear,1,car,male,52.84529525520073,0
+6,Night,Soil,Dry,Clear,2,motorcycle,male,40.9398513154681,0
+5,Day,Asphalt,Dry,Clear,1,car,female,27.336184218960305,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,male,36.67371674322837,0
+6,Day,Soil,Dry,Clear,1,car,male,32.19706345973472,0
+4,Night,Asphalt,Dry,Clear,1,car,female,52.90105836571752,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,truck,female,19.409859116547647,0
+4,Night,Asphalt,Dry,Clear,2,car,female,20.275970431465453,0
+6,Day,Asphalt,Dry,Clear,1,car,male,41.90093267534895,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,male,30.810917629953945,0
+6,Night,Asphalt,Dry,Clear,1,motorcycle,male,37.055837841894025,0
+2,Dawn,Asphalt,Dry,Clear,2,car,male,35.84583468123891,0
+4,Day,Asphalt,Dry,Clear,1,car,male,23.911003166718736,0
+2,Day,Soil,Dry,Clear,1,car,male,37.73167908076799,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,20.73773119576798,0
+6,Dawn,Asphalt,Dry,Clear,1,truck,female,61.876663159988766,0
+1,Day,Asphalt,Dry,Clear,1,truck,female,45.42347058184666,0
+3,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,45.78830273536946,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,33.17707883287192,0
+1,Night,Asphalt,Dry,Clear,1,car,male,65.07859868782964,0
+6,Day,Asphalt,Dry,Unclear,1,bus,female,36.13082094072783,0
+6,Dawn,Asphalt,Dry,Unclear,3,car,male,32.66349319717855,0
+5,Night,Asphalt,Dry,Clear,3,truck,male,23.480736625421134,0
+5,Day,Asphalt,Dry,Clear,2,truck,female,19.541814275961997,0
+2,Night,Asphalt,Dry,Clear,3,bus,male,47.83530192441941,1
+5,Day,Asphalt,Dry,Clear,1,car,male,22.614350164764158,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,40.152444606535425,0
+3,Day,Soil,Dry,Clear,1,car,male,18.0,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,42.226936355494864,0
+1,Day,Asphalt,Dry,Clear,2,car,male,29.165535041458853,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,33.77020237017026,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,36.64927658855518,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,female,49.12489836880932,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,18.0,0
+7,Night,Asphalt,Dry,Clear,1,car,male,40.46337660051148,0
+5,Day,Asphalt,Dry,Clear,2,truck,female,19.32568643327687,0
+2,Night,Asphalt,Dry,Clear,1,car,female,36.20706592890398,0
+5,Night,Asphalt,Dry,Unclear,1,car,female,31.76843755263078,0
+3,Night,Asphalt,Dry,Clear,1,car,female,41.84030540056429,0
+7,Night,Asphalt,Dry,Unclear,3,car,male,30.10842852525112,1
+5,Day,Soil,Dry,Clear,2,truck,female,49.30439118241147,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,female,49.120826471791005,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,male,30.965370128029264,0
+6,Night,Soil,Dry,Unclear,1,car,female,38.421788398859185,0
+5,Day,Asphalt,Dry,Clear,1,car,female,44.62726968187086,0
+3,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+6,Day,Asphalt,Dry,Unclear,3,car,male,18.0,0
+5,Day,Asphalt,Wet or Damaged,Unclear,3,bus,female,42.146283269545286,1
+1,Day,Soil,Dry,Clear,3,motorcycle,female,26.123572117648166,0
+2,Day,Asphalt,Dry,Clear,1,car,male,48.01501744809533,0
+1,Day,Soil,Dry,Clear,1,motorcycle,male,32.21275917513488,0
+1,Day,Asphalt,Dry,Clear,1,bus,male,45.40532482427498,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,38.073594208075136,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,47.78832974244247,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,34.17817661509749,0
+2,Day,Soil,Dry,Clear,3,bus,male,18.0,0
+3,Dawn,Soil,Dry,Clear,1,car,male,40.25301057003416,0
+6,Night,Asphalt,Wet or Damaged,Clear,2,car,male,27.69301930462659,0
+3,Day,Soil,Dry,Clear,3,car,female,18.0,0
+4,Day,Asphalt,Dry,Clear,1,car,male,41.10214808772697,0
+6,Day,Asphalt,Dry,Clear,3,truck,female,35.993224175176856,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,car,male,42.3354417288742,0
+2,Night,Asphalt,Wet or Damaged,Clear,3,truck,male,26.15517756013523,1
+2,Day,Soil,Dry,Clear,1,car,female,27.675511478186948,0
+6,Night,Asphalt,Wet or Damaged,Clear,3,car,male,43.40025351990771,1
+7,Dawn,Asphalt,Dry,Clear,3,car,male,29.79742775681161,0
+1,Night,Asphalt,Dry,Clear,2,motorcycle,male,22.05714970361753,0
+6,Night,Asphalt,Dry,Clear,1,car,female,32.95643261094258,0
+1,Night,Soil,Dry,Clear,1,truck,male,18.0,0
+4,Night,Soil,Dry,Clear,1,bus,male,36.95625095879331,0
+1,Night,Asphalt,Dry,Clear,3,car,female,58.10564138024492,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,24.879016404939662,0
+1,Day,Asphalt,Wet or Damaged,Unclear,1,truck,male,21.03844102355265,0
+6,Day,Asphalt,Dry,Clear,1,bus,female,37.98863276408827,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,64.93243649063876,0
+5,Dawn,Asphalt,Dry,Clear,1,car,female,37.707253530873984,0
+3,Night,Asphalt,Wet or Damaged,Unclear,2,car,male,56.80396817232931,1
+3,Night,Asphalt,Dry,Clear,1,truck,male,41.578617026306546,0
+4,Day,Asphalt,Wet or Damaged,Clear,3,car,male,34.68793690402547,0
+6,Day,Asphalt,Dry,Clear,3,truck,male,44.569600885690996,0
+3,Night,Asphalt,Dry,Clear,2,bus,male,30.641886869715037,0
+5,Day,Soil,Dry,Clear,2,car,female,38.54360420881885,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,female,36.909942817077834,0
+7,Night,Asphalt,Dry,Unclear,1,truck,male,42.91690211645721,0
+2,Day,Asphalt,Dry,Clear,2,car,male,44.026896893631445,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,33.288116574311246,0
+7,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+5,Day,Soil,Dry,Clear,2,truck,female,48.53566771150156,0
+2,Dawn,Soil,Dry,Clear,1,car,female,34.71487775740295,0
+4,Night,Asphalt,Dry,Unclear,2,motorcycle,female,32.2543813825874,1
+4,Night,Asphalt,Dry,Clear,2,car,male,18.0,0
+7,Day,Asphalt,Dry,Clear,1,car,male,51.33909668392445,0
+7,Dawn,Asphalt,Wet or Damaged,Clear,1,bus,male,45.972742346272945,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,27.681959351933344,0
+2,Day,Asphalt,Dry,Clear,1,bus,female,22.74281649609352,0
+1,Day,Soil,Dry,Unclear,1,car,female,31.49650592129681,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,33.70073937569187,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,49.43010796467453,0
+3,Night,Asphalt,Dry,Clear,2,car,male,45.65090439096065,0
+2,Day,Asphalt,Dry,Clear,4,car,male,28.918368187723864,0
+5,Night,Asphalt,Dry,Clear,2,car,female,20.806541969483682,0
+3,Day,Soil,Dry,Clear,1,bus,female,48.834451458674856,0
+5,Night,Asphalt,Wet or Damaged,Unclear,2,car,male,31.9418929432601,1
+6,Day,Asphalt,Wet or Damaged,Clear,2,truck,female,20.420495193076164,0
+1,Dawn,Asphalt,Dry,Clear,1,car,female,21.300204043851803,0
+7,Night,Asphalt,Dry,Clear,4,motorcycle,female,38.21757891988623,1
+4,Night,Asphalt,Dry,Clear,1,car,female,49.487763699388694,0
+4,Day,Asphalt,Wet or Damaged,Clear,3,truck,female,45.06071566378893,0
+7,Night,Asphalt,Dry,Clear,4,truck,male,18.0,0
+3,Night,Asphalt,Dry,Clear,1,motorcycle,male,40.22606168924721,0
+6,Day,Asphalt,Dry,Clear,2,car,male,31.91165613308614,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,female,18.0,0
+5,Day,Soil,Wet or Damaged,Unclear,2,bus,female,34.15982673431706,1
+7,Night,Asphalt,Dry,Clear,1,car,male,41.22421874359283,0
+3,Dawn,Soil,Dry,Clear,2,bus,male,30.441081212777835,0
+6,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,31.87890450889993,1
+1,Day,Asphalt,Dry,Unclear,1,car,male,37.82433555262591,0
+5,Night,Asphalt,Dry,Clear,2,motorcycle,male,28.0809004112109,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,32.089122196410166,0
+2,Night,Asphalt,Wet or Damaged,Unclear,2,truck,male,30.87909867907033,1
+6,Night,Asphalt,Dry,Clear,1,bus,male,28.73527877541849,0
+5,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,41.78929481829877,0
+4,Day,Asphalt,Dry,Clear,3,car,female,37.17893707192561,0
+5,Day,Asphalt,Dry,Clear,3,car,male,42.932829674939526,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,40.946846276497205,0
+3,Dawn,Asphalt,Dry,Unclear,1,bus,female,18.0,0
+4,Night,Soil,Dry,Clear,1,bus,female,25.932622278327063,0
+1,Night,Asphalt,Wet or Damaged,Clear,2,car,male,34.837242048798366,0
+4,Day,Asphalt,Dry,Clear,3,car,female,32.15181826153455,0
+7,Night,Asphalt,Dry,Clear,2,car,female,30.635612110608122,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,36.89839666778414,0
+3,Night,Asphalt,Dry,Clear,1,car,male,20.41271171871822,0
+1,Day,Asphalt,Dry,Clear,1,car,male,46.31229237628593,0
+7,Day,Soil,Dry,Clear,2,motorcycle,male,18.27524212563892,0
+4,Day,Asphalt,Dry,Clear,1,car,male,30.45763651241147,0
+5,Day,Soil,Dry,Clear,2,car,female,34.48874958056001,0
+7,Day,Asphalt,Dry,Unclear,1,truck,female,18.0,0
+4,Night,Soil,Dry,Clear,3,car,male,25.431404410390446,0
+6,Dawn,Asphalt,Dry,Clear,2,car,male,46.80809015978491,0
+2,Day,Soil,Dry,Clear,2,truck,female,46.14817669833219,0
+7,Night,Asphalt,Dry,Clear,3,motorcycle,male,21.89092245081492,1
+2,Day,Soil,Wet or Damaged,Clear,3,bus,male,45.13498798437752,1
+6,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Day,Soil,Dry,Clear,2,car,male,26.84755360848137,0
+4,Dawn,Asphalt,Wet or Damaged,Clear,2,car,female,44.48580354178132,0
+5,Night,Asphalt,Wet or Damaged,Clear,3,car,female,36.66427549834439,1
+1,Day,Soil,Dry,Clear,4,truck,female,51.063831501412906,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,39.236423913330796,0
+1,Dawn,Asphalt,Dry,Clear,2,car,female,50.13662549699447,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,car,female,42.13034094555038,0
+5,Day,Asphalt,Dry,Clear,4,car,male,45.089365699814024,0
+2,Night,Soil,Dry,Clear,1,car,male,18.0,0
+5,Night,Asphalt,Dry,Clear,1,car,female,47.288099060870934,0
+4,Day,Soil,Wet or Damaged,Clear,2,car,male,42.04858229945515,0
+3,Day,Asphalt,Dry,Clear,3,bus,male,18.21962121868274,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,male,19.364275480519392,0
+6,Night,Asphalt,Dry,Clear,1,car,female,26.85632772682189,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+1,Day,Soil,Wet or Damaged,Unclear,1,motorcycle,male,23.23833541984944,1
+5,Day,Asphalt,Dry,Clear,1,bus,female,24.78798070271126,0
+3,Day,Asphalt,Dry,Unclear,1,car,male,52.28843230365554,0
+3,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,43.69740808609795,0
+6,Night,Asphalt,Dry,Clear,1,truck,male,49.51060662242147,0
+2,Night,Soil,Dry,Clear,1,car,male,31.287945130909016,0
+4,Day,Asphalt,Dry,Clear,2,car,male,44.02804755259472,0
+6,Day,Asphalt,Dry,Clear,2,car,male,36.284695281207355,0
+5,Day,Soil,Dry,Clear,1,car,male,35.0353626627913,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,24.18364355540618,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,female,28.464730150811867,0
+3,Day,Asphalt,Dry,Clear,1,car,male,22.99167782821125,0
+2,Dawn,Asphalt,Wet or Damaged,Clear,1,bus,male,40.786565748108245,0
+3,Day,Asphalt,Dry,Clear,3,car,male,33.80964971401298,0
+6,Night,Asphalt,Wet or Damaged,Clear,2,car,female,18.0,0
+6,Day,Asphalt,Dry,Unclear,1,car,male,25.499157126314433,0
+4,Day,Asphalt,Dry,Clear,1,car,male,40.61147605317763,0
+6,Night,Asphalt,Wet or Damaged,Clear,4,truck,male,22.902900016829875,1
+7,Day,Asphalt,Dry,Clear,1,car,male,35.51726389074002,0
+6,Day,Soil,Dry,Clear,4,car,female,18.0,0
+6,Day,Asphalt,Dry,Clear,1,truck,female,18.0,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,car,male,30.966552823972506,0
+1,Day,Asphalt,Dry,Unclear,2,truck,female,31.747381985015952,0
+5,Night,Soil,Dry,Clear,3,motorcycle,male,65.71811381138215,1
+2,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,29.87751342990014,0
+7,Night,Soil,Dry,Unclear,2,car,male,43.87835190049371,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,female,36.682306013602236,0
+6,Day,Soil,Dry,Clear,1,truck,male,34.79632989302622,0
+3,Night,Asphalt,Dry,Clear,3,bus,male,42.35247160087754,1
+3,Night,Asphalt,Dry,Clear,1,car,male,40.50954156047943,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,female,31.962113895798844,0
+6,Night,Asphalt,Wet or Damaged,Clear,2,bus,female,34.844469388533135,1
+7,Day,Soil,Dry,Clear,1,car,male,62.51846915856841,0
+7,Day,Asphalt,Dry,Clear,3,car,female,20.890821580021573,0
+2,Day,Asphalt,Dry,Clear,1,car,male,41.05791175614854,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,female,28.35571123503118,0
+4,Night,Asphalt,Wet or Damaged,Clear,2,car,male,18.900308281491895,0
+4,Day,Asphalt,Dry,Clear,1,car,female,49.392495020964894,0
+6,Dawn,Asphalt,Dry,Clear,1,car,male,40.654379625665705,0
+4,Day,Asphalt,Dry,Clear,4,bus,male,22.368959915834562,0
+3,Day,Asphalt,Wet or Damaged,Clear,4,truck,male,32.624187567120096,0
+7,Day,Asphalt,Dry,Clear,4,truck,female,39.372540095520094,0
+3,Day,Soil,Dry,Clear,1,truck,male,20.045424713746478,0
+1,Day,Asphalt,Dry,Clear,3,car,male,29.589259052878585,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,35.62121107550001,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,female,49.741610108426116,0
+1,Night,Asphalt,Wet or Damaged,Clear,2,car,male,27.55958879633365,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,female,25.043419002221704,0
+3,Day,Soil,Dry,Clear,4,car,female,49.51041802773727,0
+1,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,32.06157939279358,0
+1,Night,Asphalt,Dry,Clear,2,truck,male,18.0,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,female,23.850367215406123,0
+4,Night,Asphalt,Dry,Clear,1,truck,male,37.11259624702734,0
+2,Night,Asphalt,Dry,Clear,1,car,male,28.70617477844116,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,43.10742491129483,0
+4,Day,Soil,Wet or Damaged,Clear,1,car,male,41.52599800091637,0
+4,Day,Asphalt,Dry,Clear,1,car,female,24.892865147991138,0
+5,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Day,Asphalt,Dry,Clear,3,truck,male,45.09326769357327,0
+5,Day,Asphalt,Dry,Clear,1,car,male,41.16687115444714,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,44.34503342903413,0
+3,Day,Asphalt,Dry,Clear,1,car,female,18.0,0
+5,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,38.307902100623615,0
+3,Day,Soil,Dry,Clear,1,car,male,31.846233000085988,0
+1,Day,Asphalt,Dry,Clear,1,car,male,22.90027259849801,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,33.292879632003604,1
+3,Night,Asphalt,Dry,Clear,1,truck,female,40.762187560500266,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,44.34767949741724,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,39.72307870377165,0
+4,Day,Asphalt,Dry,Clear,1,car,male,32.999899422719714,0
+1,Night,Asphalt,Dry,Unclear,1,car,male,28.19009210269861,0
+5,Day,Soil,Dry,Unclear,1,car,female,32.11281970986859,0
+4,Day,Asphalt,Dry,Clear,1,car,male,41.15104893583616,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,42.717335582962065,0
+1,Night,Asphalt,Dry,Clear,2,motorcycle,female,25.52382036498586,0
+1,Night,Asphalt,Dry,Clear,1,truck,female,32.83077975189505,0
+2,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+2,Night,Asphalt,Dry,Clear,2,truck,male,41.84537328983552,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,44.96900973359463,0
+6,Night,Asphalt,Dry,Clear,1,car,female,23.85305916303789,0
+3,Night,Asphalt,Dry,Clear,2,motorcycle,male,21.7419380507258,0
+3,Day,Asphalt,Dry,Clear,1,car,male,43.311530109745355,0
+7,Day,Asphalt,Dry,Clear,2,car,male,29.245908145039856,0
+6,Day,Asphalt,Dry,Clear,4,car,male,53.50663307775696,0
+5,Night,Asphalt,Dry,Clear,1,car,male,50.318012046412186,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,4,car,male,29.739594108668328,0
+7,Night,Asphalt,Dry,Clear,1,car,male,26.43214743443118,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,36.161139162041856,0
+1,Day,Asphalt,Dry,Clear,4,bus,male,27.210420754008446,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,52.154668556078136,0
+4,Dawn,Asphalt,Dry,Clear,1,car,male,44.308974109117266,0
+3,Night,Soil,Dry,Unclear,2,truck,male,45.9500954945499,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,29.534238897199227,0
+1,Day,Asphalt,Wet or Damaged,Clear,3,motorcycle,female,33.197161910065425,1
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,37.493760690629365,0
+3,Day,Soil,Wet or Damaged,Clear,2,car,male,57.94342282849347,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,car,female,47.5904665258098,0
+7,Night,Asphalt,Dry,Clear,2,truck,female,30.245418112666854,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,49.27917254662134,0
+5,Day,Asphalt,Dry,Clear,1,car,male,44.218826652636395,0
+7,Dawn,Asphalt,Wet or Damaged,Clear,3,car,male,20.583296734081323,0
+1,Night,Asphalt,Dry,Clear,2,car,male,40.082334152744686,0
+7,Day,Soil,Dry,Unclear,3,motorcycle,female,37.747515569373164,1
+3,Day,Soil,Dry,Clear,1,bus,female,18.89725424350317,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,49.19853083534129,0
+6,Dawn,Soil,Dry,Unclear,1,motorcycle,male,42.64037764312085,0
+1,Night,Asphalt,Dry,Clear,4,car,male,38.42798171726106,0
+4,Day,Asphalt,Dry,Clear,1,car,male,44.66671273290355,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,39.90572448955564,0
+2,Night,Asphalt,Dry,Clear,3,motorcycle,male,35.340421986702076,1
+6,Night,Soil,Dry,Clear,1,car,male,43.65749555344278,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,25.86546202217729,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,41.173129460272165,0
+5,Night,Asphalt,Dry,Clear,2,truck,female,47.04037952700683,0
+3,Night,Asphalt,Dry,Clear,3,car,female,41.0903630833392,0
+5,Day,Asphalt,Dry,Unclear,1,bus,male,36.37860495710311,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,18.0,1
+4,Day,Soil,Dry,Clear,1,motorcycle,male,34.57605824682677,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,29.670656055459432,0
+2,Day,Soil,Dry,Clear,2,car,male,35.56943739296777,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,48.51402690967261,0
+6,Day,Asphalt,Dry,Unclear,1,truck,female,36.302440087470785,0
+3,Night,Soil,Wet or Damaged,Clear,2,motorcycle,male,36.71214631312487,1
+1,Day,Soil,Dry,Clear,1,bus,male,22.031657930492074,0
+4,Night,Soil,Wet or Damaged,Clear,1,car,male,36.14468716691021,0
+3,Night,Asphalt,Dry,Clear,4,truck,male,27.998736215899633,0
+3,Day,Asphalt,Dry,Unclear,3,car,female,35.37202727528933,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,male,54.680612481776166,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,50.508134136371496,0
+5,Day,Asphalt,Dry,Clear,3,motorcycle,male,37.34368087821945,0
+4,Day,Soil,Dry,Clear,1,car,female,18.0,0
+3,Night,Asphalt,Dry,Clear,1,truck,male,28.751584941272,0
+1,Dawn,Soil,Dry,Clear,2,truck,male,27.813188040362206,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,40.97337446815643,0
+2,Day,Asphalt,Dry,Clear,1,car,female,40.02805520501481,0
+6,Night,Soil,Dry,Unclear,2,truck,male,44.448059605262,0
+4,Night,Soil,Dry,Unclear,1,truck,male,28.596568128158918,0
+5,Day,Asphalt,Dry,Unclear,2,car,female,35.37274096951607,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,bus,female,26.7077926622944,0
+1,Night,Asphalt,Dry,Clear,3,bus,male,28.59904876111544,1
+7,Dawn,Asphalt,Wet or Damaged,Clear,3,truck,male,18.0,0
+6,Day,Soil,Dry,Clear,1,car,male,43.345527001752075,0
+1,Day,Asphalt,Wet or Damaged,Clear,4,car,male,39.21394409377958,0
+4,Day,Soil,Dry,Clear,1,car,male,37.50000133198602,0
+3,Day,Asphalt,Dry,Clear,1,car,male,42.103739164356526,0
+6,Day,Asphalt,Dry,Clear,2,car,male,54.4677083947111,0
+6,Night,Asphalt,Dry,Clear,4,car,female,39.80733608044508,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,35.37096658849919,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,car,female,31.81271308054135,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,31.91710512476952,0
+3,Dawn,Asphalt,Dry,Clear,1,truck,female,18.524341021296955,0
+1,Day,Asphalt,Dry,Unclear,1,car,male,18.0,0
+7,Day,Asphalt,Wet or Damaged,Clear,2,car,male,42.00291098582836,0
+6,Night,Asphalt,Dry,Clear,1,car,female,50.5308487703418,0
+7,Day,Asphalt,Dry,Unclear,3,car,female,49.85000843045511,0
+1,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+4,Day,Soil,Wet or Damaged,Clear,2,car,male,36.741339069577755,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,18.22301424066112,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,38.569764123525985,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,female,28.77811035537165,0
+3,Day,Soil,Dry,Clear,1,motorcycle,male,26.671490043908275,0
+4,Day,Soil,Dry,Clear,1,bus,female,24.83490428757535,0
+1,Day,Asphalt,Dry,Clear,3,car,male,42.40957784608577,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,25.637269008019825,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,female,39.90193796548695,0
+7,Day,Soil,Dry,Clear,2,motorcycle,male,35.5181737682262,0
+1,Day,Soil,Dry,Clear,1,car,male,38.728203584100015,0
+6,Night,Soil,Dry,Clear,1,car,male,24.613376762304775,0
+5,Night,Asphalt,Dry,Unclear,1,car,male,53.5825108660908,0
+7,Night,Asphalt,Wet or Damaged,Clear,3,car,male,30.104459371168346,1
+3,Night,Asphalt,Dry,Clear,2,car,female,52.005286473824356,0
+7,Day,Asphalt,Dry,Unclear,2,car,female,22.43488199003542,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,car,female,30.803274787698154,0
+1,Dawn,Asphalt,Dry,Clear,1,truck,female,30.00631090388044,0
+3,Night,Asphalt,Dry,Clear,1,car,female,33.820234612824656,0
+4,Day,Asphalt,Dry,Clear,1,truck,female,38.0502629478488,0
+7,Day,Asphalt,Dry,Clear,3,car,male,42.41469207875177,0
+2,Day,Asphalt,Dry,Clear,1,truck,female,23.684967414011027,0
+3,Night,Soil,Dry,Clear,1,car,male,31.919768720889437,0
+6,Dawn,Asphalt,Dry,Clear,3,truck,male,38.33053018718904,0
+1,Day,Asphalt,Dry,Clear,3,truck,male,45.94733836371461,0
+5,Night,Asphalt,Dry,Clear,1,car,male,48.60845933177768,0
+4,Day,Asphalt,Dry,Unclear,1,car,female,36.27767460542268,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,female,36.09625208383583,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,20.31472623546318,0
+3,Day,Asphalt,Dry,Clear,2,motorcycle,male,46.36285634105837,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,female,37.83563988483699,0
+2,Day,Soil,Wet or Damaged,Unclear,1,car,male,35.969758215291364,0
+6,Day,Asphalt,Dry,Clear,1,car,male,44.0329173107011,0
+7,Day,Asphalt,Dry,Clear,2,truck,male,40.24364512546314,0
+2,Night,Asphalt,Dry,Clear,2,motorcycle,male,34.643834908508005,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,25.017781234580927,0
+6,Day,Asphalt,Dry,Unclear,1,truck,male,31.01997894515114,0
+7,Day,Asphalt,Dry,Clear,2,car,male,28.750030888308782,0
+4,Night,Asphalt,Dry,Clear,2,car,male,27.194005604569018,0
+6,Day,Soil,Dry,Clear,4,motorcycle,male,18.0,0
+5,Night,Asphalt,Dry,Clear,3,truck,female,34.43526567114595,0
+4,Night,Soil,Dry,Unclear,1,car,male,22.69709566817045,0
+2,Day,Asphalt,Dry,Clear,1,car,male,34.822040499088274,0
+7,Night,Asphalt,Dry,Clear,3,car,female,43.27286805119557,0
+7,Night,Asphalt,Dry,Clear,1,car,female,47.90540458691649,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,bus,female,18.88589489058862,1
+4,Day,Soil,Dry,Clear,2,truck,male,30.964587590012055,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,bus,male,55.01966796390002,0
+5,Day,Asphalt,Dry,Clear,2,motorcycle,female,31.989889413128182,0
+2,Day,Asphalt,Dry,Clear,3,motorcycle,female,43.63724207380252,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,25.494180520072117,0
+3,Day,Asphalt,Dry,Clear,3,car,male,44.92011921464276,0
+1,Dawn,Asphalt,Dry,Clear,2,car,male,38.648549425454185,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,41.84771484421354,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,40.82957528269355,0
+6,Day,Asphalt,Wet or Damaged,Clear,3,car,male,36.972491093809374,0
+3,Day,Asphalt,Dry,Clear,2,motorcycle,male,31.028938997024397,0
+4,Night,Soil,Wet or Damaged,Clear,3,car,male,24.41338097284833,1
+4,Night,Asphalt,Wet or Damaged,Clear,1,car,female,46.5384822067909,0
+1,Day,Soil,Dry,Clear,3,truck,female,33.68156715285471,0
+6,Night,Asphalt,Dry,Clear,2,car,male,44.621499609569995,0
+3,Night,Asphalt,Dry,Clear,1,bus,male,55.038806559643554,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,male,25.76684772040339,0
+4,Night,Asphalt,Dry,Unclear,1,truck,female,18.0,0
+1,Night,Soil,Dry,Clear,4,car,female,37.05258622491131,0
+2,Day,Asphalt,Dry,Clear,2,car,male,26.508337150588595,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,female,37.760012651853515,0
+7,Night,Asphalt,Dry,Clear,3,motorcycle,male,47.07056602788393,1
+4,Day,Asphalt,Dry,Clear,3,truck,female,29.354749836912774,0
+3,Day,Asphalt,Dry,Clear,2,truck,male,34.379464406447944,0
+7,Day,Asphalt,Dry,Clear,2,car,male,40.82549767890463,0
+1,Day,Asphalt,Dry,Clear,3,car,male,32.058149790527274,0
+2,Night,Asphalt,Dry,Clear,3,car,female,32.47223519224119,0
+4,Day,Asphalt,Dry,Clear,3,car,male,51.48733484265408,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,22.37279629047202,0
+7,Dawn,Asphalt,Dry,Clear,1,bus,male,32.81687283764378,0
+3,Day,Asphalt,Dry,Clear,1,car,male,39.10720463891424,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,18.0,0
+7,Night,Soil,Dry,Unclear,3,bus,male,34.50447366434631,1
+2,Night,Asphalt,Dry,Clear,1,bus,male,26.5975377663283,0
+4,Day,Asphalt,Dry,Clear,1,car,female,38.41076792292023,0
+6,Night,Asphalt,Dry,Clear,1,car,female,32.42417678500254,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,36.62145783003101,0
+3,Day,Asphalt,Dry,Clear,2,motorcycle,female,23.34064370649744,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,34.539998333738275,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,52.145919229630636,1
+5,Day,Soil,Dry,Clear,4,motorcycle,male,35.98748407804547,0
+7,Night,Soil,Wet or Damaged,Clear,1,bus,male,23.629202864279826,1
+5,Day,Asphalt,Dry,Clear,1,truck,male,61.01346903590779,0
+7,Dawn,Asphalt,Dry,Clear,1,bus,male,50.10628533548813,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,36.06710396616288,0
+4,Dawn,Asphalt,Dry,Clear,3,truck,male,31.687932619101105,0
+7,Night,Soil,Dry,Clear,1,car,female,49.531309155959676,0
+5,Day,Soil,Dry,Clear,3,truck,male,65.28044741196258,0
+2,Night,Asphalt,Dry,Unclear,1,car,male,45.50530465243227,0
+6,Day,Soil,Dry,Clear,1,truck,female,24.578564365678037,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,28.009601341660968,0
+5,Day,Soil,Dry,Clear,3,car,female,33.268755108212154,0
+3,Day,Asphalt,Dry,Clear,4,car,female,36.31663820173488,0
+7,Day,Soil,Wet or Damaged,Clear,2,car,male,18.0,0
+6,Day,Asphalt,Dry,Clear,1,car,male,36.83105170310752,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,car,female,36.827108273093266,0
+2,Day,Soil,Dry,Clear,3,truck,male,51.33611986732305,0
+4,Night,Asphalt,Dry,Clear,2,truck,female,18.0,0
+6,Night,Asphalt,Dry,Clear,1,truck,female,52.156725336732805,0
+4,Day,Asphalt,Dry,Unclear,4,truck,male,43.55879977015304,0
+4,Night,Asphalt,Dry,Clear,2,motorcycle,male,24.998496916543505,0
+1,Day,Soil,Dry,Unclear,1,truck,female,24.681344567164764,0
+3,Night,Asphalt,Dry,Clear,2,car,male,45.668892688040145,0
+7,Day,Asphalt,Dry,Clear,1,car,male,44.30558745199521,0
+7,Night,Asphalt,Dry,Clear,1,truck,female,22.906475481756527,0
+5,Night,Asphalt,Dry,Clear,2,bus,male,35.94105309326191,0
+4,Day,Asphalt,Wet or Damaged,Unclear,3,motorcycle,female,46.138973721634606,1
+3,Day,Soil,Dry,Unclear,1,car,male,41.633669639434146,0
+5,Day,Asphalt,Dry,Clear,4,truck,female,30.69707968286377,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,43.04694361777262,0
+4,Night,Asphalt,Dry,Clear,1,car,male,61.748795268676005,0
+2,Night,Soil,Dry,Clear,1,car,male,32.9426953978394,0
+7,Night,Soil,Dry,Clear,1,motorcycle,male,32.88844744916186,0
+7,Night,Asphalt,Dry,Clear,3,car,male,55.23031077604318,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,55.65813398794877,0
+3,Night,Asphalt,Dry,Clear,1,motorcycle,male,30.272344179783516,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,38.42291372652265,0
+5,Night,Asphalt,Dry,Clear,1,truck,female,34.341090440524816,0
+4,Night,Soil,Wet or Damaged,Unclear,1,car,male,31.56109631676529,1
+2,Night,Soil,Dry,Clear,1,car,male,49.271123074134906,0
+3,Day,Asphalt,Dry,Clear,3,car,male,32.293336487954946,0
+6,Night,Asphalt,Dry,Clear,1,car,female,49.66220458449605,0
+3,Day,Asphalt,Dry,Clear,3,car,female,19.997241292184647,0
+1,Dawn,Asphalt,Wet or Damaged,Unclear,3,car,male,32.853440340678546,1
+1,Day,Asphalt,Dry,Unclear,2,motorcycle,male,40.398189756627204,0
+5,Night,Asphalt,Dry,Unclear,1,car,male,50.48264378246128,0
+4,Day,Asphalt,Dry,Clear,2,car,male,36.80716359938347,0
+3,Night,Asphalt,Dry,Clear,2,car,male,21.077281702654357,0
+2,Day,Asphalt,Dry,Clear,3,motorcycle,female,55.99713164930025,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+5,Night,Asphalt,Dry,Clear,1,car,male,22.66372965691788,0
+7,Night,Soil,Dry,Clear,3,truck,male,39.240722064720124,0
+5,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+3,Night,Asphalt,Dry,Unclear,1,car,female,47.564900741227596,0
+1,Night,Asphalt,Dry,Clear,1,truck,female,37.47080848160415,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,59.759578166528755,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,18.0,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+7,Day,Asphalt,Dry,Clear,1,car,male,41.3407881902729,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,25.677752725982835,0
+2,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+5,Night,Soil,Wet or Damaged,Clear,1,car,male,18.964578417941446,0
+4,Night,Asphalt,Dry,Clear,3,car,male,23.08012633263835,0
+5,Day,Asphalt,Dry,Unclear,1,truck,male,22.524335167091444,0
+4,Day,Asphalt,Dry,Clear,1,car,female,21.9432131945488,0
+1,Day,Asphalt,Dry,Unclear,2,bus,male,18.0,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,41.349599903111994,0
+2,Day,Asphalt,Dry,Clear,2,motorcycle,female,53.26645558546171,0
+3,Night,Asphalt,Dry,Clear,3,bus,female,33.054729676910995,1
+4,Day,Soil,Wet or Damaged,Clear,2,car,male,21.82458079611954,0
+5,Day,Asphalt,Dry,Unclear,4,car,male,45.22493679612832,0
+4,Day,Asphalt,Dry,Clear,3,bus,male,31.785017369693414,0
+6,Day,Asphalt,Dry,Clear,1,car,female,39.683968446001586,0
+7,Day,Asphalt,Dry,Clear,2,motorcycle,male,62.54253440275534,0
+3,Night,Asphalt,Dry,Clear,3,car,female,49.21431247952694,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,female,50.16938150678888,0
+4,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+2,Dawn,Asphalt,Dry,Clear,1,truck,female,46.97067070262239,0
+2,Night,Asphalt,Dry,Unclear,1,car,female,38.694818853321394,0
+3,Day,Asphalt,Dry,Clear,3,car,female,40.6447793061405,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,34.00532969813186,0
+7,Night,Soil,Wet or Damaged,Clear,1,car,female,27.26397220505443,0
+4,Night,Asphalt,Dry,Clear,2,motorcycle,male,33.0554261455844,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,21.16450007333583,0
+4,Day,Soil,Dry,Unclear,3,motorcycle,male,37.55560808233548,1
+5,Night,Asphalt,Wet or Damaged,Clear,2,motorcycle,male,56.451666856603914,1
+3,Dawn,Soil,Dry,Unclear,1,car,female,53.8387205969083,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,male,49.09627163187244,0
+3,Dawn,Asphalt,Wet or Damaged,Clear,1,bus,male,29.74896569365607,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,43.22739490655423,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,3,motorcycle,male,48.57543160031676,1
+1,Day,Asphalt,Dry,Unclear,1,truck,female,23.16503935314529,0
+4,Dawn,Asphalt,Dry,Clear,2,truck,female,20.462076175040465,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,25.623968257932432,0
+5,Day,Asphalt,Dry,Clear,1,truck,female,72.37698803333271,0
+7,Day,Asphalt,Dry,Unclear,1,bus,female,31.5869452580218,0
+1,Dawn,Asphalt,Dry,Clear,1,bus,male,51.98227014561046,0
+5,Day,Asphalt,Dry,Clear,1,car,male,41.28429940448477,0
+4,Day,Asphalt,Dry,Clear,4,car,male,35.40089384449968,0
+7,Day,Soil,Wet or Damaged,Clear,2,car,female,18.0,0
+3,Night,Soil,Wet or Damaged,Unclear,1,bus,male,61.04308060464305,1
+2,Day,Soil,Dry,Clear,3,motorcycle,female,26.861566182997496,0
+6,Day,Asphalt,Dry,Clear,2,car,male,52.07204998702522,0
+5,Night,Asphalt,Dry,Unclear,1,motorcycle,female,27.065730408126864,1
+4,Night,Asphalt,Wet or Damaged,Unclear,1,car,female,44.57852489364301,1
+5,Day,Soil,Wet or Damaged,Clear,1,bus,male,28.493900925501002,0
+2,Dawn,Soil,Dry,Unclear,1,truck,female,36.55251136567117,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,32.59033405948088,0
+5,Day,Soil,Dry,Clear,1,truck,male,40.48591104531172,0
+7,Day,Asphalt,Dry,Clear,4,car,male,52.0873205691681,0
+1,Night,Soil,Dry,Clear,1,motorcycle,male,41.67554688439576,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,38.769092374406405,0
+5,Day,Asphalt,Dry,Clear,1,car,female,48.70045014761778,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,female,32.97435853242258,0
+4,Night,Soil,Wet or Damaged,Clear,1,car,male,26.299946290286265,0
+2,Day,Asphalt,Dry,Clear,2,motorcycle,male,41.40392967329929,0
+6,Day,Asphalt,Dry,Clear,1,car,female,36.70423593561264,0
+6,Day,Asphalt,Dry,Clear,3,truck,male,23.085555601101394,0
+1,Day,Asphalt,Dry,Clear,4,truck,male,18.77375758402362,0
+5,Day,Asphalt,Dry,Clear,1,car,female,27.51984075848213,0
+6,Night,Asphalt,Dry,Clear,1,truck,female,36.04035920555836,0
+3,Day,Soil,Dry,Clear,1,car,male,38.280601202846675,0
+3,Night,Asphalt,Dry,Clear,3,motorcycle,male,44.954382757398314,1
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,37.37203068219271,0
+5,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+2,Day,Asphalt,Dry,Unclear,3,motorcycle,male,25.36112146135554,1
+5,Night,Asphalt,Dry,Clear,3,car,male,29.108591417287016,0
+7,Night,Asphalt,Dry,Clear,1,car,male,53.179906889182305,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,57.62973070698598,0
+7,Day,Asphalt,Wet or Damaged,Clear,4,car,male,41.39696888450478,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,27.818344246546282,1
+1,Dawn,Asphalt,Wet or Damaged,Clear,3,bus,male,28.99942298894682,1
+7,Day,Soil,Dry,Clear,1,car,male,29.367222089650355,0
+5,Dawn,Soil,Wet or Damaged,Unclear,2,car,male,24.98285744789699,0
+1,Dawn,Soil,Dry,Clear,2,car,male,38.96661619419478,0
+2,Day,Asphalt,Dry,Clear,1,car,female,25.897569421748507,0
+2,Dawn,Asphalt,Dry,Clear,2,car,male,45.70338660201122,0
+1,Day,Asphalt,Dry,Clear,1,car,male,34.02469895537494,0
+1,Night,Asphalt,Dry,Clear,1,truck,male,36.588890463713405,0
+1,Day,Soil,Dry,Clear,3,motorcycle,male,20.28986672158016,0
+4,Night,Asphalt,Dry,Clear,4,bus,male,36.08290374790037,1
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,42.681694087907566,0
+2,Day,Soil,Wet or Damaged,Unclear,1,bus,male,23.985758887813276,1
+3,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+1,Night,Asphalt,Dry,Clear,1,truck,female,47.08644294251884,0
+6,Night,Asphalt,Dry,Unclear,1,car,male,23.540678242925015,0
+5,Day,Soil,Dry,Clear,2,car,female,25.495459745063933,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,male,43.42329172662832,0
+4,Day,Soil,Dry,Clear,1,car,male,26.617752395036717,0
+2,Night,Asphalt,Dry,Clear,1,bus,female,58.61838958825046,0
+4,Dawn,Asphalt,Wet or Damaged,Clear,1,truck,male,32.08834921457181,0
+4,Day,Soil,Wet or Damaged,Clear,3,motorcycle,female,28.368332252387972,1
+4,Night,Asphalt,Wet or Damaged,Clear,2,truck,male,49.31647456644184,0
+1,Day,Asphalt,Dry,Unclear,1,car,female,18.0,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,34.613617928820304,0
+5,Day,Asphalt,Dry,Clear,3,truck,male,44.0514760447914,0
+3,Night,Soil,Dry,Clear,1,truck,male,30.125102621948077,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,44.45204184122487,0
+2,Night,Soil,Wet or Damaged,Clear,1,car,male,36.50863452129504,0
+3,Day,Asphalt,Dry,Clear,2,car,male,60.94511834122296,0
+3,Night,Asphalt,Wet or Damaged,Clear,2,truck,male,46.92363564719794,0
+5,Dawn,Asphalt,Dry,Clear,1,truck,male,46.94681136336002,0
+1,Night,Asphalt,Dry,Clear,1,car,male,38.188463492371106,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,18.0,1
+2,Day,Asphalt,Dry,Clear,2,car,female,21.508691036744967,0
+4,Day,Soil,Dry,Clear,1,bus,female,35.101586016238876,0
+1,Day,Asphalt,Dry,Clear,2,car,male,25.173005291278873,0
+5,Night,Soil,Dry,Clear,1,car,female,39.151844994896265,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,18.0,0
+3,Day,Asphalt,Dry,Clear,1,truck,female,41.07594886727831,0
+7,Day,Asphalt,Dry,Clear,1,car,male,30.48383649694582,0
+4,Day,Asphalt,Dry,Clear,1,car,male,29.97043748071333,0
+1,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+3,Day,Asphalt,Dry,Clear,1,car,male,47.57919246692785,0
+4,Day,Soil,Dry,Clear,1,motorcycle,female,31.059376296378367,0
+6,Night,Asphalt,Dry,Unclear,4,motorcycle,male,28.07628867633286,1
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,31.872982954205643,0
+3,Day,Soil,Dry,Unclear,4,motorcycle,male,30.661568541296823,1
+1,Night,Asphalt,Dry,Clear,1,car,male,41.04999092886206,0
+3,Night,Asphalt,Dry,Unclear,1,motorcycle,female,48.83207819350963,1
+5,Night,Soil,Wet or Damaged,Clear,2,car,female,60.94181529365295,0
+4,Day,Asphalt,Dry,Unclear,3,motorcycle,male,36.16462835492506,1
+5,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,23.342001878335438,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+1,Night,Asphalt,Dry,Clear,2,truck,male,47.88045582817412,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,female,25.613197788268245,0
+3,Day,Soil,Dry,Clear,3,car,male,22.714885133999164,0
+4,Night,Asphalt,Dry,Clear,1,bus,male,34.64861292622378,0
+6,Night,Asphalt,Dry,Unclear,3,truck,female,43.0895747618889,1
+2,Dawn,Soil,Dry,Clear,1,truck,female,23.02140497774368,0
+7,Day,Asphalt,Dry,Clear,1,car,male,21.850344167558863,0
+5,Night,Asphalt,Dry,Clear,1,truck,male,38.12971822296318,0
+5,Night,Asphalt,Dry,Unclear,1,car,male,18.0,0
+1,Day,Asphalt,Dry,Clear,1,car,male,34.16706618012027,0
+2,Dawn,Asphalt,Dry,Clear,1,car,male,29.189484586204827,0
+2,Day,Soil,Wet or Damaged,Clear,1,bus,male,26.468982969884067,0
+3,Day,Asphalt,Dry,Clear,3,motorcycle,female,53.51499124502128,0
+1,Dawn,Soil,Wet or Damaged,Clear,1,motorcycle,male,45.529485344776326,0
+1,Day,Soil,Dry,Unclear,2,car,male,26.797211756991338,0
+5,Night,Soil,Dry,Clear,1,truck,female,37.74387315532482,0
+6,Day,Soil,Dry,Unclear,3,car,male,49.10405255550413,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,29.48958759433696,0
+1,Night,Asphalt,Dry,Clear,1,car,male,39.77310973054965,0
+6,Day,Asphalt,Dry,Unclear,2,bus,male,47.60504476510432,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,26.162285083166385,0
+6,Day,Asphalt,Wet or Damaged,Clear,2,bus,female,47.813640197866185,0
+1,Night,Asphalt,Dry,Clear,1,car,male,55.21252942546,0
+2,Night,Asphalt,Dry,Clear,2,car,male,35.279055202130735,0
+5,Day,Asphalt,Dry,Clear,3,car,male,61.28089303317427,0
+4,Night,Asphalt,Dry,Unclear,1,car,female,27.009184157888946,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,21.919166375126103,0
+5,Dawn,Asphalt,Dry,Clear,1,car,male,48.14029924663139,0
+3,Day,Asphalt,Dry,Clear,1,car,female,18.0,0
+2,Night,Asphalt,Dry,Clear,3,car,female,32.58020593835873,0
+7,Day,Soil,Wet or Damaged,Clear,1,car,male,35.72829323759856,0
+7,Night,Asphalt,Dry,Clear,2,car,female,36.28819406217318,0
+1,Dawn,Asphalt,Dry,Clear,3,car,female,18.0,0
+3,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,25.558725658949598,0
+5,Night,Soil,Dry,Clear,1,car,male,26.535086398151165,0
+3,Night,Asphalt,Dry,Clear,1,bus,female,43.79250765075743,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,26.18468637422142,1
+4,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+6,Day,Asphalt,Dry,Clear,3,motorcycle,male,32.54224594919497,0
+1,Dawn,Asphalt,Dry,Clear,1,truck,male,21.940759286319494,0
+3,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,48.93142522980858,0
+5,Day,Soil,Dry,Clear,1,bus,male,40.35999898628218,0
+6,Night,Asphalt,Dry,Clear,3,car,male,53.06724456414951,0
+2,Day,Soil,Dry,Unclear,3,truck,female,44.824746032234884,0
+3,Day,Asphalt,Dry,Clear,1,car,male,51.49838230513554,0
+7,Night,Asphalt,Dry,Unclear,2,car,male,37.539983257786574,0
+7,Day,Asphalt,Dry,Clear,1,car,female,25.426383626137,0
+3,Dawn,Asphalt,Dry,Clear,1,truck,male,19.01402495124698,0
+6,Day,Soil,Dry,Clear,1,car,male,37.636066953380094,0
+1,Night,Asphalt,Dry,Clear,1,car,female,44.441257288050835,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,25.07817938657238,0
+7,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+2,Night,Asphalt,Dry,Clear,1,motorcycle,female,29.892687935181968,0
+4,Night,Asphalt,Dry,Unclear,4,car,male,23.039754676575978,1
+6,Day,Asphalt,Dry,Clear,1,car,male,36.60631849320347,0
+2,Night,Asphalt,Dry,Clear,3,car,male,30.68373996560162,0
+6,Night,Asphalt,Dry,Clear,1,car,male,28.414625328839907,0
+6,Day,Asphalt,Dry,Unclear,1,truck,male,35.43339084526941,0
+1,Day,Soil,Dry,Clear,1,car,male,32.551902189153104,0
+7,Night,Asphalt,Wet or Damaged,Unclear,4,car,male,42.33256247398623,1
+4,Night,Soil,Dry,Clear,1,motorcycle,male,35.033464352022406,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,39.89489456088763,0
+5,Day,Asphalt,Dry,Clear,1,car,male,34.469651180534754,0
+3,Night,Soil,Wet or Damaged,Clear,2,bus,male,31.095709921231425,1
+6,Night,Asphalt,Dry,Clear,1,motorcycle,male,23.820090286408757,0
+6,Day,Soil,Dry,Clear,2,car,male,49.575257193898594,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,27.76927787063502,0
+2,Night,Soil,Dry,Clear,1,truck,female,43.28010509884501,0
+5,Day,Asphalt,Dry,Clear,1,car,female,33.71763002230573,0
+1,Dawn,Asphalt,Dry,Clear,3,car,female,19.838476927110083,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,56.423609193006236,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,44.15273654449577,0
+6,Night,Asphalt,Wet or Damaged,Clear,3,car,male,21.292854704038632,1
+7,Night,Soil,Wet or Damaged,Clear,3,bus,male,18.0,1
+4,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,18.0,0
+3,Night,Asphalt,Dry,Clear,1,car,male,24.55808461088707,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,male,48.83781051737612,0
+1,Day,Asphalt,Dry,Clear,1,car,female,18.0,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,23.093976902848787,0
+1,Day,Asphalt,Dry,Clear,4,truck,male,37.61890154437705,0
+7,Day,Asphalt,Dry,Clear,1,car,male,39.08887812552853,0
+2,Day,Asphalt,Dry,Clear,4,car,female,32.355967688771386,0
+5,Night,Soil,Dry,Clear,1,bus,female,32.31122116649029,0
+2,Day,Asphalt,Dry,Unclear,1,motorcycle,female,22.90417151254067,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,38.6535502923485,0
+3,Day,Asphalt,Dry,Clear,1,car,female,57.203103425268374,0
+4,Night,Soil,Wet or Damaged,Clear,2,car,male,21.796618743833136,0
+4,Dawn,Asphalt,Wet or Damaged,Unclear,1,car,male,28.493953363682202,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,female,60.56974869940799,0
+6,Night,Asphalt,Dry,Clear,1,bus,male,49.03218474459396,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,female,29.250209467492006,0
+5,Day,Soil,Dry,Clear,3,car,female,27.306599013092097,0
+7,Day,Asphalt,Dry,Clear,2,car,female,53.46056197014747,0
+5,Day,Asphalt,Dry,Clear,3,truck,female,34.84793664782324,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,2,truck,female,35.710482089117164,0
+2,Day,Asphalt,Dry,Clear,1,car,male,56.153479864632246,0
+2,Day,Soil,Wet or Damaged,Clear,1,bus,male,36.48515308679845,0
+4,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,38.523081367513605,1
+6,Day,Asphalt,Dry,Clear,1,truck,male,35.64868989089017,0
+6,Dawn,Soil,Wet or Damaged,Clear,1,car,male,56.79642574431469,0
+4,Day,Soil,Dry,Clear,4,motorcycle,male,44.61767893257685,0
+3,Day,Asphalt,Wet or Damaged,Clear,2,car,male,50.15096226993654,0
+1,Night,Asphalt,Wet or Damaged,Clear,2,car,male,43.664688672424866,0
+7,Day,Asphalt,Dry,Clear,1,car,male,31.33124053615647,0
+2,Night,Soil,Dry,Clear,1,truck,male,49.35498123499852,0
+6,Day,Asphalt,Dry,Clear,3,truck,female,29.282453185925334,0
+1,Night,Asphalt,Dry,Clear,1,motorcycle,male,30.523933879373224,0
+6,Day,Asphalt,Dry,Clear,3,car,male,46.432490903091036,0
+5,Night,Asphalt,Dry,Clear,2,truck,male,28.301561560764846,0
+3,Night,Asphalt,Dry,Unclear,1,bus,male,46.83960524091506,1
+4,Day,Asphalt,Dry,Clear,1,car,male,41.72388661194053,0
+2,Day,Soil,Dry,Unclear,1,car,male,36.15464238137848,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,19.164103197078624,0
+2,Night,Asphalt,Dry,Clear,2,car,male,21.085551353774967,0
+2,Day,Soil,Dry,Clear,1,car,female,47.16104865606057,0
+1,Day,Asphalt,Dry,Clear,1,car,female,41.9132830327992,0
+5,Day,Asphalt,Dry,Unclear,2,car,male,39.60143815561974,0
+4,Night,Asphalt,Dry,Clear,1,bus,male,29.57631633664712,0
+5,Day,Soil,Dry,Clear,1,car,male,40.80632720241012,0
+7,Day,Asphalt,Wet or Damaged,Clear,4,car,male,45.364232833003655,0
+7,Day,Asphalt,Dry,Clear,1,car,male,40.36765691978242,0
+1,Night,Asphalt,Dry,Clear,1,car,male,40.127842245203006,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,male,35.158366383608396,0
+1,Day,Soil,Wet or Damaged,Clear,2,car,male,38.062099013535175,0
+2,Day,Soil,Wet or Damaged,Clear,3,car,male,43.50639101353298,0
+7,Night,Asphalt,Dry,Clear,2,truck,male,29.818108634616863,0
+2,Night,Asphalt,Dry,Unclear,1,car,female,34.192785729567674,0
+1,Day,Asphalt,Dry,Clear,3,car,male,18.0,0
+5,Day,Soil,Dry,Clear,1,car,male,31.31167825220526,0
+1,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,42.24773230741063,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,33.330566309681885,0
+1,Night,Soil,Dry,Clear,2,car,male,36.60212206225868,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,51.50227547379472,0
+7,Day,Asphalt,Dry,Clear,1,car,male,27.71651638381848,0
+7,Night,Asphalt,Dry,Clear,1,bus,male,18.0,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,22.362054405136355,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,18.0,0
+3,Day,Soil,Dry,Clear,2,bus,male,29.71617115886269,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,55.66896707762318,0
+7,Dawn,Soil,Dry,Clear,1,car,male,47.71420388447199,0
+5,Day,Asphalt,Dry,Clear,2,motorcycle,male,20.469114190159814,0
+3,Day,Asphalt,Dry,Clear,2,car,male,41.06281657407304,0
+7,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+6,Day,Asphalt,Wet or Damaged,Clear,3,bus,female,26.503790698106066,1
+1,Dawn,Asphalt,Dry,Clear,1,car,male,48.915050885002444,0
+2,Day,Soil,Dry,Clear,1,truck,female,46.777154637422825,0
+1,Dawn,Asphalt,Dry,Clear,1,car,male,18.0,0
+4,Night,Asphalt,Dry,Clear,2,truck,female,32.00071204944902,0
+7,Day,Asphalt,Dry,Clear,3,motorcycle,male,46.34809817541455,0
+2,Night,Soil,Dry,Clear,1,car,male,47.881553097730155,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,car,male,47.86866550792856,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,female,30.029155757798534,0
+5,Night,Asphalt,Dry,Clear,2,motorcycle,male,23.183052375511163,0
+5,Dawn,Asphalt,Wet or Damaged,Clear,2,bus,male,27.9148148478238,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,50.54034779857081,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,35.290297946438145,0
+5,Day,Asphalt,Dry,Clear,2,car,male,36.16878735272847,0
+2,Day,Asphalt,Dry,Clear,1,car,male,28.16406502377474,0
+6,Day,Asphalt,Dry,Clear,3,car,male,30.793290596928983,0
+7,Day,Soil,Dry,Clear,3,bus,male,18.0,0
+3,Dawn,Asphalt,Dry,Clear,2,motorcycle,male,46.79801709883622,0
+1,Day,Soil,Dry,Unclear,4,bus,male,33.752475683730495,1
+3,Day,Asphalt,Dry,Clear,1,truck,female,37.241945533906225,0
+3,Night,Asphalt,Dry,Clear,1,car,male,30.64067065557419,0
+1,Night,Asphalt,Dry,Unclear,1,car,male,30.275113724229435,0
+6,Night,Asphalt,Dry,Clear,4,truck,male,31.91751430891587,0
+6,Day,Soil,Dry,Unclear,3,car,male,42.198505047200335,0
+1,Day,Asphalt,Dry,Clear,1,bus,male,55.65393493620936,0
+2,Day,Asphalt,Dry,Clear,2,truck,male,34.13202463995728,0
+3,Night,Asphalt,Dry,Clear,2,car,male,30.786527103517265,0
+5,Day,Asphalt,Dry,Clear,1,car,female,30.24837256149609,0
+4,Night,Asphalt,Wet or Damaged,Clear,2,car,male,37.221835554057904,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,36.70585965515557,0
+4,Night,Asphalt,Dry,Unclear,1,car,male,27.810483205507403,0
+5,Night,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,25.685194406204516,1
+6,Day,Asphalt,Wet or Damaged,Clear,3,car,male,41.721042231251616,0
+4,Day,Asphalt,Dry,Clear,4,truck,female,35.231832532708495,0
+2,Dawn,Asphalt,Dry,Clear,3,bus,male,35.725532137448376,0
+7,Day,Asphalt,Dry,Clear,1,car,female,51.73298804150588,0
+3,Dawn,Soil,Dry,Unclear,1,truck,male,31.57183731066782,0
+6,Night,Asphalt,Dry,Clear,3,motorcycle,male,42.22686974159497,1
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,male,52.20890477444614,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,25.79465614317791,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,56.27749203883965,0
+4,Dawn,Asphalt,Dry,Clear,2,motorcycle,male,56.301970521878644,0
+6,Night,Asphalt,Dry,Clear,3,car,male,37.1932580155243,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,23.667738305200352,0
+6,Day,Soil,Dry,Unclear,2,truck,male,40.15731000902457,0
+4,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,49.69066893888777,0
+1,Night,Soil,Dry,Clear,1,car,male,53.27652478389564,0
+4,Night,Asphalt,Dry,Clear,2,car,male,24.445397644354895,0
+3,Dawn,Asphalt,Dry,Clear,2,bus,female,42.25012978637996,0
+3,Day,Asphalt,Dry,Clear,3,car,male,42.752935715740136,0
+1,Day,Soil,Dry,Unclear,1,car,male,26.600015122954016,0
+1,Day,Asphalt,Dry,Unclear,1,truck,male,49.331088852794245,0
+6,Day,Asphalt,Wet or Damaged,Unclear,2,truck,male,38.57528565398731,0
+7,Day,Asphalt,Dry,Clear,1,truck,female,34.2704823143765,0
+6,Day,Asphalt,Dry,Clear,4,truck,female,58.40979810433849,0
+2,Day,Soil,Dry,Clear,1,car,female,26.989189993567614,0
+6,Night,Asphalt,Dry,Clear,1,truck,female,37.15686565682867,0
+4,Night,Asphalt,Dry,Clear,3,car,male,37.764670044898644,0
+4,Day,Asphalt,Wet or Damaged,Clear,4,car,male,18.0,0
+1,Night,Asphalt,Dry,Clear,2,car,female,20.256545038092316,0
+1,Day,Asphalt,Dry,Clear,1,bus,female,38.598853509083746,0
+4,Day,Soil,Dry,Clear,1,truck,male,21.7044311014214,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,32.873591231799864,0
+4,Night,Asphalt,Dry,Clear,1,car,female,35.55051776092073,0
+2,Day,Asphalt,Dry,Unclear,2,bus,male,44.265948414964306,0
+3,Day,Soil,Dry,Clear,1,truck,female,22.9225293451718,0
+3,Dawn,Soil,Dry,Unclear,1,car,female,29.882276480361796,0
+3,Day,Asphalt,Dry,Clear,2,car,male,40.240668018616056,0
+3,Dawn,Asphalt,Dry,Clear,3,truck,female,53.64983891964198,0
+5,Night,Asphalt,Dry,Clear,2,car,male,41.02392116809202,0
+7,Night,Asphalt,Dry,Clear,2,motorcycle,male,71.3638177585557,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,29.518509422613125,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,car,male,42.00820410150566,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,bus,male,49.96810561597522,1
+5,Night,Asphalt,Dry,Clear,3,car,female,18.0,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,42.06607395730375,1
+1,Day,Soil,Dry,Unclear,1,car,male,18.0,0
+1,Day,Asphalt,Wet or Damaged,Unclear,3,motorcycle,male,19.3730564528517,1
+5,Night,Asphalt,Wet or Damaged,Clear,2,truck,male,33.5560314466996,0
+6,Day,Asphalt,Dry,Clear,3,truck,female,23.303530613686533,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,18.0,0
+7,Day,Asphalt,Dry,Clear,2,motorcycle,female,34.82359377642015,0
+2,Day,Asphalt,Dry,Unclear,1,motorcycle,male,34.702319509667205,0
+7,Night,Asphalt,Dry,Unclear,3,motorcycle,male,25.356066513942466,1
+3,Night,Soil,Wet or Damaged,Clear,1,car,female,64.93877695512373,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,27.377497681498376,0
+3,Day,Asphalt,Dry,Unclear,3,car,female,25.642516559109996,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,33.52079700583161,0
+5,Day,Asphalt,Dry,Clear,2,car,female,49.50972732878134,0
+1,Day,Asphalt,Dry,Clear,1,truck,female,27.606395039830446,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,18.0,0
+1,Day,Soil,Wet or Damaged,Clear,1,car,male,42.96554758404694,0
+5,Night,Asphalt,Dry,Clear,3,bus,male,31.328292628620204,1
+3,Day,Soil,Wet or Damaged,Unclear,2,truck,male,41.65335632020785,0
+1,Day,Asphalt,Dry,Clear,1,car,female,36.23383089340482,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,truck,female,20.705349847873666,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,29.18097570662753,0
+2,Dawn,Asphalt,Dry,Clear,2,car,female,32.12198855685293,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,38.851189821955266,0
+7,Day,Asphalt,Dry,Clear,4,truck,male,18.0,0
+6,Day,Asphalt,Dry,Clear,1,car,male,27.9296484393617,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,female,38.35270306456651,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,male,55.96763313614311,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,truck,female,52.170541430277154,0
+1,Day,Asphalt,Dry,Clear,1,car,male,45.03656651400014,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,female,56.44905262641983,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,32.64329912163911,0
+6,Night,Asphalt,Dry,Clear,1,motorcycle,female,36.49291349909188,0
+1,Day,Asphalt,Dry,Clear,2,bus,female,18.0,0
+3,Day,Asphalt,Dry,Clear,1,car,female,47.9802209200813,0
+2,Day,Soil,Dry,Clear,1,truck,male,18.0,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,52.540905452977576,0
+5,Day,Soil,Dry,Clear,1,motorcycle,male,34.24214003230803,0
+2,Day,Asphalt,Wet or Damaged,Clear,3,car,female,51.99526286580629,0
+2,Day,Asphalt,Dry,Clear,1,car,male,51.88599566579646,0
+7,Day,Soil,Wet or Damaged,Unclear,3,truck,male,30.635967790325417,1
+2,Day,Asphalt,Dry,Clear,1,bus,female,26.894331857012112,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,32.808498199936075,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,car,male,37.444985337835575,0
+4,Dawn,Asphalt,Dry,Unclear,1,car,male,38.1250695334886,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,18.0,0
+1,Day,Asphalt,Dry,Clear,1,car,male,56.142486044899584,0
+7,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+6,Day,Asphalt,Dry,Clear,1,car,male,28.234554799340287,0
+7,Dawn,Soil,Wet or Damaged,Clear,3,bus,male,60.39598812472205,1
+3,Dawn,Asphalt,Dry,Clear,3,car,male,46.20085165425859,0
+4,Day,Asphalt,Dry,Clear,1,bus,female,29.878649238904078,0
+1,Day,Soil,Dry,Clear,2,bus,male,41.95407178330839,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,37.817741381197706,0
+7,Night,Asphalt,Dry,Clear,1,car,female,40.12139101802158,0
+5,Day,Soil,Dry,Clear,2,truck,male,43.04242233104081,0
+4,Night,Asphalt,Dry,Clear,2,car,male,41.7755076380948,0
+4,Night,Asphalt,Wet or Damaged,Unclear,2,bus,male,40.01266892869795,1
+6,Night,Asphalt,Dry,Unclear,3,car,female,35.72077244252403,1
+5,Dawn,Asphalt,Dry,Clear,2,car,male,34.638488192277656,0
+7,Day,Asphalt,Dry,Clear,1,car,female,36.94629879753053,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,19.62378725351735,0
+4,Day,Asphalt,Dry,Clear,3,car,male,25.36381473059865,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,car,female,39.316594755351915,0
+2,Day,Asphalt,Dry,Clear,3,motorcycle,male,41.867545704441845,0
+7,Day,Asphalt,Dry,Clear,4,car,male,40.29459205917482,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,32.86867854901176,0
+3,Day,Asphalt,Dry,Clear,1,car,female,51.20594900736798,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,male,26.668829625335796,0
+5,Day,Asphalt,Dry,Unclear,1,motorcycle,male,39.739364898331075,0
+7,Dawn,Soil,Dry,Clear,1,car,female,46.73285882681789,0
+4,Dawn,Asphalt,Dry,Clear,1,car,female,30.29529414722204,0
+5,Day,Soil,Dry,Clear,1,car,male,36.2693838278068,0
+4,Day,Asphalt,Wet or Damaged,Unclear,2,bus,male,34.08277255954022,1
+7,Day,Soil,Dry,Clear,3,car,male,35.89326764052014,0
+5,Day,Soil,Dry,Clear,1,motorcycle,male,25.284522588497037,0
+4,Day,Asphalt,Dry,Unclear,1,car,male,54.19254236037901,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,female,41.51674255823517,0
+3,Day,Soil,Dry,Unclear,1,car,female,35.945864000031754,0
+1,Dawn,Asphalt,Dry,Clear,3,motorcycle,female,42.10835141550531,0
+6,Night,Asphalt,Dry,Clear,1,car,female,18.0,0
+3,Day,Asphalt,Dry,Unclear,3,bus,male,36.17360023153792,1
+4,Night,Asphalt,Dry,Clear,2,motorcycle,female,30.889759146392457,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,42.025045292085366,0
+6,Day,Asphalt,Wet or Damaged,Unclear,2,car,female,60.73735562099901,0
+5,Dawn,Asphalt,Dry,Unclear,4,car,male,18.0,0
+7,Night,Asphalt,Dry,Clear,3,truck,male,25.88617830682444,0
+1,Dawn,Soil,Wet or Damaged,Clear,2,car,male,19.56526293402808,0
+7,Day,Asphalt,Dry,Clear,3,car,female,56.569015519256936,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,22.48805472430851,0
+6,Day,Asphalt,Dry,Unclear,1,truck,male,25.39951183423895,0
+4,Day,Soil,Dry,Clear,1,truck,male,39.62399409166464,0
+2,Day,Soil,Dry,Unclear,1,car,female,44.243591144414665,0
+5,Day,Soil,Dry,Clear,2,truck,female,29.20532785902677,0
+2,Day,Soil,Dry,Clear,1,motorcycle,male,46.44780571767548,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,3,car,male,20.111541226697284,0
+6,Day,Asphalt,Dry,Clear,2,car,male,41.7589032787391,0
+5,Day,Asphalt,Dry,Clear,1,car,male,49.40798528972034,0
+5,Day,Soil,Dry,Clear,1,truck,male,30.451328051854237,0
+6,Night,Asphalt,Dry,Unclear,3,car,male,33.01485721094848,1
+4,Night,Asphalt,Dry,Clear,1,car,male,30.868773392024732,0
+3,Night,Asphalt,Dry,Clear,1,truck,female,29.213678267169644,0
+5,Night,Asphalt,Dry,Clear,1,car,male,42.15267450855325,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,33.3751408260182,0
+3,Night,Asphalt,Dry,Clear,1,car,female,36.525463340827926,0
+1,Day,Soil,Dry,Clear,1,truck,male,43.67652528072085,0
+3,Day,Asphalt,Dry,Clear,3,car,male,29.162550442665523,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,37.13024077942992,0
+6,Day,Asphalt,Dry,Clear,2,bus,male,42.44640907554909,0
+6,Dawn,Soil,Dry,Clear,1,motorcycle,female,53.323208507069594,0
+7,Day,Soil,Dry,Clear,1,car,male,29.39907196736273,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,40.887174281549,0
+2,Day,Soil,Dry,Clear,1,car,male,18.0,0
+4,Day,Soil,Dry,Clear,1,bus,male,22.511095707261806,0
+4,Night,Asphalt,Dry,Clear,1,car,female,42.07152344149611,0
+5,Day,Soil,Dry,Clear,2,car,male,33.672698710794364,0
+6,Day,Asphalt,Dry,Clear,1,truck,female,32.920850752561854,0
+1,Day,Soil,Dry,Clear,1,motorcycle,male,52.62387696513191,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,female,32.1852435538044,0
+2,Dawn,Asphalt,Wet or Damaged,Unclear,1,bus,male,43.004748837328336,1
+3,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+4,Day,Asphalt,Dry,Unclear,1,car,female,44.6990439037851,0
+5,Day,Soil,Dry,Clear,3,car,male,54.61839722522108,0
+3,Day,Asphalt,Dry,Clear,4,car,male,27.464254866574606,0
+7,Night,Asphalt,Dry,Clear,1,car,male,42.382313868178166,0
+4,Day,Asphalt,Dry,Clear,2,car,male,43.876040396753865,0
+1,Night,Soil,Wet or Damaged,Clear,1,motorcycle,male,18.272371505822914,1
+3,Night,Asphalt,Wet or Damaged,Clear,1,car,male,55.773806970373684,0
+2,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,37.53074067841549,0
+1,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,26.350599230453874,0
+6,Day,Soil,Dry,Clear,2,car,male,20.11688879311625,0
+2,Day,Asphalt,Dry,Clear,1,car,male,33.22078973257539,0
+6,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+1,Night,Asphalt,Dry,Clear,1,car,female,34.42001216074194,0
+2,Day,Soil,Dry,Clear,3,truck,female,59.94172875408549,0
+2,Day,Asphalt,Dry,Unclear,1,car,female,44.80882246378752,0
+3,Day,Asphalt,Dry,Clear,1,car,male,47.182023431978685,0
+6,Night,Soil,Dry,Clear,4,car,female,32.55726287752051,0
+7,Night,Soil,Dry,Unclear,4,car,male,37.40029479130003,1
+3,Day,Asphalt,Dry,Clear,1,car,female,48.693095950718075,0
+2,Day,Asphalt,Dry,Unclear,1,car,male,36.94551311779395,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,27.111973811584757,0
+5,Day,Asphalt,Dry,Clear,1,car,male,36.48206128573017,0
+3,Dawn,Soil,Dry,Unclear,2,motorcycle,male,45.49723988154709,0
+5,Day,Asphalt,Dry,Unclear,1,bus,male,40.538002807795074,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+1,Night,Soil,Wet or Damaged,Clear,3,car,male,34.817680733892146,1
+3,Dawn,Asphalt,Wet or Damaged,Clear,3,bus,male,39.968148557415034,1
+5,Night,Asphalt,Dry,Clear,1,truck,male,36.28460635823994,0
+3,Day,Soil,Dry,Clear,3,bus,male,21.710129591493917,0
+5,Night,Asphalt,Dry,Clear,1,car,female,23.206981557210987,0
+1,Day,Asphalt,Dry,Clear,1,car,female,45.76916126526662,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,42.34578505239296,0
+6,Day,Asphalt,Dry,Clear,1,bus,female,30.94401558023386,0
+1,Night,Asphalt,Dry,Clear,1,car,female,31.670855500051218,0
+7,Day,Asphalt,Dry,Clear,1,car,male,34.690293336576424,0
+3,Dawn,Asphalt,Wet or Damaged,Unclear,1,car,female,42.923293216082634,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,18.0,0
+1,Day,Asphalt,Dry,Clear,2,motorcycle,male,18.0,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,19.13446116739613,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,28.23552694688288,0
+3,Night,Asphalt,Dry,Clear,3,car,female,36.75442710513464,0
+6,Dawn,Asphalt,Dry,Clear,1,car,male,42.04122287313278,0
+1,Day,Asphalt,Dry,Unclear,1,motorcycle,male,41.11160503001783,0
+6,Day,Asphalt,Dry,Clear,1,car,male,18.773383790969923,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,36.41205677334991,0
+7,Night,Asphalt,Dry,Clear,1,bus,female,30.05597208339293,0
+2,Day,Soil,Dry,Unclear,2,car,male,38.99276589308644,0
+4,Night,Asphalt,Wet or Damaged,Clear,2,car,female,34.25753626620783,0
+4,Day,Asphalt,Dry,Clear,3,truck,female,31.316754445165245,0
+4,Day,Soil,Dry,Unclear,1,car,male,38.74143864701177,0
+7,Day,Asphalt,Dry,Clear,3,truck,male,34.44346367655556,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,32.76273824976997,0
+7,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,38.92967422701895,0
+5,Night,Asphalt,Dry,Clear,1,truck,male,31.05229703421516,0
+5,Dawn,Asphalt,Dry,Clear,1,bus,male,33.3573546325245,0
+6,Night,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,30.845163689232052,1
+6,Day,Asphalt,Dry,Clear,1,car,female,42.48011305757342,0
+6,Day,Asphalt,Wet or Damaged,Unclear,2,car,male,47.459401944627075,0
+6,Day,Asphalt,Dry,Clear,3,car,male,60.62867308630803,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,31.70005825467703,0
+7,Day,Asphalt,Dry,Clear,3,truck,male,39.454906510179285,0
+1,Night,Asphalt,Dry,Clear,1,car,female,24.280965156915567,0
+5,Day,Soil,Dry,Clear,4,truck,female,35.94723614328232,0
+2,Day,Soil,Wet or Damaged,Clear,2,car,male,26.15582166149295,0
+3,Dawn,Asphalt,Wet or Damaged,Clear,2,motorcycle,female,39.05597744835123,0
+4,Night,Asphalt,Dry,Clear,1,car,female,28.48643300825517,0
+4,Night,Asphalt,Dry,Unclear,1,car,female,54.3363175198472,0
+2,Night,Asphalt,Dry,Clear,1,car,male,22.99936909765026,0
+2,Dawn,Asphalt,Dry,Clear,1,bus,male,47.213213300468496,0
+6,Night,Soil,Wet or Damaged,Clear,1,car,male,38.75365639985989,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,car,female,40.09827292858783,0
+6,Day,Asphalt,Dry,Clear,2,truck,male,26.857949914694885,0
+3,Night,Asphalt,Dry,Clear,2,car,male,39.28588998585774,0
+7,Day,Asphalt,Dry,Clear,1,car,male,34.33014064933152,0
+1,Dawn,Asphalt,Dry,Clear,1,car,female,28.20375782362055,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,car,female,48.55650728259285,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,27.606654319364605,0
+7,Night,Asphalt,Dry,Unclear,2,car,female,24.19735371381011,0
+3,Day,Asphalt,Dry,Unclear,1,truck,female,18.0,0
+1,Dawn,Asphalt,Dry,Clear,1,car,male,33.375375317176555,0
+5,Day,Asphalt,Dry,Clear,3,car,female,31.427490245360378,0
+3,Day,Asphalt,Dry,Clear,1,car,male,71.13584724254315,0
+6,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,51.25439438330443,1
+2,Day,Soil,Wet or Damaged,Clear,2,truck,female,44.34591073327857,0
+7,Night,Asphalt,Dry,Clear,1,car,male,28.45507256379978,0
+4,Dawn,Asphalt,Wet or Damaged,Unclear,1,car,male,35.27919676308389,0
+3,Dawn,Asphalt,Dry,Clear,1,bus,female,33.84217130447847,0
+6,Day,Asphalt,Dry,Clear,1,car,male,30.201840271691182,0
+6,Day,Asphalt,Wet or Damaged,Clear,4,bus,male,28.83915037154479,1
+6,Night,Asphalt,Dry,Clear,1,car,male,39.72446896037594,0
+2,Day,Asphalt,Dry,Clear,2,truck,male,41.191481944890405,0
+4,Day,Asphalt,Dry,Clear,2,car,male,42.08311418447181,0
+6,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,39.07063181618882,0
+1,Day,Asphalt,Wet or Damaged,Clear,3,car,male,80.0,0
+2,Day,Asphalt,Dry,Unclear,1,motorcycle,male,19.728061978583277,0
+2,Dawn,Asphalt,Dry,Clear,1,car,male,32.25115228119797,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,car,male,22.133146321818195,0
+4,Day,Asphalt,Dry,Clear,1,car,female,18.0,0
+6,Day,Soil,Wet or Damaged,Clear,3,car,male,18.0,0
+4,Dawn,Asphalt,Wet or Damaged,Clear,2,car,male,43.91590811970295,0
+4,Dawn,Soil,Dry,Clear,1,bus,male,25.64460522509711,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,33.839201225961716,0
+7,Day,Asphalt,Dry,Unclear,2,truck,male,50.676626785040305,0
+4,Dawn,Asphalt,Dry,Clear,1,car,male,36.32022458051049,0
+5,Day,Asphalt,Wet or Damaged,Clear,3,motorcycle,male,35.25865702592224,1
+3,Day,Asphalt,Dry,Clear,3,motorcycle,female,48.374626343830755,0
+3,Day,Asphalt,Dry,Clear,1,bus,male,48.71934082444494,0
+3,Day,Asphalt,Dry,Unclear,3,car,male,33.013539190967904,0
+1,Night,Asphalt,Dry,Clear,1,car,male,57.183382375042186,0
+3,Day,Asphalt,Dry,Clear,1,car,male,23.999766965979322,0
+7,Night,Asphalt,Wet or Damaged,Clear,3,bus,female,36.27259610662318,1
+1,Day,Asphalt,Dry,Clear,2,motorcycle,male,61.563334443449875,0
+7,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,29.385682709676562,0
+6,Dawn,Asphalt,Dry,Clear,1,car,female,20.457566500878002,0
+7,Day,Asphalt,Dry,Clear,1,truck,female,21.25417620920041,0
+5,Night,Asphalt,Dry,Clear,2,car,female,30.04369165141466,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,43.43627921248856,0
+7,Day,Asphalt,Dry,Clear,1,car,female,38.57924278996097,0
+6,Dawn,Asphalt,Dry,Unclear,1,car,male,41.95424649641939,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,30.99367608897481,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,47.83452349403326,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,truck,female,27.924956258621098,0
+5,Night,Soil,Wet or Damaged,Clear,3,car,male,46.424028515724515,1
+5,Day,Asphalt,Wet or Damaged,Clear,4,truck,male,35.95208915319019,0
+7,Day,Asphalt,Dry,Clear,2,car,male,30.955359350892735,0
+1,Night,Asphalt,Dry,Clear,2,car,male,30.582470173336198,0
+4,Day,Soil,Dry,Clear,2,car,female,30.852748079962975,0
+5,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Night,Asphalt,Wet or Damaged,Clear,2,truck,male,23.18602983148289,0
+3,Night,Soil,Dry,Clear,1,car,male,45.331911472340394,0
+5,Night,Asphalt,Dry,Clear,2,car,male,46.814498191339275,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,33.56272617918643,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,male,57.738140546632295,0
+5,Day,Asphalt,Dry,Clear,3,motorcycle,male,43.9331082880052,0
+6,Night,Asphalt,Dry,Clear,3,bus,male,31.89714838948971,1
+2,Day,Asphalt,Dry,Clear,4,bus,male,18.0,0
+2,Night,Soil,Dry,Clear,1,car,male,39.040729809174636,0
+3,Day,Asphalt,Wet or Damaged,Clear,3,motorcycle,male,36.441490171346835,1
+4,Night,Asphalt,Dry,Clear,3,car,female,47.342142900018914,0
+7,Dawn,Asphalt,Dry,Clear,3,car,male,31.641073779205435,0
+4,Night,Asphalt,Dry,Clear,1,bus,female,35.84866692080865,0
+3,Day,Soil,Dry,Clear,1,truck,female,36.398777934633415,0
+6,Day,Asphalt,Dry,Clear,1,bus,female,33.814273847605136,0
+3,Night,Asphalt,Dry,Unclear,1,car,male,46.57538376743288,0
+2,Day,Soil,Dry,Clear,4,truck,male,38.34687680766041,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,32.36645290374936,0
+5,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,41.03198546207424,0
+5,Day,Soil,Dry,Clear,3,truck,male,18.0,0
+7,Night,Asphalt,Dry,Clear,1,truck,male,36.9036787984798,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,20.735792578633998,0
+5,Day,Asphalt,Dry,Clear,1,car,male,36.68529832812326,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,18.0,1
+3,Day,Soil,Dry,Clear,1,car,female,46.46445926615195,0
+4,Day,Asphalt,Dry,Clear,4,car,male,33.07639980143177,0
+2,Night,Asphalt,Wet or Damaged,Unclear,4,car,male,24.181662228676547,1
+7,Day,Asphalt,Dry,Clear,2,car,male,41.71384862595373,0
+2,Dawn,Asphalt,Dry,Clear,2,motorcycle,male,19.374729332482676,0
+3,Night,Asphalt,Dry,Clear,2,motorcycle,male,20.268553133855953,0
+6,Night,Soil,Dry,Clear,1,bus,male,18.0,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,car,male,24.082979915430556,0
+2,Night,Asphalt,Dry,Clear,1,bus,male,37.565258570586025,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,53.621269972917055,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,49.368227215278274,0
+7,Day,Asphalt,Dry,Clear,4,motorcycle,female,39.59176481237223,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,41.51740517498949,0
+2,Day,Asphalt,Dry,Unclear,3,car,male,36.11265179989132,0
+2,Day,Asphalt,Dry,Clear,3,car,male,38.283973417915576,0
+1,Day,Asphalt,Dry,Unclear,2,car,male,46.96932991608675,0
+4,Night,Asphalt,Wet or Damaged,Clear,2,bus,male,44.3897431622847,1
+3,Dawn,Asphalt,Dry,Clear,1,truck,male,26.538830171254965,0
+7,Night,Asphalt,Wet or Damaged,Clear,4,truck,male,25.452993599323253,1
+3,Night,Asphalt,Dry,Clear,2,bus,male,25.083314619999154,0
+7,Day,Soil,Wet or Damaged,Clear,3,bus,female,52.814210045622964,1
+1,Night,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,18.0,1
+4,Day,Asphalt,Dry,Clear,1,motorcycle,female,36.82278208741845,0
+4,Day,Asphalt,Dry,Clear,2,car,female,27.42068007048099,0
+5,Day,Asphalt,Wet or Damaged,Unclear,3,bus,male,36.015443874939876,1
+5,Night,Soil,Dry,Unclear,1,bus,female,41.09246250532871,1
+4,Night,Asphalt,Dry,Clear,1,motorcycle,male,25.260673755924913,0
+7,Day,Asphalt,Dry,Unclear,1,car,male,22.432018379056736,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,38.53717150370449,0
+2,Night,Asphalt,Dry,Clear,1,car,male,36.391259646586,0
+1,Day,Asphalt,Dry,Clear,3,car,male,33.78050936294844,0
+6,Day,Asphalt,Dry,Clear,1,car,male,31.399984207230112,0
+1,Day,Asphalt,Dry,Clear,1,car,male,25.31153187233548,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,motorcycle,male,34.49479184955805,1
+5,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,25.572065682856504,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,35.644594092070804,0
+4,Night,Asphalt,Wet or Damaged,Clear,4,car,male,18.0,1
+1,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,44.72233527349216,0
+7,Night,Asphalt,Wet or Damaged,Clear,2,car,female,40.25598309718224,0
+2,Night,Soil,Dry,Clear,1,bus,male,18.935003106768907,0
+7,Night,Asphalt,Dry,Clear,1,car,male,26.201546664888745,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,male,26.3262843536785,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,4,motorcycle,male,19.961401120277728,1
+2,Night,Asphalt,Dry,Clear,3,car,male,36.60540518369123,0
+4,Dawn,Asphalt,Dry,Clear,1,bus,male,36.88095471880869,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,19.380560633396527,0
+6,Night,Soil,Dry,Clear,4,car,male,61.99069366641102,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,31.974829479334296,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,37.96125885750185,1
+5,Day,Asphalt,Wet or Damaged,Unclear,2,motorcycle,male,28.300742331137936,1
+1,Day,Asphalt,Dry,Clear,2,car,female,25.461149258024847,0
+5,Day,Soil,Dry,Clear,4,car,female,28.924067414744684,0
+1,Day,Soil,Dry,Clear,3,car,male,37.471449222105214,0
+7,Night,Asphalt,Dry,Unclear,3,bus,male,32.49265072534737,1
+6,Day,Asphalt,Dry,Clear,2,motorcycle,male,18.0,0
+6,Night,Asphalt,Dry,Clear,1,car,male,53.62854278970199,0
+4,Day,Asphalt,Dry,Clear,1,car,female,37.47038520305968,0
+4,Day,Soil,Wet or Damaged,Clear,1,car,male,54.99244696277058,0
+7,Day,Asphalt,Dry,Unclear,1,truck,male,32.907408578448724,0
+5,Day,Soil,Dry,Clear,2,car,female,26.26809733424068,0
+2,Day,Asphalt,Dry,Clear,3,bus,male,42.03015956538574,0
+6,Night,Asphalt,Dry,Clear,1,car,male,49.684519918551814,0
+7,Night,Asphalt,Dry,Clear,1,car,female,26.151004665024544,0
+3,Day,Soil,Dry,Clear,1,bus,male,38.56950977751357,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,38.371904128392806,0
+7,Day,Asphalt,Wet or Damaged,Unclear,3,motorcycle,male,46.5453093666227,1
+3,Night,Asphalt,Wet or Damaged,Clear,1,car,female,18.0,0
+7,Day,Soil,Dry,Clear,1,car,male,28.265338078047897,0
+3,Day,Asphalt,Dry,Unclear,1,car,male,38.408105829585864,0
+2,Day,Asphalt,Dry,Clear,1,car,male,29.22436576899537,0
+1,Day,Asphalt,Dry,Clear,1,car,female,29.32321183986384,0
+2,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,69.25619722806582,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,car,male,42.4881932652012,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,car,male,37.453185318455965,0
+1,Night,Asphalt,Wet or Damaged,Unclear,2,car,male,52.31015297312743,1
+1,Day,Soil,Dry,Clear,2,car,female,43.25880010219305,0
+3,Day,Soil,Dry,Clear,4,truck,female,44.08792018526846,0
+6,Day,Asphalt,Dry,Clear,2,truck,female,46.35581019875263,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,42.79198172065807,0
+6,Day,Asphalt,Dry,Clear,1,bus,female,18.0,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,car,male,35.58029364386923,0
+5,Night,Asphalt,Dry,Clear,2,truck,male,25.82385593580559,0
+4,Night,Asphalt,Dry,Clear,1,car,male,38.32803820243962,0
+1,Day,Soil,Dry,Clear,1,car,female,27.198911574638522,0
+4,Day,Asphalt,Dry,Clear,1,car,male,43.21703209503047,0
+7,Day,Soil,Dry,Clear,1,bus,male,23.866321245763178,0
+3,Night,Asphalt,Wet or Damaged,Clear,3,motorcycle,male,30.376673599528413,1
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,18.0,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,22.978075786745983,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,18.0,0
+2,Day,Asphalt,Dry,Clear,2,car,male,51.49059571209528,0
+4,Day,Asphalt,Dry,Unclear,1,car,female,32.96286330660448,0
+4,Day,Asphalt,Dry,Unclear,2,car,male,51.89649940045339,0
+6,Night,Soil,Dry,Clear,1,motorcycle,male,46.81678074147343,0
+1,Night,Asphalt,Dry,Clear,3,car,female,47.636148877069104,0
+2,Day,Asphalt,Dry,Clear,1,car,female,43.53916163720173,0
+1,Dawn,Soil,Dry,Unclear,1,car,female,37.23999768711748,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,24.061747218607508,0
+4,Night,Soil,Dry,Unclear,3,motorcycle,male,31.8358286504441,1
+4,Night,Soil,Dry,Clear,2,motorcycle,male,23.249422478307665,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,female,21.877334288836284,0
+6,Day,Soil,Dry,Clear,1,bus,male,37.50266362505667,0
+4,Day,Asphalt,Dry,Clear,2,bus,male,51.57747645528721,0
+7,Day,Soil,Wet or Damaged,Unclear,1,bus,male,25.43963304212324,1
+5,Day,Asphalt,Dry,Unclear,3,truck,male,30.93538180271267,0
+6,Dawn,Asphalt,Dry,Clear,1,car,female,45.94989111856065,0
+1,Night,Asphalt,Wet or Damaged,Unclear,1,truck,male,52.73713782605086,1
+3,Day,Soil,Dry,Clear,3,car,male,25.65163368308801,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,55.32737698829751,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,female,34.99033569599711,0
+4,Day,Asphalt,Dry,Clear,4,car,male,41.2446560314553,0
+7,Day,Asphalt,Dry,Clear,1,bus,female,18.763088664397028,0
+4,Day,Soil,Dry,Clear,4,bus,male,32.01840548311125,0
+3,Day,Asphalt,Dry,Clear,1,car,male,71.71647525301586,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,44.57251162073111,0
+6,Night,Asphalt,Dry,Clear,2,car,male,18.294849420490614,0
+6,Day,Asphalt,Dry,Clear,2,truck,female,27.63522364335768,0
+7,Day,Asphalt,Dry,Clear,3,bus,male,33.78743934760603,0
+5,Day,Soil,Dry,Clear,1,car,male,37.80223948014001,0
+6,Day,Asphalt,Dry,Clear,1,car,male,50.41306630891828,0
+6,Day,Asphalt,Dry,Clear,1,truck,female,35.40574035477626,0
+2,Night,Asphalt,Dry,Clear,2,car,male,53.31286519558007,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,21.900915064937138,0
+6,Day,Asphalt,Dry,Unclear,3,car,male,18.0,0
+4,Day,Asphalt,Dry,Clear,1,car,male,24.964482431217128,0
+1,Day,Soil,Dry,Clear,1,truck,male,24.518381724030355,0
+2,Dawn,Asphalt,Dry,Clear,1,truck,male,26.458296396867112,0
+2,Day,Asphalt,Dry,Clear,2,car,male,22.318730386303763,0
+1,Day,Soil,Dry,Clear,3,car,female,31.09240121382656,0
+2,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,25.529982352054652,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,41.318710615007554,0
+1,Dawn,Soil,Dry,Clear,2,car,female,21.613065414641568,0
+6,Day,Soil,Dry,Clear,1,motorcycle,female,46.54409229916502,0
+5,Day,Asphalt,Dry,Clear,2,truck,male,28.24667371967719,0
+2,Night,Asphalt,Dry,Clear,4,truck,male,23.065899791792603,0
+2,Night,Asphalt,Dry,Clear,3,car,male,56.54930931931887,0
+5,Day,Asphalt,Dry,Clear,1,car,male,25.122799886624016,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+3,Day,Asphalt,Dry,Clear,3,bus,female,46.634050800769,0
+3,Day,Asphalt,Dry,Clear,2,car,male,20.62682021200408,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,male,44.25587654053122,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,female,39.92396103854713,0
+3,Night,Asphalt,Dry,Clear,1,bus,male,52.92518979633586,0
+1,Day,Asphalt,Dry,Clear,2,car,male,36.66807544343824,0
+7,Day,Asphalt,Dry,Clear,2,car,female,40.287214610993495,0
+5,Day,Soil,Dry,Clear,1,bus,male,26.005445135033046,0
+7,Night,Asphalt,Dry,Clear,1,motorcycle,male,60.214893337637314,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,25.918143086767763,0
+1,Day,Asphalt,Wet or Damaged,Unclear,2,motorcycle,male,27.67464557460961,1
+4,Day,Soil,Dry,Clear,1,car,male,37.834159662295306,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,36.415592698777296,0
+4,Night,Soil,Dry,Clear,1,car,female,45.75753104204291,0
+3,Night,Asphalt,Dry,Clear,1,car,male,39.09866377317463,0
+4,Night,Asphalt,Dry,Unclear,1,car,male,45.715075715499864,0
+3,Day,Soil,Dry,Clear,1,truck,male,30.959536149448553,0
+1,Day,Soil,Dry,Clear,3,truck,male,40.8877464844758,0
+7,Night,Soil,Dry,Clear,1,truck,male,44.76033895672656,0
+4,Day,Asphalt,Dry,Clear,1,car,female,60.46069466712753,0
+4,Day,Asphalt,Dry,Clear,2,car,male,28.64550257672917,0
+2,Day,Soil,Dry,Clear,1,car,female,52.88105305817574,0
+4,Day,Asphalt,Dry,Unclear,1,motorcycle,male,30.375067847279155,0
+3,Night,Soil,Wet or Damaged,Clear,1,car,male,26.402157001383422,0
+5,Dawn,Asphalt,Dry,Clear,2,bus,female,49.937150256038066,0
+1,Day,Asphalt,Dry,Unclear,2,bus,male,18.0,0
+4,Night,Asphalt,Dry,Clear,2,car,male,45.26952934503931,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,car,male,28.62701837594489,0
+3,Day,Asphalt,Dry,Clear,1,car,female,21.54596221135847,0
+2,Night,Asphalt,Dry,Clear,3,truck,male,61.390077531949984,0
+7,Night,Asphalt,Dry,Clear,2,truck,male,37.691236898961904,0
+2,Day,Asphalt,Dry,Clear,2,car,female,20.744403111652613,0
+3,Day,Soil,Dry,Clear,3,car,female,37.783469259276615,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,18.0,0
+6,Day,Asphalt,Dry,Clear,4,car,male,40.91330665241017,0
+7,Dawn,Soil,Dry,Clear,1,truck,male,47.83415407059776,0
+6,Night,Asphalt,Dry,Clear,1,bus,male,37.133536753178454,0
+2,Day,Soil,Dry,Clear,3,car,male,24.007215401180144,0
+4,Night,Soil,Dry,Unclear,1,car,female,22.58489824209942,0
+6,Night,Asphalt,Dry,Clear,1,bus,male,39.54577777077025,0
+6,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,36.96240447323386,1
+7,Day,Soil,Dry,Unclear,2,bus,male,28.997206203507826,0
+7,Night,Asphalt,Dry,Clear,1,car,male,52.07211117887972,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,65.5475023493484,0
+4,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,54.494107149707304,0
+2,Night,Asphalt,Dry,Clear,1,truck,female,34.47245266995115,0
+4,Day,Asphalt,Dry,Clear,1,car,female,33.983003419511554,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,40.88532514882495,0
+3,Day,Asphalt,Dry,Clear,1,truck,female,43.20401340967001,0
+3,Day,Asphalt,Dry,Unclear,1,car,female,18.0,0
+2,Night,Asphalt,Dry,Clear,1,car,female,35.19844832013854,0
+4,Day,Asphalt,Dry,Unclear,2,car,female,18.0,0
+3,Day,Asphalt,Dry,Clear,3,bus,female,39.51069405138559,0
+5,Dawn,Asphalt,Dry,Clear,1,car,male,26.140477404334593,0
+4,Night,Asphalt,Dry,Clear,3,motorcycle,female,37.12127377684076,1
+1,Night,Asphalt,Dry,Clear,2,bus,female,42.98587776024303,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,24.13499534299566,0
+1,Day,Asphalt,Dry,Clear,1,car,male,23.54779681014101,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,18.0,0
+7,Night,Soil,Dry,Clear,2,car,male,34.53342037271805,0
+2,Day,Asphalt,Dry,Clear,2,car,male,30.56520305752528,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,female,44.09638144430538,0
+4,Day,Asphalt,Dry,Clear,1,car,male,25.178943662308114,0
+5,Day,Asphalt,Dry,Clear,3,car,male,37.65418692183197,0
+7,Day,Asphalt,Dry,Clear,3,bus,male,18.0,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,male,43.14026851886759,0
+7,Night,Asphalt,Dry,Clear,1,car,female,49.14564455512921,0
+2,Dawn,Soil,Wet or Damaged,Clear,3,car,female,20.055434087777627,0
+1,Day,Asphalt,Dry,Unclear,3,bus,male,40.91429149659015,1
+3,Day,Asphalt,Dry,Unclear,3,car,male,22.651367734712057,0
+6,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,42.2816487010717,1
+3,Day,Soil,Dry,Clear,1,car,male,47.84866738350816,0
+5,Night,Soil,Dry,Clear,3,car,male,20.47550295518308,0
+4,Dawn,Asphalt,Dry,Clear,1,truck,male,18.0,0
+4,Day,Soil,Dry,Unclear,2,truck,male,33.35830926224169,0
+1,Night,Asphalt,Dry,Clear,4,car,female,37.55981748405415,0
+7,Day,Asphalt,Dry,Clear,4,car,male,28.674170508891333,0
+5,Night,Asphalt,Dry,Clear,1,truck,male,40.39699245417326,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,19.954079155168728,0
+3,Night,Asphalt,Dry,Clear,1,bus,male,29.500789849673467,0
+7,Night,Asphalt,Dry,Clear,3,truck,male,27.197826176883382,0
+4,Day,Asphalt,Dry,Clear,1,car,male,30.69648001948814,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,44.14922560639005,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,female,53.993802989849954,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,car,male,39.8854316052099,0
+3,Night,Asphalt,Dry,Clear,1,car,male,28.30126724786304,0
+7,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,37.99511716830296,0
+6,Day,Soil,Dry,Clear,2,car,male,53.02782882289372,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,male,33.34326254048471,0
+7,Day,Asphalt,Dry,Clear,1,motorcycle,female,42.52133330810266,0
+3,Night,Asphalt,Dry,Clear,1,car,male,21.780745347337252,0
+2,Day,Asphalt,Dry,Clear,3,car,male,30.01175409946203,0
+4,Day,Asphalt,Dry,Clear,3,truck,male,29.022574071741783,0
+5,Night,Asphalt,Dry,Clear,3,bus,male,64.16364096237561,1
+1,Dawn,Asphalt,Dry,Clear,1,truck,male,42.00224878246496,0
+5,Day,Soil,Dry,Clear,3,bus,female,28.585604063913532,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,46.60858209196948,0
+1,Dawn,Asphalt,Dry,Clear,1,car,female,57.43137544384894,0
+1,Day,Asphalt,Dry,Unclear,2,motorcycle,male,30.050196839587258,0
+7,Day,Asphalt,Dry,Clear,2,car,male,27.318230627273962,0
+5,Day,Asphalt,Dry,Unclear,3,motorcycle,male,25.188874065841876,1
+5,Day,Soil,Wet or Damaged,Clear,1,car,female,37.516235112672625,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,car,male,50.55763696412309,0
+7,Night,Asphalt,Dry,Clear,1,car,female,38.77496436984924,0
+6,Day,Soil,Dry,Clear,1,bus,male,33.16166622207264,0
+7,Night,Asphalt,Dry,Clear,1,car,male,23.36170564717569,0
+2,Night,Asphalt,Dry,Clear,1,car,male,28.311012188515356,0
+3,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,30.482373582694315,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,motorcycle,male,52.921381420866766,1
+6,Night,Asphalt,Dry,Unclear,1,motorcycle,female,52.034641515774624,1
+6,Night,Asphalt,Dry,Clear,1,car,male,33.7687077569129,0
+1,Night,Asphalt,Dry,Clear,1,car,male,21.807867046564045,0
+6,Dawn,Asphalt,Dry,Clear,1,motorcycle,female,53.648509602422976,0
+1,Day,Soil,Dry,Clear,1,motorcycle,female,18.0,0
+6,Day,Asphalt,Dry,Clear,1,car,female,53.54631850710949,0
+1,Day,Asphalt,Dry,Clear,1,car,male,36.387734873510986,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,37.00228046951922,0
+5,Day,Soil,Dry,Unclear,1,car,male,37.81988240212829,0
+2,Day,Asphalt,Dry,Clear,2,car,female,29.242188631623833,0
+1,Day,Soil,Wet or Damaged,Unclear,1,truck,male,49.492335956705,0
+4,Day,Asphalt,Wet or Damaged,Clear,3,motorcycle,male,22.155522279708745,1
+1,Day,Soil,Dry,Clear,2,bus,male,46.667618183233515,0
+1,Night,Asphalt,Dry,Clear,1,truck,female,43.06497008721763,0
+7,Day,Asphalt,Dry,Unclear,1,truck,female,30.73652239980789,0
+4,Day,Asphalt,Dry,Clear,2,motorcycle,male,30.124175918769875,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,29.022378821797986,0
+6,Night,Asphalt,Dry,Clear,1,car,female,28.86568838274855,0
+6,Night,Asphalt,Dry,Clear,2,truck,male,42.50794884003241,0
+6,Night,Asphalt,Dry,Unclear,2,motorcycle,male,41.73422290329449,1
+3,Day,Soil,Dry,Clear,2,car,male,37.051946166685006,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,male,45.08251736855879,0
+5,Day,Asphalt,Dry,Clear,1,car,male,30.63582473506529,0
+4,Day,Asphalt,Dry,Unclear,1,bus,male,44.07815504343665,0
+7,Day,Asphalt,Dry,Unclear,1,car,male,22.09556862082508,0
+5,Night,Soil,Dry,Unclear,1,bus,male,22.17062929885353,1
+4,Night,Asphalt,Dry,Clear,1,truck,female,68.61692453863014,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,18.0,0
+4,Day,Asphalt,Dry,Clear,2,truck,male,39.241579055228286,0
+6,Day,Asphalt,Dry,Unclear,1,car,male,39.583942074841616,0
+3,Day,Asphalt,Dry,Clear,1,car,female,39.61136947193836,0
+3,Night,Asphalt,Dry,Clear,3,bus,male,30.65903896203194,1
+6,Day,Asphalt,Dry,Clear,3,car,male,32.470690385037315,0
+5,Day,Soil,Dry,Clear,4,bus,male,33.34654624038465,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,bus,female,49.671671023147624,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,26.433895552982086,1
+1,Day,Asphalt,Dry,Clear,1,car,male,42.855688729466934,0
+3,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,26.026178036975338,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,female,26.18670688195548,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,car,male,38.81443574211193,0
+4,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,34.04331444528823,1
+1,Day,Asphalt,Dry,Unclear,1,motorcycle,male,23.59019618467171,0
+2,Day,Asphalt,Wet or Damaged,Clear,2,car,female,40.3838428574193,0
+3,Night,Asphalt,Dry,Clear,1,bus,male,59.10206881146533,0
+6,Day,Asphalt,Dry,Clear,3,car,male,18.894017741417063,0
+3,Night,Asphalt,Dry,Clear,1,truck,female,30.83889215290561,0
+5,Night,Asphalt,Dry,Clear,1,car,male,27.204555944339326,0
+3,Day,Asphalt,Dry,Clear,2,truck,female,20.133696849311264,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,20.50334447841717,0
+4,Night,Asphalt,Dry,Clear,1,car,male,23.502267748853775,0
+2,Dawn,Soil,Dry,Clear,1,car,male,27.59399559274732,0
+6,Day,Soil,Dry,Clear,1,car,male,18.0,0
+1,Night,Soil,Dry,Clear,3,car,male,45.407241747800235,0
+5,Day,Asphalt,Dry,Clear,1,bus,female,34.67927736603813,0
+7,Day,Asphalt,Dry,Clear,4,car,female,28.49170141624697,0
+4,Day,Asphalt,Dry,Clear,2,car,female,23.893770218865285,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,22.83346676733489,0
+4,Day,Soil,Dry,Clear,1,car,male,18.0,0
+2,Night,Asphalt,Dry,Clear,3,truck,male,49.77468227576714,0
+5,Dawn,Asphalt,Dry,Clear,1,car,female,48.334746976069965,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,male,18.0,0
+2,Day,Soil,Dry,Clear,1,car,male,18.0,0
+7,Night,Asphalt,Dry,Clear,1,car,female,37.09907293292778,0
+7,Day,Asphalt,Dry,Clear,1,car,female,38.78888541312612,0
+7,Day,Asphalt,Dry,Clear,2,car,female,33.197989969816696,0
+4,Day,Asphalt,Dry,Clear,2,car,male,32.44903712011126,0
+1,Day,Asphalt,Dry,Unclear,2,car,female,33.429201024552086,0
+4,Night,Asphalt,Dry,Clear,1,car,male,18.0,0
+3,Night,Soil,Dry,Clear,1,bus,female,19.825481285824754,0
+6,Day,Asphalt,Dry,Clear,1,car,female,26.52593413167306,0
+1,Day,Asphalt,Dry,Clear,1,truck,female,29.69674713353275,0
+2,Day,Asphalt,Dry,Clear,1,truck,male,46.03846010581893,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,42.915518817959565,0
+5,Day,Asphalt,Dry,Clear,2,bus,male,29.77635154546816,0
+7,Day,Asphalt,Dry,Clear,1,car,male,49.216316800376596,0
+7,Day,Soil,Dry,Clear,2,truck,male,30.744254923666748,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,male,42.813524728187495,0
+6,Night,Asphalt,Dry,Clear,1,truck,male,46.86811669380917,0
+5,Day,Asphalt,Dry,Clear,3,bus,male,42.05261674585604,0
+2,Day,Asphalt,Dry,Unclear,2,car,male,24.040018969929637,0
+1,Day,Soil,Dry,Clear,1,car,female,28.000524768868686,0
+6,Day,Asphalt,Dry,Clear,3,car,female,32.04327397021816,0
+6,Day,Asphalt,Dry,Clear,1,car,male,39.32688982785779,0
+2,Night,Soil,Dry,Unclear,1,bus,male,41.306104648814134,1
+5,Night,Asphalt,Dry,Clear,1,car,male,54.17687895248543,0
+1,Night,Asphalt,Dry,Clear,1,truck,male,43.246116875434474,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,34.7869601776584,0
+5,Night,Asphalt,Wet or Damaged,Unclear,1,bus,male,41.41079417058739,1
+1,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,25.280708677078152,0
+5,Dawn,Soil,Dry,Clear,1,motorcycle,male,27.502793488292394,0
+1,Dawn,Soil,Wet or Damaged,Clear,3,bus,female,56.44521088863981,1
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,male,35.72696748606917,0
+2,Night,Soil,Dry,Clear,1,truck,female,37.490526492276764,0
+6,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,24.18696405777093,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,35.66996832105732,1
+7,Night,Soil,Wet or Damaged,Clear,2,car,male,29.66688176079699,0
+3,Night,Soil,Dry,Clear,3,car,female,35.80156574939005,0
+1,Dawn,Asphalt,Dry,Clear,1,car,male,49.70048772061625,0
+5,Day,Soil,Dry,Clear,1,car,male,37.49601071834694,0
+2,Night,Asphalt,Dry,Clear,1,bus,male,20.61291989648293,0
+2,Night,Asphalt,Dry,Unclear,1,motorcycle,female,25.963509328682463,1
+5,Day,Asphalt,Dry,Clear,2,truck,male,25.258709993292626,0
+5,Day,Soil,Dry,Clear,3,car,male,31.448451817896604,0
+2,Day,Asphalt,Dry,Unclear,1,car,male,48.52693210990948,0
+3,Night,Asphalt,Dry,Clear,2,car,female,33.368796492181595,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,truck,male,41.281748649125376,0
+6,Dawn,Asphalt,Dry,Clear,2,motorcycle,female,37.5334068526505,0
+7,Night,Asphalt,Dry,Unclear,2,motorcycle,male,46.42170542412363,1
+2,Night,Asphalt,Dry,Clear,3,car,male,31.97255186172582,0
+7,Night,Asphalt,Wet or Damaged,Clear,2,car,male,23.325014775603435,0
+7,Day,Asphalt,Dry,Clear,2,car,female,30.704626196770878,0
+5,Night,Asphalt,Dry,Clear,1,car,male,44.68230197127691,0
+1,Day,Soil,Dry,Clear,1,car,male,37.920278576692574,0
+6,Day,Asphalt,Dry,Clear,1,truck,female,36.1495712729238,0
+6,Day,Soil,Dry,Unclear,4,car,female,49.09687828440212,0
+1,Night,Soil,Wet or Damaged,Clear,1,car,male,18.0,0
+6,Day,Asphalt,Wet or Damaged,Clear,2,bus,male,27.299275808688478,0
+1,Dawn,Soil,Dry,Clear,2,truck,female,42.164188147259296,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,1,car,male,51.186350373643464,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,car,female,31.274599922491483,0
+5,Day,Asphalt,Dry,Clear,1,car,male,30.96799661485916,0
+2,Dawn,Asphalt,Dry,Clear,1,truck,female,28.510667148284607,0
+7,Dawn,Asphalt,Dry,Clear,1,motorcycle,male,43.81420094862109,0
+7,Day,Asphalt,Dry,Clear,3,bus,male,36.157592295588074,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,motorcycle,male,47.749907653980266,0
+7,Day,Soil,Dry,Unclear,2,truck,female,30.940771922394042,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,37.48429346916817,0
+7,Night,Soil,Dry,Clear,3,car,female,18.0,0
+1,Day,Asphalt,Wet or Damaged,Clear,2,car,male,30.542792496441027,0
+5,Night,Soil,Wet or Damaged,Clear,1,car,female,63.58361763072295,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,36.66673004832373,0
+3,Day,Asphalt,Dry,Clear,1,car,male,23.28309750326073,0
+6,Day,Asphalt,Wet or Damaged,Unclear,2,car,male,18.274928516917026,0
+6,Day,Asphalt,Dry,Clear,1,car,male,38.99797887137416,0
+5,Night,Asphalt,Wet or Damaged,Clear,4,car,male,34.64177783314725,1
+1,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,27.951828556725502,0
+1,Night,Asphalt,Dry,Clear,1,car,male,21.673287398647716,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,56.58477522352784,0
+1,Day,Soil,Dry,Clear,3,car,male,42.869142787026746,0
+6,Day,Asphalt,Dry,Clear,1,car,male,21.927183216671978,0
+6,Day,Asphalt,Dry,Clear,4,car,male,48.80150425767505,0
+4,Day,Soil,Dry,Clear,2,bus,male,42.08798231744797,0
+4,Day,Soil,Wet or Damaged,Unclear,3,car,male,36.391457005760046,1
+1,Night,Asphalt,Dry,Clear,2,car,female,27.13662159116679,0
+5,Night,Asphalt,Dry,Clear,4,bus,male,37.66343694522626,1
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,female,29.78283708197427,0
+5,Day,Asphalt,Dry,Clear,1,car,female,40.7043080987925,0
+4,Day,Asphalt,Dry,Clear,1,motorcycle,female,30.232631584985096,0
+6,Night,Asphalt,Dry,Clear,3,bus,male,31.788611106980262,1
+2,Night,Soil,Wet or Damaged,Unclear,1,car,male,55.76151194823329,1
+1,Day,Soil,Wet or Damaged,Clear,1,truck,female,44.96389596654327,0
+6,Night,Asphalt,Dry,Clear,2,truck,female,24.204455258773887,0
+3,Day,Asphalt,Dry,Clear,2,bus,female,44.86698109144365,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,41.279594838122435,0
+7,Day,Asphalt,Dry,Clear,3,motorcycle,male,31.352460466535263,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,18.916001529594286,0
+6,Night,Soil,Dry,Clear,1,car,female,45.29119441411852,0
+4,Night,Asphalt,Dry,Clear,1,motorcycle,male,25.8908154095285,0
+2,Night,Asphalt,Wet or Damaged,Clear,2,truck,male,43.989770141506476,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,35.54670532960525,0
+2,Night,Asphalt,Dry,Clear,1,car,male,56.155620730437384,0
+6,Day,Soil,Dry,Clear,2,motorcycle,male,40.371723682365484,0
+1,Day,Asphalt,Dry,Clear,1,car,male,37.46488329441197,0
+7,Day,Asphalt,Dry,Clear,1,car,male,25.45203358246183,0
+2,Dawn,Asphalt,Dry,Clear,4,bus,male,29.94127959973454,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,truck,female,34.92511348673254,0
+4,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,25.273549266647727,1
+6,Day,Asphalt,Dry,Clear,3,car,female,56.95447876148544,0
+1,Day,Soil,Dry,Unclear,3,truck,female,27.927928902940053,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,car,male,30.1379028617187,0
+3,Day,Soil,Dry,Clear,3,car,male,69.89379001289707,0
+5,Day,Asphalt,Dry,Clear,2,car,male,48.312967785790015,0
+1,Night,Asphalt,Dry,Clear,2,truck,female,42.95720582957109,0
+5,Day,Asphalt,Wet or Damaged,Clear,1,car,male,33.30805082567024,0
+5,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,25.907121011065307,0
+4,Day,Asphalt,Wet or Damaged,Unclear,3,car,female,32.11920178718547,1
+6,Day,Asphalt,Dry,Clear,1,truck,male,32.926618525287516,0
+5,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,32.330328292043895,0
+6,Dawn,Asphalt,Wet or Damaged,Clear,1,truck,male,33.53701088453298,0
+5,Day,Soil,Dry,Clear,1,truck,male,44.1285876005069,0
+2,Day,Asphalt,Dry,Clear,1,motorcycle,female,38.257534244013044,0
+3,Day,Asphalt,Dry,Unclear,1,car,female,48.543802746243,0
+6,Night,Asphalt,Dry,Clear,1,car,female,33.567431577365134,0
+6,Dawn,Asphalt,Wet or Damaged,Clear,1,car,female,33.492560471886385,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,22.177109684108828,0
+5,Dawn,Asphalt,Dry,Clear,1,truck,female,29.346769243841923,0
+5,Day,Asphalt,Dry,Unclear,1,car,female,25.813092145369723,0
+3,Day,Asphalt,Dry,Clear,1,truck,female,29.08985731321723,0
+2,Dawn,Asphalt,Dry,Clear,3,car,male,40.8736699525419,0
+4,Night,Asphalt,Wet or Damaged,Clear,2,truck,male,43.466533609545905,0
+2,Day,Asphalt,Dry,Clear,3,car,female,25.24977178527422,0
+1,Night,Asphalt,Dry,Clear,2,car,male,46.64983528900537,0
+2,Night,Soil,Dry,Clear,2,car,male,40.431153509905656,0
+6,Day,Soil,Dry,Clear,1,truck,female,41.597001142673996,0
+5,Night,Asphalt,Wet or Damaged,Clear,1,truck,male,31.55350544256735,0
+1,Night,Asphalt,Wet or Damaged,Clear,1,car,female,45.705540383594226,0
+3,Day,Asphalt,Wet or Damaged,Clear,4,car,male,18.0,0
+6,Night,Asphalt,Dry,Clear,1,bus,male,26.125173439046215,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,53.712385189730135,0
+7,Day,Asphalt,Dry,Clear,1,bus,male,35.94625649328508,0
+3,Night,Asphalt,Dry,Clear,2,car,male,22.275922099302253,0
+3,Day,Soil,Dry,Clear,3,motorcycle,male,24.65483547506249,0
+7,Night,Asphalt,Dry,Clear,1,car,female,37.03733684323264,0
+6,Night,Asphalt,Dry,Clear,2,motorcycle,male,22.02853068813781,0
+4,Day,Asphalt,Dry,Unclear,2,motorcycle,male,30.01461391681372,0
+2,Night,Asphalt,Wet or Damaged,Clear,1,motorcycle,female,54.72357626416097,1
+7,Day,Asphalt,Dry,Clear,1,bus,male,43.36312957303338,0
+2,Day,Asphalt,Wet or Damaged,Unclear,3,truck,male,26.208249304728795,1
+1,Dawn,Asphalt,Dry,Clear,2,motorcycle,male,37.52209420943902,0
+2,Day,Soil,Dry,Clear,1,car,female,36.56164301239646,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,truck,male,19.513246719200783,0
+4,Day,Soil,Dry,Clear,1,car,male,49.009394967404006,0
+3,Night,Asphalt,Wet or Damaged,Clear,4,car,male,39.24028777347561,1
+7,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,41.19315251555516,0
+6,Day,Asphalt,Dry,Unclear,3,car,female,25.226880425082467,0
+7,Day,Soil,Dry,Clear,1,car,female,35.71020599957949,0
+5,Dawn,Soil,Dry,Unclear,4,bus,female,33.17370197374834,1
+3,Night,Asphalt,Dry,Clear,1,truck,female,24.90203356592321,0
+7,Day,Soil,Dry,Clear,4,motorcycle,female,52.99531025576571,0
+1,Day,Asphalt,Wet or Damaged,Clear,1,bus,male,37.108091984472395,0
+2,Night,Soil,Wet or Damaged,Clear,4,motorcycle,male,18.0,1
+2,Day,Asphalt,Dry,Clear,2,car,male,42.1750382815249,0
+4,Day,Asphalt,Wet or Damaged,Clear,4,car,female,18.0,0
+1,Dawn,Asphalt,Wet or Damaged,Unclear,4,car,male,18.0,1
+7,Day,Asphalt,Dry,Clear,3,car,male,33.06957491201843,0
+6,Day,Asphalt,Dry,Clear,3,car,male,42.60852479864671,0
+4,Day,Asphalt,Dry,Clear,1,car,male,37.0708993735494,0
+2,Dawn,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,34.39524591746051,0
+7,Night,Asphalt,Dry,Clear,1,car,male,29.875902544335858,0
+5,Night,Asphalt,Dry,Clear,2,truck,male,28.926340927375822,0
+7,Day,Asphalt,Wet or Damaged,Clear,3,truck,male,18.16631799801275,0
+5,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,31.21730082642146,0
+4,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,29.59027652106586,0
+1,Day,Asphalt,Wet or Damaged,Clear,3,car,male,56.707110049017146,0
+4,Day,Asphalt,Dry,Unclear,1,motorcycle,female,54.039930348027994,0
+6,Night,Asphalt,Dry,Clear,1,car,female,35.070821267411446,0
+5,Day,Asphalt,Dry,Clear,1,motorcycle,female,47.5705452150318,0
+4,Day,Asphalt,Dry,Clear,2,car,male,19.657861984733493,0
+4,Day,Asphalt,Dry,Unclear,1,bus,male,20.421781358778105,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,25.999222202578096,0
+4,Dawn,Asphalt,Dry,Clear,1,car,female,37.77591313211852,0
+3,Night,Asphalt,Wet or Damaged,Unclear,4,truck,male,47.416600928298266,1
+1,Night,Asphalt,Dry,Clear,2,car,female,42.51938959078254,0
+1,Night,Asphalt,Dry,Clear,1,car,male,36.42626012529392,0
+4,Day,Asphalt,Wet or Damaged,Clear,1,car,male,47.82832874443792,0
+4,Day,Asphalt,Dry,Clear,2,car,male,18.0,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,26.43567845409822,0
+2,Day,Asphalt,Dry,Clear,1,car,male,36.864242923267554,0
+3,Day,Soil,Dry,Clear,1,car,male,74.20664211502176,0
+2,Night,Asphalt,Dry,Clear,2,truck,male,58.861477742073106,0
+1,Day,Asphalt,Wet or Damaged,Unclear,3,car,female,18.0,1
+1,Day,Asphalt,Dry,Unclear,2,car,female,35.02526301647807,0
+3,Night,Soil,Dry,Clear,3,car,male,46.04823166266396,0
+2,Night,Soil,Dry,Clear,3,car,female,51.52872790038502,0
+1,Night,Asphalt,Dry,Clear,1,bus,female,34.50253579025598,0
+5,Day,Asphalt,Dry,Clear,1,truck,male,40.77840247417259,0
+6,Day,Asphalt,Dry,Clear,1,bus,male,27.632165734632878,0
+4,Day,Asphalt,Dry,Clear,2,bus,male,43.350838633887584,0
+7,Day,Asphalt,Dry,Unclear,1,car,male,22.100623113733054,0
+7,Night,Asphalt,Dry,Clear,1,car,male,48.29507057020309,0
+7,Day,Asphalt,Dry,Clear,1,truck,male,36.67636795540408,0
+3,Day,Asphalt,Dry,Clear,1,motorcycle,female,37.36672077025038,0
+1,Night,Soil,Dry,Clear,1,car,male,44.680170850799605,0
+3,Dawn,Soil,Wet or Damaged,Unclear,1,truck,female,30.11100674366135,0
+4,Day,Asphalt,Dry,Unclear,1,motorcycle,female,37.360250342838995,0
+5,Day,Asphalt,Dry,Clear,1,truck,female,41.996972202220334,0
+5,Day,Asphalt,Wet or Damaged,Clear,2,car,male,34.44356538063143,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,34.45706556282735,0
+1,Day,Soil,Dry,Clear,1,car,male,33.558818565100395,0
+4,Dawn,Asphalt,Wet or Damaged,Clear,3,motorcycle,female,18.0,1
+6,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,32.923141401469316,0
+2,Night,Asphalt,Dry,Clear,4,truck,male,29.92625437647449,0
+6,Dawn,Asphalt,Dry,Clear,1,car,male,49.510107169637195,0
+2,Day,Asphalt,Dry,Clear,2,car,female,62.77806730549221,0
+2,Night,Asphalt,Wet or Damaged,Clear,3,truck,male,26.529415525021022,1
+2,Night,Asphalt,Dry,Clear,1,car,male,31.373239558376827,0
+3,Night,Asphalt,Dry,Clear,1,motorcycle,male,38.593765459099046,0
+5,Night,Asphalt,Dry,Clear,1,car,male,25.418457004617903,0
+6,Day,Asphalt,Dry,Clear,1,motorcycle,female,72.61598397709557,0
+3,Dawn,Asphalt,Wet or Damaged,Clear,2,truck,male,48.29336704276372,0
+5,Day,Asphalt,Dry,Clear,1,bus,male,41.81436061692435,0
+2,Day,Asphalt,Dry,Unclear,1,car,female,50.76310260180779,0
+1,Dawn,Asphalt,Wet or Damaged,Clear,3,car,male,43.18327056373871,0
+7,Night,Asphalt,Wet or Damaged,Clear,1,bus,male,27.678529517271,1
+6,Day,Asphalt,Dry,Clear,2,truck,female,30.5364827177877,0
+2,Day,Soil,Wet or Damaged,Clear,2,truck,male,24.74859225118572,0
+6,Day,Asphalt,Wet or Damaged,Clear,1,car,female,18.0,0
+6,Night,Asphalt,Wet or Damaged,Unclear,1,car,male,46.75635324729177,1
+3,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,48.80747442408495,0
+5,Night,Asphalt,Dry,Unclear,2,truck,male,35.32124879306043,0
+5,Day,Asphalt,Dry,Unclear,1,bus,male,18.0,0
+3,Day,Asphalt,Wet or Damaged,Clear,1,motorcycle,male,26.67146668382077,0
+2,Day,Soil,Dry,Unclear,1,motorcycle,male,37.44334645270669,0
+5,Night,Asphalt,Dry,Clear,2,truck,female,23.521864254604395,0
+1,Night,Asphalt,Dry,Clear,1,bus,male,25.96567110633975,0
+5,Day,Asphalt,Dry,Clear,2,car,female,41.08019417417689,0
+7,Day,Asphalt,Dry,Unclear,1,car,male,54.40824081011721,0
+6,Night,Soil,Dry,Clear,2,car,male,24.061334634810926,0
+5,Day,Asphalt,Dry,Unclear,1,motorcycle,male,36.11791257092732,0
+4,Night,Asphalt,Dry,Clear,1,car,female,44.169068678608,0
+2,Day,Asphalt,Dry,Unclear,1,car,male,28.81718519613227,0
+3,Day,Asphalt,Dry,Clear,1,truck,male,49.26129436921897,0
+5,Night,Soil,Dry,Clear,1,car,female,19.483548019841418,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,35.96204013282856,0
+2,Day,Soil,Dry,Clear,1,truck,male,46.65871536255165,0
+6,Day,Asphalt,Dry,Clear,2,bus,male,63.649955874491255,0
+7,Day,Asphalt,Dry,Clear,1,car,male,57.993157114458946,0
+1,Night,Asphalt,Wet or Damaged,Clear,2,motorcycle,female,47.05426609749138,1
+2,Night,Asphalt,Dry,Clear,3,motorcycle,male,34.21013297711192,1
+3,Day,Asphalt,Dry,Clear,1,motorcycle,male,21.768371827067803,0
+6,Day,Asphalt,Dry,Unclear,1,car,male,18.0,0
+3,Day,Asphalt,Dry,Clear,1,car,male,24.93899251093209,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,male,59.21977885167061,0
+2,Day,Asphalt,Dry,Clear,1,car,male,28.079770105101254,0
+6,Day,Asphalt,Dry,Clear,3,truck,male,42.65544299834539,0
+7,Night,Asphalt,Wet or Damaged,Clear,2,car,male,26.46440124140361,0
+7,Day,Asphalt,Wet or Damaged,Clear,1,car,female,48.05490192376906,0
+1,Night,Asphalt,Dry,Clear,1,truck,male,39.76984175870028,0
+2,Day,Asphalt,Dry,Clear,1,bus,male,55.04849003587375,0
+5,Night,Asphalt,Dry,Unclear,1,car,male,42.776332530367,0
+5,Dawn,Asphalt,Dry,Clear,2,truck,male,29.52406336477869,0
+2,Day,Soil,Wet or Damaged,Clear,3,car,male,52.59183407163884,0
+7,Night,Asphalt,Dry,Unclear,1,car,male,36.1500545355851,0
+7,Night,Asphalt,Dry,Unclear,3,truck,male,44.638706726294245,1
+6,Day,Asphalt,Dry,Clear,2,truck,female,18.141377498298468,0
+5,Day,Asphalt,Wet or Damaged,Unclear,1,car,female,43.32906157752473,0
+2,Day,Asphalt,Dry,Unclear,2,truck,male,47.53030102924774,0
+4,Day,Asphalt,Dry,Clear,1,car,male,18.0,0
+1,Day,Asphalt,Dry,Clear,1,car,male,21.73318160578701,0
+4,Day,Soil,Dry,Clear,1,car,male,44.55392507165519,0
+7,Night,Soil,Dry,Clear,1,bus,male,38.99762410182008,0
+2,Night,Soil,Dry,Clear,1,bus,female,33.17178788070591,0
+2,Day,Asphalt,Dry,Clear,1,car,female,56.1598744249767,0
+6,Day,Asphalt,Dry,Clear,1,truck,male,19.640754477072825,0
+5,Night,Asphalt,Dry,Clear,2,car,male,40.47107358784458,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,24.95452511464365,0
+6,Day,Asphalt,Wet or Damaged,Clear,2,car,female,50.880368712448885,0
+4,Night,Asphalt,Dry,Clear,1,car,female,49.64963117288309,0
+1,Dawn,Asphalt,Dry,Clear,1,truck,male,28.976723545707785,0
+1,Day,Asphalt,Dry,Clear,1,bus,male,39.37445734915083,0
+2,Day,Soil,Dry,Clear,1,motorcycle,male,18.0,0
+6,Day,Soil,Dry,Unclear,2,car,male,33.2650596086643,0
+2,Night,Soil,Dry,Clear,3,motorcycle,male,33.948731254394716,1
+6,Day,Asphalt,Dry,Clear,1,bus,male,57.60659389306469,0
+1,Night,Asphalt,Dry,Clear,2,car,male,33.65477644710786,0
+6,Day,Asphalt,Dry,Unclear,1,truck,male,18.309382348227324,0
+1,Day,Asphalt,Dry,Clear,1,truck,male,39.7735947523974,0
+2,Day,Soil,Wet or Damaged,Clear,3,car,male,18.0,0
+6,Night,Asphalt,Dry,Clear,4,truck,male,22.702106869635372,0
+7,Day,Asphalt,Wet or Damaged,Clear,3,car,female,28.926848269632742,0
+7,Night,Asphalt,Dry,Clear,1,car,female,42.40132228060073,0
+1,Dawn,Asphalt,Dry,Clear,1,car,female,46.31707681923922,0
+2,Dawn,Asphalt,Dry,Clear,2,bus,female,27.641066262928017,0
+2,Dawn,Asphalt,Dry,Clear,2,car,male,40.49390066954132,0
+3,Day,Asphalt,Dry,Clear,1,car,male,43.64729612188496,0
+7,Day,Asphalt,Wet or Damaged,Unclear,2,car,male,35.83049898906839,0
+4,Day,Asphalt,Dry,Clear,1,car,female,35.49813383169854,0
+3,Day,Asphalt,Dry,Clear,3,car,male,50.12362263051339,0
+2,Day,Asphalt,Wet or Damaged,Clear,1,car,female,26.538847319773186,0
+1,Dawn,Asphalt,Dry,Clear,2,truck,male,30.001044191167068,0
+2,Night,Asphalt,Dry,Clear,1,car,female,37.43268803436054,0
+2,Dawn,Asphalt,Dry,Unclear,3,car,male,24.633378265334763,0
+1,Day,Asphalt,Dry,Clear,1,motorcycle,male,34.47489043346281,0
+5,Day,Asphalt,Dry,Unclear,1,car,male,39.231276608149905,0
+7,Day,Soil,Dry,Clear,1,motorcycle,female,21.958875862389647,0
+4,Day,Asphalt,Dry,Clear,1,bus,male,46.33558122937778,0
+7,Day,Asphalt,Wet or Damaged,Clear,2,car,female,42.392893341100866,0
+7,Day,Asphalt,Wet or Damaged,Unclear,1,car,male,21.10754310143248,0
+7,Night,Asphalt,Dry,Clear,1,truck,female,18.0,0
+2,Night,Asphalt,Dry,Clear,1,car,male,31.480897438451912,0
+2,Day,Soil,Dry,Clear,1,bus,male,46.19374684311765,0
+2,Night,Asphalt,Dry,Clear,1,truck,male,46.479410034154085,0
+5,Day,Asphalt,Dry,Clear,1,car,male,40.11380499712201,0
+2,Day,Soil,Wet or Damaged,Clear,1,car,male,22.98066171277763,0
+1,Night,Asphalt,Dry,Unclear,1,bus,female,36.91969388302411,1
+5,Day,Asphalt,Dry,Clear,1,bus,male,42.94841064364725,0
+2,Night,Asphalt,Dry,Clear,2,car,female,28.294583942855482,0
+4,Day,Asphalt,Dry,Clear,2,car,female,44.795153617669875,0
